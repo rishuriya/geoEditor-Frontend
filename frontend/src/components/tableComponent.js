@@ -1,8 +1,33 @@
 import React from "react";
+import { Button, Spinner } from "flowbite-react";
 
-export default function tableComponent() {
+function RowComponent(props) {
   return (
-    <div className="w-2/3 h-[650px] bg-slate-50">
+    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+      <th
+        scope="row"
+        class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+      >
+        {props.wiki}
+      </th>
+      <td class="px-6 py-4">{props.country}</td>
+      <td class="px-6 py-4">{props.year}</td>
+      <td class="px-6 py-4">{props.value}</td>
+    </tr>
+  );
+}
+
+function Loader() {
+  return (
+    <div className="flex flex-row gap-3">
+      <Spinner aria-label="Extra large spinner example" size="xl" />
+    </div>
+  );
+}
+
+export default function tableComponent({ data }) {
+  return (
+    <div className="w-2/3 h-[650px] bg-slate-200 rounded-md mx-3">
       <div className="font-semibold text-xl px-2 m-2">Table</div>
 
       <div class="relative overflow-x-auto mx-5 rounded-lg">
@@ -16,47 +41,44 @@ export default function tableComponent() {
                 Country
               </th>
               <th scope="col" class="px-6 py-3">
-                Activity level
+                year
               </th>
               <th scope="col" class="px-6 py-3">
-                month
+                value
               </th>
             </tr>
           </thead>
           <tbody>
-            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-              <th
-                scope="row"
-                class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
-              >
-                Apple MacBook Pro 17"
-              </th>
-              <td class="px-6 py-4">Silver</td>
-              <td class="px-6 py-4">Laptop</td>
-              <td class="px-6 py-4">$2999</td>
-            </tr>
-            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
-              <th
-                scope="row"
-                class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
-              >
-                Microsoft Surface Pro
-              </th>
-              <td class="px-6 py-4">White</td>
-              <td class="px-6 py-4">Laptop PC</td>
-              <td class="px-6 py-4">$1999</td>
-            </tr>
-            <tr class="bg-white dark:bg-gray-800">
-              <th
-                scope="row"
-                class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
-              >
-                Magic Mouse 2
-              </th>
-              <td class="px-6 py-4">Black</td>
-              <td class="px-6 py-4">Accessories</td>
-              <td class="px-6 py-4">$99</td>
-            </tr>
+            <RowComponent
+              wiki="wiki1"
+              country="country1"
+              year="year1"
+              value="value1"
+            />
+            <RowComponent
+              wiki="wiki2"
+              country="country2"
+              year="year2"
+              value="value2"
+            />
+            <RowComponent
+              wiki="wiki3"
+              country="country3"
+              year="year3"
+              value="value3"
+            />
+            <RowComponent
+              wiki="wiki4"
+              country="country4"
+              year="year4"
+              value="value4"
+            />
+            <RowComponent
+              wiki="wiki5"
+              country="country5"
+              year="year5"
+              value="value5"
+            />
           </tbody>
         </table>
       </div>

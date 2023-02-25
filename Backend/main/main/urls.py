@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from geolocator.views import  getGeoData
+from geolocator.views import  getGeoData, getParamList
 
 urlpatterns = [
     path('admin/', admin.site.urls),
      path('api/getGeoData/', getGeoData),
+     path('api/getParamList/', getParamList),
 ]

@@ -34,3 +34,9 @@ def getGeoData(request):
     return response.Response(serializer.data)
 
     
+@api_view(['GET'])
+def getParamList():
+    wikiList = GeoData.objects.values_list('wiki', flat=True).distinct()
+    countryList = GeoData.objects.values_list('country', flat=True).distinct()
+    yearList = GeoData.objects.values_list('year', flat=True).distinct()
+    return response.Response({'wiki': wikiList, 'country': countryList, 'year': yearList})
