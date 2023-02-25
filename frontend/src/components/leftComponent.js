@@ -28,7 +28,7 @@ export default function LeftComponent() {
           for="large"
           class="block mb-2 text-base font-medium text-gray-900 dark:text-gray-400 mx-10"
         >
-          Select Month
+          Select Wiki
         </label>
         <select
           id="large"
