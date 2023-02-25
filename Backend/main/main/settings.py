@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'django_cron',
     'geolocator',
     'rest_framework',
     'django.contrib.admin',
@@ -100,7 +101,9 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
+CRON_CLASSES = [
+    'geolocator.cron.CronJob',
+]
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
