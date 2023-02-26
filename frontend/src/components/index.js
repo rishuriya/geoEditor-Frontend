@@ -55,9 +55,7 @@ export default function GeoLocator() {
     setWiki: setWiki,
     setYear: setYear,
     setCountry: setCountry,
-    wiki: wiki,
-    year: year,
-    country: country,
+    data: data,
   }
   
   return (

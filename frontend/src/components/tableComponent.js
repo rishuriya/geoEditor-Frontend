@@ -8,7 +8,7 @@ function RowComponent(props) {
     <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
       <th
         scope="row"
-        class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white"
+        class="px-6 py-4 font-semibold text-base text-gray-900 whitespace-nowrap dark:text-white"
       >
         {props.wiki}
       </th>
@@ -16,6 +16,7 @@ function RowComponent(props) {
       <td class="px-6 py-4">{props.year}</td>
       <td class="px-6 py-4">{props.upper_bound}</td>
       <td class="px-6 py-4">{props.lower_bound}</td>
+      <td class="px-6 py-4">{props.mean}</td>
     </tr>
   );
 }
@@ -36,8 +37,8 @@ export default function TableComponent({ data }) {
 
   if(data.length === 0){
     return (
-      <div className="w-2/3 h-[750px]">
-        <div className="bg-slate-200 rounded-md mx-3 h-[640px]">
+      <div className="w-10/12 h-[800px] mx-auto ">
+        <div className="bg-slate-200 rounded-md h-[650px]">
           <div className="font-semibold text-xl px-2 m-2 pt-3">Table</div>
           <div className="flex justify-center items-center h-full">
             <p className="font-semibold text-xl">No Data Available</p>
@@ -48,13 +49,13 @@ export default function TableComponent({ data }) {
   }
   else{
     return (
-      <div className="w-10/12 h-[750px] mx-auto ">
-        <div className="bg-slate-200 rounded-md h-[640px]">
-          <div className="font-semibold text-xl px-2 m-2 pt-3">Table</div>
-  
+      <div className="w-10/12 h-[800px] mx-auto ">
+        <div className="bg-slate-200 rounded-md h-[650px]">
+          <div className="font-semibold text-xl px-2 m-2 pt-3"></div>
+
           <div class="relative overflow-x-auto mx-5 rounded-lg">
-            <table class="w-full max-h-[700px] overflow-auto text-sm text-left text-gray-500 dark:text-gray-400">
-              <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+            <table class="w-full max-h-[650px] overflow-auto text-sm text-left text-gray-500 dark:text-gray-400">
+              <thead class="text-sm text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                 <tr>
                   <th scope="col" class="px-6 py-3">
                     wiki
@@ -71,6 +72,9 @@ export default function TableComponent({ data }) {
                   <th scope="col" class="px-6 py-3">
                     lower bound
                   </th>
+                  <th scope="col" class="px-6 py-3">
+                    mean
+                  </th>
                 </tr>
               </thead>
               <tbody>
@@ -82,6 +86,7 @@ export default function TableComponent({ data }) {
                     year={data.year}
                     lower_bound={data.lower_bound}
                     upper_bound={data.upper_bound}
+                    mean={data.value}
                   />
                 ))}
               </tbody>
@@ -99,7 +104,7 @@ export default function TableComponent({ data }) {
             nextClassName={'px-3 py-1 bg-blue-500 text-white rounded-md'}
             pageClassName={'px-3 py-1 bg-gray-300 rounded-md'}
             pageLinkClassName={'text-black-700'}
-            activeClassName={'px-3 py-1 bg-red-500 text-white rounded-md'}
+            activeClassName={'px-3 py-1 bg-teal-500 text-white rounded-md'}
           />
         </div>
       </div>

@@ -8,8 +8,8 @@ function App() {
       version="1.1"
       id="Wikimedia logo"
       viewBox="-599 -599 1198 1198"
-      width="34"
-      height="34"
+      width="42"
+      height="42"
     >
       <defs>
         <clipPath id="mask">
@@ -34,7 +34,7 @@ function App() {
     <div className="App bg-white h-screen">
       <header className="App-header flex flex-row items-center px-5">
         <>{wikiLogo}</>
-        <h1 className="font-extrabold mb-5 my-5 px-2 text-gray-900 text-xl">
+        <h1 className="font-extrabold mb-5 my-5 px-2 text-gray-900 text-2xl">
           WikiGeoLocator
         </h1>
       </header>
