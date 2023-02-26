@@ -109,9 +109,9 @@ export default function TableComponent({ data }) {
             containerClassName={'flex flex-row space-x-2 mt-4'}
             previousClassName={'px-3 py-1 bg-blue-500 text-white rounded-md'}
             nextClassName={'px-3 py-1 bg-blue-500 text-white rounded-md'}
-            pageClassName={'px-3 py-1 bg-gray-200 rounded-md'}
-            pageLinkClassName={'text-gray-700'}
-            activeClassName={'bg-blue-700 text-white'}
+            pageClassName={'px-3 py-1 bg-gray-300 rounded-md'}
+            pageLinkClassName={'text-black-700'}
+            activeClassName={'px-3 py-1 bg-red-500 text-white rounded-md'}
           />
         </div>
       </div>

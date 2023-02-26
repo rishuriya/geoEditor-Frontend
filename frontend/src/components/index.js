@@ -26,7 +26,7 @@ export default function GeoLocator() {
     console.log(wiki)
     console.log(year)
     console.log(country)
-    data1=fetchData()
+    fetchData()
     fetchList()
     console.log(wikiList,"b")
   }, [wiki, year, country])
