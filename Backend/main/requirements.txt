@@ -4,6 +4,7 @@ Django==4.1.7
 sqlparse==0.4.3
 bs4
 pandas
+django_cron
 djangorestframework
 django-crontab
 django-cors-headers

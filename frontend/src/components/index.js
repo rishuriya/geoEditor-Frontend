@@ -17,29 +17,28 @@ export default function GeoLocator() {
   const [data, setData] = React.useState([])
 
   useEffect(() => {
-    console.log('useEffect')
+    console.log('useEffect1')
     fetchList()
-  })
-  var data1 = []
+  },[])
 
   useEffect(() => {
-    console.log('useEffect')
-    console.log(wiki)
-    console.log(year)
-    console.log(country)
-    data1=fetchData()
-    fetchList()
-    console.log(wikiList,"b")
-  }, [wiki, year, country, data])
+    console.log('useEffect2')
+    // console.log(wiki)
+    // console.log(year)
+    // console.log(country)
+    fetchData()
+    // fetchList()
+    // console.log(wikiList,"b")
+  }, [wiki, year, country])
 
   const fetchData = async () => {
     const param =  "getGeoData/?wiki=" + wiki + "&year=" + year + "&country=" + country;
-    const fetch_url = api_url + param
-    console.log(fetch_url)
+    const fetch_url = api_url + param;
+    console.log("fetch_url",fetch_url)
     const response = await fetch(fetch_url)
     const data = await response.json()
+    console.log("Data",data)
     setData(data)
-    return data
   }
 
   const fetchList = async () => {
@@ -47,7 +46,7 @@ export default function GeoLocator() {
     const fetch_url = api_url + param
     const response = await fetch(fetch_url)
     const data = await response.json()
-    console.log(data[0])
+    console.log("List data",data[0])
     setWikiList(data[0].wiki)
     setYearList(data[0].year)
     setCountryList(data[0].country)
@@ -69,7 +68,6 @@ export default function GeoLocator() {
     <div className='flex flex-row'>
       <LeftComponent leftProps={leftProps}/>
       <TableComponent data={data}/>
-
     </div>
   )
 }
