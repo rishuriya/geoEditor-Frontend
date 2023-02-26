@@ -14,7 +14,8 @@ function RowComponent(props) {
       </th>
       <td class="px-6 py-4">{props.country}</td>
       <td class="px-6 py-4">{props.year}</td>
-      <td class="px-6 py-4">{props.value}</td>
+      <td class="px-6 py-4">{props.upper_bound}</td>
+      <td class="px-6 py-4">{props.lower_bound}</td>
     </tr>
   );
 }
@@ -26,10 +27,6 @@ export default function TableComponent({ data }) {
   const ROWS_PER_PAGE = 10;
   const offset = currentPage * ROWS_PER_PAGE;
 
-  // useEffect(() => {
-  //   setCurrentPage(0);
-  // }, [data]);
-
   const handlePageClick = ({ selected: selectedPage }) => {
     setCurrentPage(selectedPage);
   };
@@ -37,14 +34,13 @@ export default function TableComponent({ data }) {
   const pageCount = Math.ceil(data.length / ROWS_PER_PAGE);
   const paginatedData = data.slice(offset, offset + ROWS_PER_PAGE);
 
-  // console.log("data new", data);
   if(data.length === 0){
     return (
       <div className="w-2/3 h-[750px]">
         <div className="bg-slate-200 rounded-md mx-3 h-[640px]">
           <div className="font-semibold text-xl px-2 m-2 pt-3">Table</div>
           <div className="flex justify-center items-center h-full">
-            <p>No Data Available</p>
+            <p className="font-semibold text-xl">No Data Available</p>
           </div>
         </div>
       </div>
@@ -52,8 +48,8 @@ export default function TableComponent({ data }) {
   }
   else{
     return (
-      <div className="w-2/3 h-[750px]">
-        <div className="bg-slate-200 rounded-md mx-3 h-[640px]">
+      <div className="w-10/12 h-[750px] mx-auto ">
+        <div className="bg-slate-200 rounded-md h-[640px]">
           <div className="font-semibold text-xl px-2 m-2 pt-3">Table</div>
   
           <div class="relative overflow-x-auto mx-5 rounded-lg">
@@ -70,30 +66,22 @@ export default function TableComponent({ data }) {
                     year
                   </th>
                   <th scope="col" class="px-6 py-3">
-                    value
+                    upper bound
+                  </th>
+                  <th scope="col" class="px-6 py-3">
+                    lower bound
                   </th>
                 </tr>
               </thead>
               <tbody>
-              {/* <RowComponent
-                wiki="wiki1"
-                country="country1"
-                year="year1"
-                value="value1"
-              />
-              <RowComponent
-                wiki="wiki3"
-                country="country3"
-                year="year3"
-                value="value3"
-              /> */}
                 {paginatedData.map((data) => (
                   <RowComponent
                     key={data.id}
                     wiki={data.wiki}
                     country={data.country}
                     year={data.year}
-                    value={data.value}
+                    lower_bound={data.lower_bound}
+                    upper_bound={data.upper_bound}
                   />
                 ))}
               </tbody>

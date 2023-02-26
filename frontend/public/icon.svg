@@ -1,9 +1,4 @@
-import React from "react";
-import GeoLocator from "./components";
-
-function App() {
-  const wikiLogo = (
-    <svg
+<svg
       xmlns="http://www.w3.org/2000/svg"
       version="1.1"
       id="Wikimedia logo"
@@ -28,21 +23,3 @@ function App() {
       </g>
       <circle fill="#900" cy="-379.5" r="184.5" id="red circle" />
     </svg>
-  );
-
-  return (
-    <div className="App bg-white h-screen">
-      <header className="App-header flex flex-row items-center px-5">
-        <>{wikiLogo}</>
-        <h1 className="font-extrabold mb-5 my-5 px-2 text-gray-900 text-xl">
-          WikiGeoLocator
-        </h1>
-      </header>
-      <main className="">
-        <GeoLocator />
-      </main>
-    </div>
-  );
-}
-
-export default App;
