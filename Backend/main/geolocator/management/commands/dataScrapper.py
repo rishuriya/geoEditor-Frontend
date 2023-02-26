@@ -22,7 +22,6 @@ class Command(BaseCommand):
                 df = pd.read_csv("dataDump/{}".format(link.get('href')), sep='\t', names=headers)
                 df["month"]=link.get('href')[19:26]
                 tsvFile.append(df)
-
         merged_df = pd.concat(tsvFile)
         merged_df['year'] = pd.to_datetime(merged_df.month, format='%Y-%m')
         merged_df['year'] = merged_df['year'].apply(lambda x: x.year)
@@ -34,6 +33,9 @@ class Command(BaseCommand):
         agg2['mean'] = (agg2['lower_bound'] + agg2['upper_bound'])/2
         agg2.to_csv('masterData.csv', index=True)
 
+        df=pd.read_csv('masterData.csv')
+        df=df.drop(['lower_bound', 'upper_bound'], axis=1)
+        df.to_csv('masterData.csv', index=False)
         GeoData.objects.all().delete()
 
         # Read data from CSV file into a pandas DataFrame
@@ -46,9 +48,8 @@ class Command(BaseCommand):
         for item in data:
             obj = GeoData(
                 country=item['country'],
-                lower_bound=item['lower_bound'],
-                upper_bound=item['upper_bound'],
+                wiki=item['wiki'],
                 year=item['year'],
-                mean=item['mean']
+                value=item['mean']
             )
             obj.save()

@@ -5,4 +5,5 @@ sqlparse==0.4.3
 bs4
 pandas
 djangorestframework
-jango-crontab
+django-crontab
+django-cors-headers

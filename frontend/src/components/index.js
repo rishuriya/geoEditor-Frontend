@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react'
 import LeftComponent from './leftComponent'
 import TableComponent from './tableComponent'
-
+import { Button, Spinner } from "flowbite-react";
 export default function GeoLocator() {
 
   // let api_url = 'http://127.0.0.1:8000/api/getGeoData/?wiki=All&year=2023&country=India'
-  let api_url = 'http://127.0 0 1:8000/api/'
+  let api_url = 'http://127.0.0.1:8000/api/'
 
   const [wiki, setWiki] = React.useState('All')
   const [year, setYear] = React.useState('All')
@@ -20,21 +20,26 @@ export default function GeoLocator() {
     console.log('useEffect')
     fetchList()
   })
+  var data1 = []
 
   useEffect(() => {
     console.log('useEffect')
     console.log(wiki)
     console.log(year)
     console.log(country)
-    fetchData()
-  }, [wiki, year, country])
+    data1=fetchData()
+    fetchList()
+    console.log(wikiList,"b")
+  }, [wiki, year, country, data])
 
   const fetchData = async () => {
     const param =  "getGeoData/?wiki=" + wiki + "&year=" + year + "&country=" + country;
     const fetch_url = api_url + param
+    console.log(fetch_url)
     const response = await fetch(fetch_url)
     const data = await response.json()
-    console.log(data)
+    setData(data)
+    return data
   }
 
   const fetchList = async () => {
@@ -42,10 +47,10 @@ export default function GeoLocator() {
     const fetch_url = api_url + param
     const response = await fetch(fetch_url)
     const data = await response.json()
-    console.log(data)
-    setWikiList(data.wikiList)
-    setYearList(data.yearList)
-    setCountryList(data.countryList)
+    console.log(data[0])
+    setWikiList(data[0].wiki)
+    setYearList(data[0].year)
+    setCountryList(data[0].country)
   }
 
   const leftProps = {
@@ -60,7 +65,6 @@ export default function GeoLocator() {
     country: country,
   }
   
-
   return (
     <div className='flex flex-row'>
       <LeftComponent leftProps={leftProps}/>
@@ -69,3 +73,4 @@ export default function GeoLocator() {
     </div>
   )
 }
+

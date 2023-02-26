@@ -4,7 +4,6 @@ import Filter from "./filter";
 export default function LeftComponent({leftProps}) {
 
   const { wikiList, yearList, countryList, setWiki, setYear, setCountry, wiki, year, country } = leftProps
-
   return (
     <div className="w-1/3 items-center ">
       <div className="bg-slate-200 mx-auto max-w-sm rounded-md my-auto p-2">

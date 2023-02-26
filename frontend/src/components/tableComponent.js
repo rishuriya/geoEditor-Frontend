@@ -1,5 +1,7 @@
 import React from "react";
 import { Button, Spinner } from "flowbite-react";
+import { useState } from 'react';
+import ReactPaginate from 'react-paginate';
 
 function RowComponent(props) {
   return (
@@ -17,71 +19,71 @@ function RowComponent(props) {
   );
 }
 
-function Loader() {
-  return (
-    <div className="flex flex-row gap-3">
-      <Spinner aria-label="Extra large spinner example" size="xl" />
-    </div>
-  );
-}
 
-export default function tableComponent({ data }) {
-  return (
-    <div className="w-2/3 h-[650px] bg-slate-200 rounded-md mx-3">
-      <div className="font-semibold text-xl px-2 m-2">Table</div>
 
-      <div class="relative overflow-x-auto mx-5 rounded-lg">
-        <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-          <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
-            <tr>
-              <th scope="col" class="px-6 py-3">
-                wiki
-              </th>
-              <th scope="col" class="px-6 py-3">
-                Country
-              </th>
-              <th scope="col" class="px-6 py-3">
-                year
-              </th>
-              <th scope="col" class="px-6 py-3">
-                value
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <RowComponent
-              wiki="wiki1"
-              country="country1"
-              year="year1"
-              value="value1"
-            />
-            <RowComponent
-              wiki="wiki2"
-              country="country2"
-              year="year2"
-              value="value2"
-            />
-            <RowComponent
-              wiki="wiki3"
-              country="country3"
-              year="year3"
-              value="value3"
-            />
-            <RowComponent
-              wiki="wiki4"
-              country="country4"
-              year="year4"
-              value="value4"
-            />
-            <RowComponent
-              wiki="wiki5"
-              country="country5"
-              year="year5"
-              value="value5"
-            />
-          </tbody>
-        </table>
+export default function TableComponent({ data }) {
+  const [currentPage, setCurrentPage] = useState(0);
+  const ROWS_PER_PAGE = 10;
+  const offset = currentPage * ROWS_PER_PAGE;
+
+  const handlePageClick = ({ selected: selectedPage }) => {
+    setCurrentPage(selectedPage);
+  };
+
+  const pageCount = Math.ceil(data.length / ROWS_PER_PAGE);
+  const paginatedData = data.slice(offset, offset + ROWS_PER_PAGE);
+
+  return (
+    <div className="w-2/3 h-[750px]">
+      <div className="bg-slate-200 rounded-md mx-3 h-[640px]">
+        <div className="font-semibold text-xl px-2 m-2 pt-3">Table</div>
+
+        <div class="relative overflow-x-auto mx-5 rounded-lg">
+          <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+            <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+              <tr>
+                <th scope="col" class="px-6 py-3">
+                  wiki
+                </th>
+                <th scope="col" class="px-6 py-3">
+                  Country
+                </th>
+                <th scope="col" class="px-6 py-3">
+                  year
+                </th>
+                <th scope="col" class="px-6 py-3">
+                  value
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              {paginatedData.map((data) => (
+                <RowComponent
+                  wiki={data.wiki}
+                  country={data.country}
+                  year={data.year}
+                  value={data.value}
+                />
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div className="mx-5 my-5">
+        <ReactPaginate
+          previousLabel={'<'}
+          nextLabel={'>'}
+          pageCount={pageCount}
+          onPageChange={handlePageClick}
+          containerClassName={'flex flex-row space-x-2 mt-4'}
+          previousClassName={'px-3 py-1 bg-blue-500 text-white rounded-md'}
+          nextClassName={'px-3 py-1 bg-blue-500 text-white rounded-md'}
+          pageClassName={'px-3 py-1 bg-gray-200 rounded-md'}
+          pageLinkClassName={'text-gray-700'}
+          activeClassName={'bg-blue-700 text-white'}
+        />
       </div>
     </div>
+
   );
 }

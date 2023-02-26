@@ -3,3 +3,4 @@ Backend/main/dataDump/*
 Backend/wikienv
 
 Backend/venv
+.vscode/launch.json
