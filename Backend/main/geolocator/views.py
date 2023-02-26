@@ -30,6 +30,8 @@ def getGeoData(request):
         data = GeoData.objects.filter(wiki=wiki, year=year)
     elif year=="All":
         data = GeoData.objects.filter(wiki=wiki, country=country)
+    else:
+        data = GeoData.objects.filter(wiki=wiki, country=country, year=year)
     serializer = GeoDataSerializer(data, many=True)
     return response.Response(serializer.data)
 
@@ -39,4 +41,4 @@ def getParamList(request):
     wikiList = GeoData.objects.values_list('wiki', flat=True).distinct()
     countryList = GeoData.objects.values_list('country', flat=True).distinct()
     yearList = GeoData.objects.values_list('year', flat=True).distinct()
-    return response.Response([{'wiki': wikiList, 'country': countryList, 'year': yearList}])
+    return response.Response([{'wikiList': wikiList, 'countryList': countryList, 'yearList': yearList}])

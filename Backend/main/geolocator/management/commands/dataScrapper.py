@@ -34,8 +34,7 @@ class Command(BaseCommand):
         agg2.to_csv('masterData.csv', index=True)
 
         df=pd.read_csv('masterData.csv')
-        df=df.drop(['lower_bound', 'upper_bound'], axis=1)
-        df.to_csv('masterData.csv', index=False)
+
         GeoData.objects.all().delete()
 
         # Read data from CSV file into a pandas DataFrame
@@ -50,6 +49,8 @@ class Command(BaseCommand):
                 country=item['country'],
                 wiki=item['wiki'],
                 year=item['year'],
+                lower_bound=item['lower_bound'],
+                upper_bound=item['upper_bound'],
                 value=item['mean']
             )
             obj.save()

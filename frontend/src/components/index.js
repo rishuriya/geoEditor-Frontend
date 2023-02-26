@@ -22,13 +22,13 @@ export default function GeoLocator() {
   },[])
 
   useEffect(() => {
-    console.log('useEffect2')
-    // console.log(wiki)
-    // console.log(year)
-    // console.log(country)
-    fetchData()
-    // fetchList()
-    // console.log(wikiList,"b")
+    console.log('useEffect')
+    console.log(wiki)
+    console.log(year)
+    console.log(country)
+    data1=fetchData()
+    fetchList()
+    console.log(wikiList,"b")
   }, [wiki, year, country])
 
   const fetchData = async () => {
@@ -46,10 +46,10 @@ export default function GeoLocator() {
     const fetch_url = api_url + param
     const response = await fetch(fetch_url)
     const data = await response.json()
-    console.log("List data",data[0])
-    setWikiList(data[0].wiki)
-    setYearList(data[0].year)
-    setCountryList(data[0].country)
+    console.log(data[0])
+    setWikiList(data[0].wikiList)
+    setYearList(data[0].yearList)
+    setCountryList(data[0].countryList)
   }
 
   const leftProps = {

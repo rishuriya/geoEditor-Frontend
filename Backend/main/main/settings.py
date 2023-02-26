@@ -36,6 +36,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 # )
 
 INSTALLED_APPS = [
+    'django_crontab',
     'django_cron',
     'geolocator',
     'corsheaders',
@@ -133,3 +134,7 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CRONJOBS = [
+    ('*/5 * * * *', 'geolocator.cron.CronJob'),
+]

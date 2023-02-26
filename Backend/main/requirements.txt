@@ -7,4 +7,5 @@ pandas
 django_cron
 djangorestframework
 django-crontab
+django-cron
 django-cors-headers
