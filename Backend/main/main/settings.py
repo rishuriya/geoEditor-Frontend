@@ -136,5 +136,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CRONJOBS = [
-    ('*/5 * * * *', 'geolocator.cron.CronJob'),
+    ('* * * * 6', 'geolocator.cron.CronJob'),
 ]
