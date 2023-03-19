@@ -33089,87 +33089,123 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Albania,alswiki,1,10,5.5
 2023,Albania,barwiki,1,10,5.5
 2023,Albania,bgwiki,1,10,5.5
-2023,Albania,enwiki,52,70,61.0
+2023,Albania,emlwiki,1,10,5.5
+2023,Albania,enwiki,47,65,56.0
 2023,Albania,eswiki,1,10,5.5
 2023,Albania,fawiki,1,10,5.5
+2023,Albania,frpwiki,1,10,5.5
+2023,Albania,furwiki,1,10,5.5
+2023,Albania,idwiki,1,10,5.5
 2023,Albania,itwiki,1,10,5.5
+2023,Albania,jawiki,1,10,5.5
 2023,Albania,kawiki,1,10,5.5
+2023,Albania,lldwiki,1,10,5.5
 2023,Albania,lmowiki,1,10,5.5
 2023,Albania,lnwiki,1,10,5.5
 2023,Albania,mswiki,1,10,5.5
 2023,Albania,mywiki,1,10,5.5
+2023,Albania,olowiki,1,10,5.5
 2023,Albania,rmwiki,1,10,5.5
 2023,Albania,slwiki,1,10,5.5
-2023,Albania,sqwiki,22,40,31.0
+2023,Albania,sqwiki,27,45,36.0
 2023,Albania,srwiki,1,10,5.5
 2023,Albania,trwiki,1,10,5.5
 2023,Albania,yiwiki,1,10,5.5
+2023,Albania,zh_yuewiki,1,10,5.5
 2023,Albania,zhwiki,1,10,5.5
-2023,Algeria,arwiki,72,90,81.0
+2023,Algeria,arwiki,67,85,76.0
 2023,Algeria,arywiki,1,10,5.5
+2023,Algeria,dewiki,1,10,5.5
+2023,Algeria,dzwiki,1,10,5.5
 2023,Algeria,elwiki,1,10,5.5
 2023,Algeria,enwiki,42,60,51.0
 2023,Algeria,eswiki,1,10,5.5
-2023,Algeria,frwiki,132,150,141.0
+2023,Algeria,frwiki,147,165,156.0
+2023,Algeria,idwiki,1,10,5.5
 2023,Algeria,itwiki,1,10,5.5
 2023,Algeria,jawiki,1,10,5.5
 2023,Algeria,kabwiki,1,10,5.5
 2023,Algeria,kuwiki,1,10,5.5
 2023,Algeria,mkwiki,1,10,5.5
 2023,Algeria,nlwiki,1,10,5.5
+2023,Algeria,plwiki,1,10,5.5
 2023,Algeria,simplewiki,1,10,5.5
 2023,Algeria,slwiki,1,10,5.5
 2023,Algeria,trwiki,1,10,5.5
+2023,American Samoa,enwiki,1,10,5.5
 2023,Andorra,cawiki,2,20,11.0
-2023,Andorra,eswiki,2,20,11.0
-2023,Angola,enwiki,2,20,11.0
+2023,Andorra,enwiki,1,10,5.5
+2023,Andorra,eswiki,1,15,8.0
+2023,Angola,enwiki,1,15,8.0
 2023,Angola,frwiki,1,10,5.5
-2023,Angola,ptwiki,11,20,15.5
+2023,Angola,ptwiki,6,15,10.5
+2023,Antigua and Barbuda,enwiki,1,10,5.5
+2023,Argentina,cawiki,1,10,5.5
 2023,Argentina,dewiki,2,20,11.0
-2023,Argentina,enwiki,262,280,271.0
-2023,Argentina,eswiki,1402,1420,1411.0
+2023,Argentina,enwiki,242,260,251.0
+2023,Argentina,eowiki,1,10,5.5
+2023,Argentina,eswiki,1362,1380,1371.0
+2023,Argentina,fiwiki,1,10,5.5
 2023,Argentina,frwiki,1,10,5.5
 2023,Argentina,gnwiki,1,10,5.5
+2023,Argentina,htwiki,1,10,5.5
 2023,Argentina,iowiki,1,10,5.5
 2023,Argentina,itwiki,1,10,5.5
-2023,Argentina,jawiki,2,20,11.0
+2023,Argentina,jawiki,1,15,8.0
+2023,Argentina,kkwiki,1,10,5.5
+2023,Argentina,mswiki,1,10,5.5
+2023,Argentina,nlwiki,1,10,5.5
+2023,Argentina,nowiki,1,10,5.5
 2023,Argentina,ptwiki,2,20,11.0
+2023,Argentina,ruwiki,1,10,5.5
 2023,Argentina,simplewiki,1,10,5.5
-2023,Argentina,zhwiki,1,10,5.5
+2023,Argentina,svwiki,1,10,5.5
+2023,Argentina,trwiki,1,10,5.5
+2023,Argentina,ukwiki,1,10,5.5
+2023,Argentina,zh_classicalwiki,1,10,5.5
+2023,Argentina,zhwiki,1,15,8.0
+2023,Armenia,bgwiki,1,10,5.5
 2023,Armenia,cswiki,1,10,5.5
 2023,Armenia,enwiki,32,50,41.0
 2023,Armenia,eswiki,1,10,5.5
+2023,Armenia,fawiki,1,10,5.5
 2023,Armenia,frwiki,1,10,5.5
-2023,Armenia,hywiki,212,230,221.0
+2023,Armenia,hywiki,232,250,241.0
 2023,Armenia,hywwiki,2,20,11.0
 2023,Armenia,inhwiki,1,10,5.5
 2023,Armenia,ptwiki,1,10,5.5
 2023,Armenia,ruwiki,32,50,41.0
 2023,Armenia,simplewiki,2,20,11.0
+2023,Armenia,trwiki,1,10,5.5
 2023,Aruba,enwiki,1,10,5.5
 2023,Aruba,eswiki,1,10,5.5
 2023,Aruba,nlwiki,1,10,5.5
 2023,Aruba,papwiki,1,10,5.5
+2023,Australia,amwiki,1,10,5.5
 2023,Australia,angwiki,1,10,5.5
 2023,Australia,arwiki,1,10,5.5
+2023,Australia,azwiki,1,10,5.5
 2023,Australia,bnwiki,1,10,5.5
+2023,Australia,cawiki,1,10,5.5
 2023,Australia,cywiki,1,10,5.5
 2023,Australia,dawiki,1,10,5.5
-2023,Australia,dewiki,1,10,5.5
+2023,Australia,dewiki,1,15,8.0
 2023,Australia,elwiki,1,10,5.5
-2023,Australia,enwiki,2322,2340,2331.0
+2023,Australia,enwiki,2172,2190,2181.0
 2023,Australia,eswiki,2,20,11.0
 2023,Australia,euwiki,1,10,5.5
 2023,Australia,fawiki,2,20,11.0
 2023,Australia,fiwiki,1,10,5.5
-2023,Australia,frwiki,1,10,5.5
+2023,Australia,frwiki,6,15,10.5
 2023,Australia,gawiki,1,10,5.5
+2023,Australia,glwiki,1,10,5.5
 2023,Australia,guwiki,1,10,5.5
 2023,Australia,hewiki,1,10,5.5
 2023,Australia,hifwiki,1,10,5.5
 2023,Australia,hiwiki,1,10,5.5
 2023,Australia,hrwiki,1,10,5.5
 2023,Australia,huwiki,1,10,5.5
+2023,Australia,hywiki,1,10,5.5
 2023,Australia,idwiki,2,20,11.0
 2023,Australia,iowiki,1,10,5.5
 2023,Australia,itwiki,1,10,5.5
@@ -33177,118 +33213,176 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Australia,kowiki,1,10,5.5
 2023,Australia,mkwiki,1,10,5.5
 2023,Australia,mnwiki,1,10,5.5
+2023,Australia,mswiki,1,10,5.5
+2023,Australia,mywiki,1,10,5.5
 2023,Australia,nlwiki,1,10,5.5
 2023,Australia,nowiki,1,10,5.5
 2023,Australia,plwiki,1,10,5.5
-2023,Australia,ptwiki,2,20,11.0
-2023,Australia,ruwiki,2,20,11.0
+2023,Australia,ptwiki,1,15,8.0
+2023,Australia,ruwiki,6,20,13.0
 2023,Australia,shwiki,1,10,5.5
 2023,Australia,simplewiki,12,30,21.0
 2023,Australia,slwiki,1,10,5.5
 2023,Australia,snwiki,1,10,5.5
 2023,Australia,sowiki,1,10,5.5
 2023,Australia,srwiki,1,10,5.5
-2023,Australia,svwiki,2,20,11.0
+2023,Australia,svwiki,1,15,8.0
 2023,Australia,szlwiki,1,10,5.5
-2023,Australia,tawiki,1,10,5.5
+2023,Australia,tawiki,1,15,8.0
 2023,Australia,thwiki,1,10,5.5
+2023,Australia,towiki,1,10,5.5
 2023,Australia,trwiki,1,10,5.5
-2023,Australia,ukwiki,12,30,21.0
+2023,Australia,ukwiki,6,20,13.0
 2023,Australia,viwiki,1,10,5.5
 2023,Australia,warwiki,1,10,5.5
 2023,Australia,zh_yuewiki,2,20,11.0
-2023,Australia,zhwiki,22,40,31.0
+2023,Australia,zhwiki,32,50,41.0
+2023,Austria,afwiki,1,10,5.5
 2023,Austria,alswiki,1,10,5.5
-2023,Austria,arwiki,1,10,5.5
+2023,Austria,arwiki,1,15,8.0
+2023,Austria,arzwiki,1,10,5.5
 2023,Austria,astwiki,1,10,5.5
 2023,Austria,azwiki,1,10,5.5
 2023,Austria,barwiki,1,10,5.5
+2023,Austria,bat_smgwiki,1,10,5.5
+2023,Austria,bewiki,1,10,5.5
 2023,Austria,bgwiki,1,10,5.5
 2023,Austria,bnwiki,1,10,5.5
 2023,Austria,brwiki,1,10,5.5
-2023,Austria,bswiki,1,10,5.5
+2023,Austria,bswiki,1,15,8.0
 2023,Austria,bxrwiki,1,10,5.5
 2023,Austria,cawiki,1,10,5.5
+2023,Austria,cebwiki,1,10,5.5
 2023,Austria,cewiki,1,10,5.5
+2023,Austria,cowiki,1,10,5.5
 2023,Austria,cswiki,1,10,5.5
+2023,Austria,cuwiki,1,10,5.5
+2023,Austria,cvwiki,1,10,5.5
 2023,Austria,dawiki,1,10,5.5
-2023,Austria,dewiki,642,660,651.0
+2023,Austria,dewiki,602,620,611.0
 2023,Austria,dsbwiki,1,10,5.5
 2023,Austria,elwiki,1,10,5.5
-2023,Austria,enwiki,152,170,161.0
-2023,Austria,eswiki,11,20,15.5
+2023,Austria,enwiki,172,190,181.0
+2023,Austria,eowiki,1,10,5.5
+2023,Austria,eswiki,6,20,13.0
 2023,Austria,fawiki,2,20,11.0
 2023,Austria,fiwiki,1,10,5.5
 2023,Austria,frpwiki,1,10,5.5
 2023,Austria,frrwiki,1,10,5.5
 2023,Austria,frwiki,1,10,5.5
 2023,Austria,gagwiki,1,10,5.5
+2023,Austria,glwiki,1,10,5.5
 2023,Austria,hrwiki,1,10,5.5
 2023,Austria,hsbwiki,1,10,5.5
 2023,Austria,huwiki,2,20,11.0
+2023,Austria,hywiki,1,10,5.5
+2023,Austria,iawiki,1,10,5.5
 2023,Austria,idwiki,1,10,5.5
-2023,Austria,itwiki,1,10,5.5
+2023,Austria,itwiki,6,15,10.5
 2023,Austria,jawiki,1,10,5.5
-2023,Austria,kuwiki,1,10,5.5
-2023,Austria,lawiki,1,10,5.5
+2023,Austria,kabwiki,1,10,5.5
+2023,Austria,kmwiki,1,10,5.5
+2023,Austria,kuwiki,1,15,8.0
+2023,Austria,kywiki,1,10,5.5
+2023,Austria,lawiki,1,15,8.0
+2023,Austria,lbwiki,1,10,5.5
+2023,Austria,lijwiki,1,10,5.5
+2023,Austria,lmowiki,1,10,5.5
+2023,Austria,ltwiki,1,10,5.5
+2023,Austria,miwiki,1,10,5.5
+2023,Austria,nahwiki,1,10,5.5
 2023,Austria,ndswiki,1,10,5.5
-2023,Austria,nlwiki,1,10,5.5
+2023,Austria,newiki,1,10,5.5
+2023,Austria,nlwiki,1,15,8.0
+2023,Austria,nowiki,1,10,5.5
+2023,Austria,ocwiki,1,10,5.5
+2023,Austria,pcdwiki,1,10,5.5
 2023,Austria,plwiki,1,10,5.5
 2023,Austria,ptwiki,1,10,5.5
+2023,Austria,quwiki,1,10,5.5
 2023,Austria,rowiki,1,10,5.5
 2023,Austria,ruwiki,1,10,5.5
 2023,Austria,shwiki,1,10,5.5
-2023,Austria,simplewiki,2,20,11.0
+2023,Austria,simplewiki,1,15,8.0
+2023,Austria,skwiki,1,10,5.5
 2023,Austria,slwiki,1,10,5.5
+2023,Austria,sqwiki,1,10,5.5
 2023,Austria,srwiki,1,10,5.5
+2023,Austria,svwiki,1,10,5.5
+2023,Austria,tetwiki,1,10,5.5
 2023,Austria,tgwiki,1,10,5.5
-2023,Austria,trwiki,2,20,11.0
+2023,Austria,trwiki,1,15,8.0
 2023,Austria,ukwiki,1,10,5.5
-2023,Austria,zhwiki,2,20,11.0
+2023,Austria,uzwiki,1,10,5.5
+2023,Austria,viwiki,1,10,5.5
+2023,Austria,wuuwiki,1,10,5.5
+2023,Austria,zh_yuewiki,1,10,5.5
+2023,Austria,zhwiki,1,15,8.0
 2023,Austria,zuwiki,1,10,5.5
 2023,Bahamas,enwiki,1,10,5.5
+2023,Bahamas,eswiki,1,10,5.5
 2023,Bangladesh,afwiki,1,10,5.5
 2023,Bangladesh,alswiki,1,10,5.5
+2023,Bangladesh,amwiki,1,10,5.5
 2023,Bangladesh,arwiki,1,10,5.5
-2023,Bangladesh,aswiki,1,10,5.5
-2023,Bangladesh,bnwiki,362,380,371.0
+2023,Bangladesh,aswiki,1,15,8.0
+2023,Bangladesh,bnwiki,437,455,446.0
 2023,Bangladesh,cawiki,1,10,5.5
 2023,Bangladesh,cbk_zamwiki,1,10,5.5
+2023,Bangladesh,cebwiki,1,10,5.5
+2023,Bangladesh,chrwiki,1,10,5.5
 2023,Bangladesh,chwiki,1,10,5.5
+2023,Bangladesh,cowiki,1,10,5.5
 2023,Bangladesh,crwiki,1,10,5.5
 2023,Bangladesh,cswiki,1,10,5.5
+2023,Bangladesh,cywiki,1,10,5.5
+2023,Bangladesh,dawiki,1,10,5.5
 2023,Bangladesh,dewiki,1,10,5.5
-2023,Bangladesh,enwiki,492,510,501.0
+2023,Bangladesh,dzwiki,1,10,5.5
+2023,Bangladesh,enwiki,452,470,461.0
 2023,Bangladesh,eswiki,1,10,5.5
 2023,Bangladesh,fiwiki,1,10,5.5
 2023,Bangladesh,frwiki,1,10,5.5
 2023,Bangladesh,glwiki,1,10,5.5
 2023,Bangladesh,guwiki,1,10,5.5
 2023,Bangladesh,hakwiki,1,10,5.5
+2023,Bangladesh,hawwiki,1,10,5.5
 2023,Bangladesh,hiwiki,1,10,5.5
 2023,Bangladesh,huwiki,1,10,5.5
 2023,Bangladesh,idwiki,1,10,5.5
+2023,Bangladesh,itwiki,1,10,5.5
 2023,Bangladesh,jawiki,1,10,5.5
 2023,Bangladesh,kmwiki,1,10,5.5
 2023,Bangladesh,kowiki,1,10,5.5
+2023,Bangladesh,mhrwiki,1,10,5.5
 2023,Bangladesh,mlwiki,1,10,5.5
 2023,Bangladesh,mnwiki,1,10,5.5
 2023,Bangladesh,mrwiki,1,10,5.5
 2023,Bangladesh,mswiki,1,10,5.5
+2023,Bangladesh,newiki,1,10,5.5
+2023,Bangladesh,nlwiki,1,10,5.5
 2023,Bangladesh,nnwiki,1,10,5.5
 2023,Bangladesh,nowiki,1,10,5.5
+2023,Bangladesh,orwiki,1,10,5.5
 2023,Bangladesh,pawiki,1,10,5.5
+2023,Bangladesh,plwiki,1,10,5.5
 2023,Bangladesh,ptwiki,1,10,5.5
+2023,Bangladesh,ruwiki,1,10,5.5
+2023,Bangladesh,rwwiki,1,10,5.5
+2023,Bangladesh,satwiki,1,10,5.5
 2023,Bangladesh,scowiki,1,10,5.5
 2023,Bangladesh,simplewiki,1,10,5.5
 2023,Bangladesh,siwiki,1,10,5.5
 2023,Bangladesh,sowiki,1,10,5.5
 2023,Bangladesh,srwiki,1,10,5.5
+2023,Bangladesh,swwiki,1,10,5.5
 2023,Bangladesh,tawiki,1,10,5.5
 2023,Bangladesh,thwiki,1,10,5.5
 2023,Bangladesh,trwiki,1,10,5.5
 2023,Bangladesh,ukwiki,1,10,5.5
 2023,Bangladesh,urwiki,1,10,5.5
+2023,Bangladesh,vlswiki,1,10,5.5
+2023,Bangladesh,yowiki,1,10,5.5
 2023,Bangladesh,zhwiki,1,10,5.5
 2023,Bangladesh,zuwiki,1,10,5.5
 2023,Barbados,dewiki,1,10,5.5
@@ -33300,29 +33394,34 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Belgium,bat_smgwiki,1,10,5.5
 2023,Belgium,bewiki,1,10,5.5
 2023,Belgium,bgwiki,1,10,5.5
-2023,Belgium,cawiki,1,10,5.5
+2023,Belgium,bswiki,1,10,5.5
+2023,Belgium,cawiki,1,15,8.0
 2023,Belgium,cswiki,1,10,5.5
 2023,Belgium,dawiki,1,10,5.5
-2023,Belgium,dewiki,12,30,21.0
+2023,Belgium,dewiki,11,25,18.0
 2023,Belgium,elwiki,1,10,5.5
-2023,Belgium,enwiki,282,300,291.0
+2023,Belgium,enwiki,272,290,281.0
 2023,Belgium,eowiki,2,20,11.0
-2023,Belgium,eswiki,12,30,21.0
+2023,Belgium,eswiki,7,25,16.0
 2023,Belgium,etwiki,1,10,5.5
 2023,Belgium,euwiki,1,10,5.5
 2023,Belgium,fawiki,1,10,5.5
 2023,Belgium,fiwiki,1,10,5.5
-2023,Belgium,frwiki,442,460,451.0
+2023,Belgium,frwiki,402,420,411.0
 2023,Belgium,hewiki,1,10,5.5
 2023,Belgium,hrwiki,1,10,5.5
 2023,Belgium,huwiki,2,20,11.0
-2023,Belgium,itwiki,12,30,21.0
+2023,Belgium,itwiki,7,25,16.0
+2023,Belgium,jawiki,1,10,5.5
 2023,Belgium,lawiki,1,10,5.5
-2023,Belgium,lbwiki,12,30,21.0
+2023,Belgium,lbwiki,7,25,16.0
+2023,Belgium,liwiki,1,10,5.5
 2023,Belgium,ltwiki,1,10,5.5
+2023,Belgium,mrwiki,1,10,5.5
 2023,Belgium,mtwiki,1,10,5.5
-2023,Belgium,nlwiki,492,510,501.0
+2023,Belgium,nlwiki,447,465,456.0
 2023,Belgium,nowiki,1,10,5.5
+2023,Belgium,ocwiki,1,10,5.5
 2023,Belgium,papwiki,1,10,5.5
 2023,Belgium,plwiki,1,10,5.5
 2023,Belgium,ptwiki,1,10,5.5
@@ -33333,46 +33432,51 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Belgium,slwiki,1,10,5.5
 2023,Belgium,svwiki,1,10,5.5
 2023,Belgium,swwiki,1,10,5.5
+2023,Belgium,trwiki,1,10,5.5
 2023,Belgium,ukwiki,2,20,11.0
-2023,Belgium,vlswiki,1,10,5.5
+2023,Belgium,vlswiki,1,15,8.0
 2023,Belgium,wawiki,1,10,5.5
 2023,Belgium,zhwiki,1,10,5.5
-2023,Belize,enwiki,1,10,5.5
+2023,Belize,enwiki,1,15,8.0
 2023,Belize,plwiki,1,10,5.5
 2023,Belize,ukwiki,1,10,5.5
 2023,Benin,arwiki,1,10,5.5
 2023,Benin,eewiki,1,10,5.5
 2023,Benin,enwiki,2,20,11.0
 2023,Benin,eswiki,1,10,5.5
-2023,Benin,frwiki,22,40,31.0
+2023,Benin,frwiki,27,45,36.0
 2023,Benin,ptwiki,1,10,5.5
 2023,Bermuda,enwiki,1,10,5.5
 2023,Bhutan,enwiki,1,10,5.5
-2023,Bolivia,enwiki,11,20,15.5
-2023,Bolivia,eswiki,92,110,101.0
+2023,Bolivia,enwiki,6,15,10.5
+2023,Bolivia,eswiki,77,95,86.0
 2023,Bolivia,huwiki,1,10,5.5
+2023,Bolivia,itwiki,1,10,5.5
 2023,"Bonaire, Sint Eustatius, and Saba",dewiki,1,10,5.5
 2023,"Bonaire, Sint Eustatius, and Saba",enwiki,1,10,5.5
 2023,"Bonaire, Sint Eustatius, and Saba",nlwiki,1,10,5.5
+2023,Bosnia and Herzegovina,arwiki,1,10,5.5
 2023,Bosnia and Herzegovina,bgwiki,1,10,5.5
-2023,Bosnia and Herzegovina,bswiki,32,50,41.0
+2023,Bosnia and Herzegovina,bswiki,22,40,31.0
 2023,Bosnia and Herzegovina,cswiki,1,10,5.5
 2023,Bosnia and Herzegovina,dawiki,1,10,5.5
 2023,Bosnia and Herzegovina,dewiki,1,10,5.5
 2023,Bosnia and Herzegovina,elwiki,1,10,5.5
-2023,Bosnia and Herzegovina,enwiki,62,80,71.0
+2023,Bosnia and Herzegovina,enwiki,72,90,81.0
 2023,Bosnia and Herzegovina,eswiki,1,10,5.5
 2023,Bosnia and Herzegovina,etwiki,1,10,5.5
 2023,Bosnia and Herzegovina,euwiki,1,10,5.5
 2023,Bosnia and Herzegovina,fiwiki,1,10,5.5
 2023,Bosnia and Herzegovina,frwiki,1,10,5.5
-2023,Bosnia and Herzegovina,hrwiki,22,40,31.0
+2023,Bosnia and Herzegovina,hrwiki,16,30,23.0
 2023,Bosnia and Herzegovina,huwiki,1,10,5.5
 2023,Bosnia and Herzegovina,hywiki,1,10,5.5
 2023,Bosnia and Herzegovina,idwiki,1,10,5.5
 2023,Bosnia and Herzegovina,iewiki,1,10,5.5
 2023,Bosnia and Herzegovina,iswiki,1,10,5.5
 2023,Bosnia and Herzegovina,itwiki,1,10,5.5
+2023,Bosnia and Herzegovina,jawiki,1,10,5.5
+2023,Bosnia and Herzegovina,kawiki,1,10,5.5
 2023,Bosnia and Herzegovina,kowiki,1,10,5.5
 2023,Bosnia and Herzegovina,mkwiki,1,10,5.5
 2023,Bosnia and Herzegovina,mswiki,1,10,5.5
@@ -33382,9 +33486,10 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Bosnia and Herzegovina,rowiki,1,10,5.5
 2023,Bosnia and Herzegovina,ruwiki,1,10,5.5
 2023,Bosnia and Herzegovina,shwiki,1,10,5.5
+2023,Bosnia and Herzegovina,simplewiki,1,10,5.5
 2023,Bosnia and Herzegovina,slwiki,1,10,5.5
 2023,Bosnia and Herzegovina,sqwiki,1,10,5.5
-2023,Bosnia and Herzegovina,srwiki,62,80,71.0
+2023,Bosnia and Herzegovina,srwiki,47,65,56.0
 2023,Bosnia and Herzegovina,svwiki,1,10,5.5
 2023,Bosnia and Herzegovina,trwiki,1,10,5.5
 2023,Bosnia and Herzegovina,ukwiki,1,10,5.5
@@ -33396,65 +33501,87 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Brazil,anwiki,1,10,5.5
 2023,Brazil,arwiki,1,10,5.5
 2023,Brazil,astwiki,1,10,5.5
+2023,Brazil,be_x_oldwiki,1,10,5.5
+2023,Brazil,bewiki,1,10,5.5
+2023,Brazil,bgwiki,1,10,5.5
 2023,Brazil,bnwiki,1,10,5.5
-2023,Brazil,cawiki,1,10,5.5
+2023,Brazil,cawiki,1,15,8.0
 2023,Brazil,cowiki,1,10,5.5
 2023,Brazil,cswiki,1,10,5.5
 2023,Brazil,dawiki,1,10,5.5
 2023,Brazil,dewiki,12,30,21.0
 2023,Brazil,elwiki,1,10,5.5
-2023,Brazil,enwiki,982,1000,991.0
+2023,Brazil,enwiki,887,905,896.0
 2023,Brazil,eowiki,2,20,11.0
-2023,Brazil,eswiki,92,110,101.0
+2023,Brazil,eswiki,82,100,91.0
 2023,Brazil,etwiki,1,10,5.5
 2023,Brazil,euwiki,1,10,5.5
-2023,Brazil,frwiki,22,40,31.0
+2023,Brazil,fawiki,1,10,5.5
+2023,Brazil,fiwiki,1,10,5.5
+2023,Brazil,frwiki,27,45,36.0
 2023,Brazil,gawiki,1,10,5.5
 2023,Brazil,glwiki,1,10,5.5
-2023,Brazil,gnwiki,1,10,5.5
+2023,Brazil,gnwiki,1,15,8.0
 2023,Brazil,hawwiki,1,10,5.5
+2023,Brazil,hewiki,1,10,5.5
 2023,Brazil,hiwiki,1,10,5.5
+2023,Brazil,hrwiki,1,10,5.5
 2023,Brazil,htwiki,1,10,5.5
 2023,Brazil,huwiki,1,10,5.5
+2023,Brazil,hywiki,1,10,5.5
+2023,Brazil,iawiki,1,10,5.5
 2023,Brazil,idwiki,1,10,5.5
+2023,Brazil,ikwiki,1,10,5.5
 2023,Brazil,iowiki,2,20,11.0
-2023,Brazil,itwiki,31,40,35.5
+2023,Brazil,itwiki,21,30,25.5
 2023,Brazil,iuwiki,1,10,5.5
-2023,Brazil,jawiki,1,10,5.5
+2023,Brazil,jawiki,6,15,10.5
+2023,Brazil,jvwiki,1,10,5.5
 2023,Brazil,kkwiki,1,10,5.5
+2023,Brazil,kmwiki,1,10,5.5
+2023,Brazil,kowiki,1,10,5.5
+2023,Brazil,ladwiki,1,10,5.5
 2023,Brazil,lawiki,1,10,5.5
+2023,Brazil,lfnwiki,1,10,5.5
 2023,Brazil,ltwiki,1,10,5.5
 2023,Brazil,lvwiki,1,10,5.5
 2023,Brazil,mswiki,1,10,5.5
 2023,Brazil,mwlwiki,1,10,5.5
+2023,Brazil,nahwiki,1,10,5.5
 2023,Brazil,nlwiki,1,10,5.5
 2023,Brazil,nowiki,1,10,5.5
 2023,Brazil,ocwiki,1,10,5.5
 2023,Brazil,olowiki,1,10,5.5
 2023,Brazil,plwiki,1,10,5.5
-2023,Brazil,ptwiki,2282,2300,2291.0
+2023,Brazil,ptwiki,2137,2155,2146.0
 2023,Brazil,rmwiki,1,10,5.5
 2023,Brazil,rowiki,1,10,5.5
 2023,Brazil,ruwiki,1,10,5.5
 2023,Brazil,sahwiki,1,10,5.5
+2023,Brazil,scowiki,1,10,5.5
 2023,Brazil,simplewiki,1,10,5.5
 2023,Brazil,slwiki,1,10,5.5
+2023,Brazil,sqwiki,1,10,5.5
 2023,Brazil,svwiki,1,10,5.5
 2023,Brazil,tlwiki,1,10,5.5
 2023,Brazil,trwiki,1,10,5.5
 2023,Brazil,ukwiki,1,10,5.5
+2023,Brazil,urwiki,1,10,5.5
 2023,Brazil,uzwiki,1,10,5.5
 2023,Brazil,viwiki,1,10,5.5
 2023,Brazil,warwiki,1,10,5.5
 2023,Brazil,zh_yuewiki,1,10,5.5
+2023,Brazil,zhwiki,1,10,5.5
 2023,British Virgin Islands,enwiki,1,10,5.5
 2023,Brunei,enwiki,12,30,21.0
 2023,Brunei,idwiki,1,10,5.5
 2023,Brunei,mswiki,1,10,5.5
 2023,Brunei,zhwiki,1,10,5.5
-2023,Bulgaria,bgwiki,382,400,391.0
+2023,Bulgaria,bgwiki,352,370,361.0
 2023,Bulgaria,cswiki,1,10,5.5
-2023,Bulgaria,enwiki,182,200,191.0
+2023,Bulgaria,dewiki,1,10,5.5
+2023,Bulgaria,elwiki,1,10,5.5
+2023,Bulgaria,enwiki,152,170,161.0
 2023,Bulgaria,eswiki,1,10,5.5
 2023,Bulgaria,frwiki,1,10,5.5
 2023,Bulgaria,idwiki,1,10,5.5
@@ -33462,9 +33589,10 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Bulgaria,jawiki,1,10,5.5
 2023,Bulgaria,kowiki,1,10,5.5
 2023,Bulgaria,mkwiki,1,10,5.5
+2023,Bulgaria,nowiki,1,10,5.5
 2023,Bulgaria,plwiki,1,10,5.5
 2023,Bulgaria,rowiki,1,10,5.5
-2023,Bulgaria,ruwiki,2,20,11.0
+2023,Bulgaria,ruwiki,6,20,13.0
 2023,Bulgaria,simplewiki,1,10,5.5
 2023,Bulgaria,srwiki,1,10,5.5
 2023,Bulgaria,trwiki,1,10,5.5
@@ -33472,10 +33600,13 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Bulgaria,zhwiki,1,10,5.5
 2023,Burkina Faso,frwiki,2,20,11.0
 2023,Cambodia,dewiki,1,10,5.5
-2023,Cambodia,enwiki,41,50,45.5
+2023,Cambodia,enwiki,36,50,43.0
+2023,Cambodia,eswiki,1,10,5.5
 2023,Cambodia,frwiki,2,20,11.0
 2023,Cambodia,idwiki,1,10,5.5
-2023,Cambodia,kmwiki,21,30,25.5
+2023,Cambodia,kmwiki,11,25,18.0
+2023,Cambodia,ruwiki,1,10,5.5
+2023,Cambodia,thwiki,1,10,5.5
 2023,Cambodia,viwiki,1,10,5.5
 2023,Cambodia,zhwiki,1,10,5.5
 2023,Cameroon,arwiki,1,10,5.5
@@ -33485,40 +33616,47 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Canada,alswiki,1,10,5.5
 2023,Canada,amwiki,1,10,5.5
 2023,Canada,anwiki,1,10,5.5
-2023,Canada,arwiki,2,20,11.0
+2023,Canada,arwiki,7,25,16.0
 2023,Canada,aswiki,1,10,5.5
 2023,Canada,atjwiki,1,10,5.5
+2023,Canada,azbwiki,1,10,5.5
 2023,Canada,azwiki,1,10,5.5
 2023,Canada,banwiki,1,10,5.5
 2023,Canada,bewiki,1,10,5.5
 2023,Canada,bgwiki,1,10,5.5
 2023,Canada,bjnwiki,1,10,5.5
 2023,Canada,bnwiki,2,20,11.0
+2023,Canada,brwiki,1,10,5.5
+2023,Canada,bswiki,1,10,5.5
 2023,Canada,cawiki,1,10,5.5
 2023,Canada,cebwiki,1,10,5.5
 2023,Canada,cewiki,1,10,5.5
 2023,Canada,chrwiki,1,10,5.5
 2023,Canada,ckbwiki,1,10,5.5
+2023,Canada,crwiki,1,10,5.5
 2023,Canada,cswiki,1,10,5.5
 2023,Canada,cvwiki,1,10,5.5
+2023,Canada,cywiki,1,10,5.5
 2023,Canada,dawiki,1,10,5.5
-2023,Canada,dewiki,2,20,11.0
+2023,Canada,dewiki,1,15,8.0
 2023,Canada,elwiki,1,10,5.5
-2023,Canada,enwiki,3292,3310,3301.0
+2023,Canada,enwiki,3112,3130,3121.0
 2023,Canada,eowiki,1,10,5.5
-2023,Canada,eswiki,22,40,31.0
+2023,Canada,eswiki,16,30,23.0
 2023,Canada,etwiki,1,10,5.5
 2023,Canada,euwiki,1,10,5.5
-2023,Canada,fawiki,22,40,31.0
+2023,Canada,fawiki,17,35,26.0
 2023,Canada,fiwiki,1,10,5.5
-2023,Canada,frwiki,442,460,451.0
+2023,Canada,frwiki,427,445,436.0
 2023,Canada,fywiki,1,10,5.5
+2023,Canada,gawiki,1,10,5.5
 2023,Canada,glwiki,1,10,5.5
-2023,Canada,hewiki,2,20,11.0
+2023,Canada,hewiki,1,15,8.0
 2023,Canada,hiwiki,1,10,5.5
 2023,Canada,hrwiki,1,10,5.5
 2023,Canada,huwiki,1,10,5.5
 2023,Canada,idwiki,1,10,5.5
+2023,Canada,ikwiki,1,10,5.5
 2023,Canada,iswiki,1,10,5.5
 2023,Canada,itwiki,1,10,5.5
 2023,Canada,jawiki,12,30,21.0
@@ -33527,6 +33665,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Canada,kkwiki,1,10,5.5
 2023,Canada,knwiki,1,10,5.5
 2023,Canada,kowiki,1,10,5.5
+2023,Canada,kuwiki,1,10,5.5
 2023,Canada,lmowiki,1,10,5.5
 2023,Canada,lnwiki,1,10,5.5
 2023,Canada,ltwiki,1,10,5.5
@@ -33535,13 +33674,18 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Canada,mkwiki,1,10,5.5
 2023,Canada,mlwiki,1,10,5.5
 2023,Canada,mswiki,1,10,5.5
+2023,Canada,mywiki,1,10,5.5
+2023,Canada,mznwiki,1,10,5.5
 2023,Canada,nahwiki,1,10,5.5
+2023,Canada,newiki,1,10,5.5
 2023,Canada,nlwiki,2,20,11.0
 2023,Canada,nnwiki,1,10,5.5
 2023,Canada,nowiki,1,10,5.5
+2023,Canada,nvwiki,1,10,5.5
 2023,Canada,ocwiki,1,10,5.5
 2023,Canada,orwiki,1,10,5.5
 2023,Canada,plwiki,1,10,5.5
+2023,Canada,pmswiki,1,10,5.5
 2023,Canada,ptwiki,1,10,5.5
 2023,Canada,quwiki,1,10,5.5
 2023,Canada,rmwiki,1,10,5.5
@@ -33549,14 +33693,15 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Canada,rowiki,1,10,5.5
 2023,Canada,ruwiki,12,30,21.0
 2023,Canada,scowiki,1,10,5.5
-2023,Canada,simplewiki,31,40,35.5
+2023,Canada,shwiki,1,10,5.5
+2023,Canada,simplewiki,26,35,30.5
 2023,Canada,siwiki,1,10,5.5
 2023,Canada,skwiki,1,10,5.5
 2023,Canada,slwiki,1,10,5.5
-2023,Canada,snwiki,1,10,5.5
+2023,Canada,snwiki,1,15,8.0
 2023,Canada,sowiki,1,10,5.5
 2023,Canada,sqwiki,1,10,5.5
-2023,Canada,srwiki,2,20,11.0
+2023,Canada,srwiki,1,15,8.0
 2023,Canada,stqwiki,1,10,5.5
 2023,Canada,suwiki,1,10,5.5
 2023,Canada,svwiki,1,10,5.5
@@ -33564,136 +33709,210 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Canada,tawiki,1,10,5.5
 2023,Canada,tewiki,1,10,5.5
 2023,Canada,thwiki,2,20,11.0
+2023,Canada,tlwiki,1,10,5.5
 2023,Canada,trwiki,1,10,5.5
 2023,Canada,ukwiki,12,30,21.0
 2023,Canada,urwiki,1,10,5.5
 2023,Canada,uzwiki,1,10,5.5
 2023,Canada,vecwiki,1,10,5.5
-2023,Canada,viwiki,11,20,15.5
+2023,Canada,viwiki,11,25,18.0
 2023,Canada,vowiki,1,10,5.5
 2023,Canada,warwiki,1,10,5.5
 2023,Canada,zh_classicalwiki,1,10,5.5
 2023,Canada,zh_min_nanwiki,1,10,5.5
 2023,Canada,zh_yuewiki,2,20,11.0
-2023,Canada,zhwiki,142,160,151.0
+2023,Canada,zhwiki,132,150,141.0
 2023,Cape Verde,enwiki,1,10,5.5
+2023,Cape Verde,eswiki,1,10,5.5
 2023,Cape Verde,frwiki,1,10,5.5
+2023,Cape Verde,hewiki,1,10,5.5
 2023,Cape Verde,ptwiki,1,10,5.5
 2023,Cayman Islands,enwiki,1,10,5.5
 2023,Central African Republic,frwiki,1,10,5.5
+2023,Chad,arwiki,1,10,5.5
 2023,Chad,frwiki,1,10,5.5
+2023,Chad,itwiki,1,10,5.5
+2023,Chile,arwiki,1,10,5.5
 2023,Chile,bnwiki,1,10,5.5
 2023,Chile,chwiki,1,10,5.5
+2023,Chile,dawiki,1,10,5.5
 2023,Chile,dewiki,1,10,5.5
 2023,Chile,enwiki,142,160,151.0
-2023,Chile,eswiki,772,790,781.0
+2023,Chile,eswiki,737,755,746.0
 2023,Chile,fawiki,1,10,5.5
 2023,Chile,fiwiki,1,10,5.5
-2023,Chile,frwiki,2,20,11.0
+2023,Chile,frwiki,1,15,8.0
 2023,Chile,hywiki,1,10,5.5
 2023,Chile,itwiki,1,10,5.5
-2023,Chile,jawiki,1,10,5.5
+2023,Chile,jawiki,1,15,8.0
 2023,Chile,kowiki,1,10,5.5
+2023,Chile,lfnwiki,1,10,5.5
 2023,Chile,mnwiki,1,10,5.5
 2023,Chile,nnwiki,1,10,5.5
+2023,Chile,plwiki,1,10,5.5
 2023,Chile,ptwiki,1,10,5.5
+2023,Chile,ruwiki,1,10,5.5
+2023,Chile,thwiki,1,10,5.5
 2023,Chile,trwiki,1,10,5.5
-2023,Chile,zhwiki,1,10,5.5
+2023,Chile,zhwiki,1,15,8.0
+2023,Colombia,arwiki,1,10,5.5
+2023,Colombia,astwiki,1,10,5.5
 2023,Colombia,avkwiki,1,10,5.5
+2023,Colombia,bewiki,1,10,5.5
+2023,Colombia,bgwiki,1,10,5.5
+2023,Colombia,bnwiki,1,10,5.5
+2023,Colombia,brwiki,1,10,5.5
 2023,Colombia,cawiki,1,10,5.5
 2023,Colombia,dawiki,1,10,5.5
-2023,Colombia,dewiki,1,10,5.5
-2023,Colombia,enwiki,102,120,111.0
-2023,Colombia,eswiki,752,770,761.0
+2023,Colombia,dewiki,1,15,8.0
+2023,Colombia,elwiki,1,10,5.5
+2023,Colombia,enwiki,112,130,121.0
+2023,Colombia,eowiki,1,10,5.5
+2023,Colombia,eswiki,717,735,726.0
 2023,Colombia,fawiki,1,10,5.5
-2023,Colombia,frwiki,21,30,25.5
+2023,Colombia,fiwiki,1,10,5.5
+2023,Colombia,frrwiki,1,10,5.5
+2023,Colombia,frwiki,16,30,23.0
+2023,Colombia,hawiki,1,10,5.5
+2023,Colombia,hewiki,1,10,5.5
+2023,Colombia,iawiki,1,10,5.5
+2023,Colombia,idwiki,1,10,5.5
+2023,Colombia,igwiki,1,10,5.5
 2023,Colombia,itwiki,1,10,5.5
 2023,Colombia,jawiki,1,10,5.5
 2023,Colombia,kowiki,1,10,5.5
 2023,Colombia,ladwiki,1,10,5.5
-2023,Colombia,mkwiki,1,10,5.5
+2023,Colombia,ltwiki,1,10,5.5
+2023,Colombia,lvwiki,1,10,5.5
+2023,Colombia,mkwiki,11,20,15.5
+2023,Colombia,mswiki,1,10,5.5
+2023,Colombia,newiki,1,10,5.5
+2023,Colombia,nlwiki,1,10,5.5
 2023,Colombia,nnwiki,1,10,5.5
-2023,Colombia,plwiki,21,30,25.5
+2023,Colombia,nowiki,1,10,5.5
+2023,Colombia,nqowiki,1,10,5.5
+2023,Colombia,pawiki,1,10,5.5
+2023,Colombia,plwiki,11,20,15.5
 2023,Colombia,ptwiki,1,10,5.5
-2023,Colombia,rowiki,12,30,21.0
+2023,Colombia,rowiki,6,20,13.0
+2023,Colombia,ruwiki,1,10,5.5
 2023,Colombia,simplewiki,1,10,5.5
-2023,Colombia,srwiki,21,30,25.5
-2023,Colombia,svwiki,1,10,5.5
+2023,Colombia,srwiki,11,20,15.5
+2023,Colombia,svwiki,6,15,10.5
+2023,Colombia,swwiki,1,10,5.5
 2023,Colombia,thwiki,1,10,5.5
+2023,Colombia,trwiki,1,10,5.5
+2023,Colombia,tswiki,1,10,5.5
+2023,Colombia,ukwiki,1,10,5.5
+2023,Colombia,urwiki,1,10,5.5
+2023,Colombia,yowiki,1,10,5.5
+2023,Colombia,zhwiki,1,10,5.5
+2023,Colombia,zuwiki,1,10,5.5
 2023,Comoros,enwiki,1,10,5.5
 2023,Cook Islands,enwiki,1,10,5.5
 2023,Costa Rica,dewiki,1,10,5.5
-2023,Costa Rica,enwiki,52,70,61.0
+2023,Costa Rica,enwiki,47,65,56.0
 2023,Costa Rica,eowiki,1,10,5.5
-2023,Costa Rica,eswiki,102,120,111.0
+2023,Costa Rica,eswiki,97,115,106.0
 2023,Costa Rica,frwiki,1,10,5.5
 2023,Costa Rica,hewiki,1,10,5.5
 2023,Costa Rica,ruwiki,1,10,5.5
+2023,Croatia,amwiki,1,10,5.5
 2023,Croatia,bnwiki,1,10,5.5
-2023,Croatia,bswiki,2,20,11.0
+2023,Croatia,bswiki,1,15,8.0
 2023,Croatia,dewiki,1,10,5.5
-2023,Croatia,enwiki,162,180,171.0
+2023,Croatia,enwiki,157,175,166.0
 2023,Croatia,eswiki,1,10,5.5
 2023,Croatia,frwiki,1,10,5.5
-2023,Croatia,hrwiki,122,140,131.0
+2023,Croatia,hrwiki,112,130,121.0
 2023,Croatia,itwiki,1,10,5.5
 2023,Croatia,jawiki,1,10,5.5
+2023,Croatia,lowiki,1,10,5.5
+2023,Croatia,mkwiki,1,10,5.5
 2023,Croatia,ruwiki,1,10,5.5
 2023,Croatia,shwiki,2,20,11.0
-2023,Croatia,slwiki,2,20,11.0
+2023,Croatia,slwiki,1,15,8.0
 2023,Croatia,srwiki,1,10,5.5
+2023,Croatia,svwiki,1,10,5.5
+2023,Croatia,trwiki,1,10,5.5
 2023,Croatia,zhwiki,1,10,5.5
+2023,Curaçao,enwiki,1,10,5.5
 2023,Curaçao,nlwiki,1,10,5.5
-2023,Cyprus,avkwiki,1,10,5.5
+2023,Cyprus,avkwiki,1,15,8.0
+2023,Cyprus,dewiki,1,10,5.5
 2023,Cyprus,elwiki,11,20,15.5
-2023,Cyprus,enwiki,52,70,61.0
+2023,Cyprus,enwiki,42,60,51.0
 2023,Cyprus,eswiki,1,10,5.5
 2023,Cyprus,fawiki,1,10,5.5
 2023,Cyprus,hewiki,1,10,5.5
 2023,Cyprus,plwiki,1,10,5.5
 2023,Cyprus,ruwiki,1,10,5.5
 2023,Cyprus,svwiki,1,10,5.5
+2023,Cyprus,towiki,1,10,5.5
 2023,Cyprus,trwiki,1,10,5.5
 2023,Cyprus,ukwiki,1,10,5.5
 2023,Cyprus,zhwiki,1,10,5.5
 2023,Czech Republic,abwiki,1,10,5.5
+2023,Czech Republic,azbwiki,1,10,5.5
 2023,Czech Republic,bgwiki,1,10,5.5
-2023,Czech Republic,cswiki,1112,1130,1121.0
-2023,Czech Republic,dewiki,11,20,15.5
-2023,Czech Republic,enwiki,212,230,221.0
+2023,Czech Republic,cewiki,1,10,5.5
+2023,Czech Republic,cswiki,1107,1125,1116.0
+2023,Czech Republic,dewiki,11,25,18.0
+2023,Czech Republic,enwiki,187,205,196.0
 2023,Czech Republic,eowiki,2,20,11.0
 2023,Czech Republic,eswiki,1,10,5.5
+2023,Czech Republic,euwiki,1,10,5.5
 2023,Czech Republic,fawiki,1,10,5.5
 2023,Czech Republic,fiwiki,1,10,5.5
+2023,Czech Republic,frrwiki,1,10,5.5
 2023,Czech Republic,frwiki,2,20,11.0
-2023,Czech Republic,huwiki,2,20,11.0
-2023,Czech Republic,itwiki,1,10,5.5
+2023,Czech Republic,hewiki,1,10,5.5
+2023,Czech Republic,huwiki,1,15,8.0
+2023,Czech Republic,idwiki,1,10,5.5
+2023,Czech Republic,itwiki,1,15,8.0
 2023,Czech Republic,jawiki,1,10,5.5
 2023,Czech Republic,kawiki,1,10,5.5
+2023,Czech Republic,kowiki,1,10,5.5
+2023,Czech Republic,lmowiki,1,10,5.5
+2023,Czech Republic,ltwiki,1,10,5.5
 2023,Czech Republic,lvwiki,1,10,5.5
+2023,Czech Republic,mswiki,1,10,5.5
 2023,Czech Republic,nlwiki,1,10,5.5
 2023,Czech Republic,plwiki,2,20,11.0
+2023,Czech Republic,ptwiki,1,10,5.5
 2023,Czech Republic,rowiki,1,10,5.5
 2023,Czech Republic,ruewiki,1,10,5.5
 2023,Czech Republic,ruwiki,12,30,21.0
 2023,Czech Republic,simplewiki,1,10,5.5
-2023,Czech Republic,skwiki,12,30,21.0
+2023,Czech Republic,skwiki,17,35,26.0
 2023,Czech Republic,slwiki,1,10,5.5
+2023,Czech Republic,srwiki,1,10,5.5
 2023,Czech Republic,svwiki,2,20,11.0
+2023,Czech Republic,szlwiki,1,10,5.5
 2023,Czech Republic,trwiki,1,10,5.5
-2023,Czech Republic,ukwiki,21,30,25.5
+2023,Czech Republic,ttwiki,1,10,5.5
+2023,Czech Republic,ukwiki,11,20,15.5
+2023,Czech Republic,urwiki,1,10,5.5
+2023,Czech Republic,uzwiki,1,10,5.5
 2023,Czech Republic,viwiki,1,10,5.5
+2023,Czech Republic,zhwiki,1,10,5.5
 2023,Côte d'Ivoire,enwiki,1,10,5.5
 2023,Côte d'Ivoire,frwiki,22,40,31.0
 2023,Democratic Republic of the Congo,enwiki,1,10,5.5
-2023,Democratic Republic of the Congo,frwiki,32,50,41.0
+2023,Democratic Republic of the Congo,frwiki,27,45,36.0
 2023,Democratic Republic of the Congo,lnwiki,1,10,5.5
 2023,Denmark,arwiki,1,10,5.5
 2023,Denmark,arzwiki,1,10,5.5
-2023,Denmark,dawiki,262,280,271.0
-2023,Denmark,dewiki,12,30,21.0
+2023,Denmark,bgwiki,1,10,5.5
+2023,Denmark,bnwiki,1,10,5.5
+2023,Denmark,cswiki,1,10,5.5
+2023,Denmark,dawiki,247,265,256.0
+2023,Denmark,dewiki,7,25,16.0
 2023,Denmark,enwiki,172,190,181.0
+2023,Denmark,eswiki,1,10,5.5
+2023,Denmark,etwiki,1,10,5.5
 2023,Denmark,fawiki,2,20,11.0
+2023,Denmark,fiwiki,1,10,5.5
 2023,Denmark,fowiki,1,10,5.5
 2023,Denmark,frwiki,1,10,5.5
 2023,Denmark,glwiki,1,10,5.5
@@ -33703,49 +33922,61 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Denmark,itwiki,1,10,5.5
 2023,Denmark,jawiki,2,20,11.0
 2023,Denmark,ltwiki,1,10,5.5
-2023,Denmark,lvwiki,2,20,11.0
+2023,Denmark,lvwiki,1,15,8.0
 2023,Denmark,mnwwiki,1,10,5.5
+2023,Denmark,mrwiki,1,10,5.5
 2023,Denmark,mswiki,1,10,5.5
-2023,Denmark,nowiki,2,20,11.0
+2023,Denmark,nowiki,7,25,16.0
+2023,Denmark,ocwiki,1,10,5.5
+2023,Denmark,pawiki,1,10,5.5
 2023,Denmark,plwiki,1,10,5.5
+2023,Denmark,pnbwiki,1,10,5.5
 2023,Denmark,ptwiki,1,10,5.5
 2023,Denmark,ruwiki,1,10,5.5
 2023,Denmark,shwiki,1,10,5.5
+2023,Denmark,simplewiki,1,10,5.5
+2023,Denmark,skwiki,1,10,5.5
 2023,Denmark,srwiki,1,10,5.5
-2023,Denmark,svwiki,2,20,11.0
+2023,Denmark,svwiki,1,15,8.0
+2023,Denmark,swwiki,1,10,5.5
 2023,Denmark,tewiki,1,10,5.5
 2023,Denmark,trwiki,1,10,5.5
 2023,Denmark,ttwiki,1,10,5.5
-2023,Denmark,ukwiki,1,10,5.5
+2023,Denmark,ukwiki,1,15,8.0
+2023,Denmark,viwiki,1,10,5.5
+2023,Dominican Republic,cswiki,1,10,5.5
 2023,Dominican Republic,dewiki,1,10,5.5
-2023,Dominican Republic,enwiki,42,60,51.0
-2023,Dominican Republic,eswiki,82,100,91.0
+2023,Dominican Republic,enwiki,37,55,46.0
+2023,Dominican Republic,eswiki,72,90,81.0
 2023,Dominican Republic,frwiki,1,10,5.5
+2023,Dominican Republic,htwiki,1,10,5.5
 2023,Dominican Republic,itwiki,1,10,5.5
-2023,Dominican Republic,ptwiki,1,10,5.5
+2023,Dominican Republic,ptwiki,1,15,8.0
 2023,Dominican Republic,svwiki,1,10,5.5
 2023,Dominican Republic,ukwiki,1,10,5.5
-2023,Ecuador,dewiki,2,20,11.0
+2023,Ecuador,dewiki,1,15,8.0
 2023,Ecuador,enwiki,41,50,45.5
 2023,Ecuador,eowiki,1,10,5.5
-2023,Ecuador,eswiki,172,190,181.0
+2023,Ecuador,eswiki,177,195,186.0
 2023,Ecuador,fawiki,1,10,5.5
 2023,Ecuador,frwiki,1,10,5.5
+2023,Ecuador,simplewiki,1,10,5.5
 2023,Ecuador,zhwiki,1,10,5.5
-2023,El Salvador,enwiki,11,20,15.5
-2023,El Salvador,eswiki,62,80,71.0
+2023,El Salvador,enwiki,6,15,10.5
+2023,El Salvador,eswiki,52,70,61.0
 2023,El Salvador,idwiki,1,10,5.5
 2023,El Salvador,quwiki,1,10,5.5
 2023,El Salvador,viwiki,1,10,5.5
 2023,Estonia,arwiki,1,10,5.5
 2023,Estonia,avkwiki,1,10,5.5
 2023,Estonia,be_x_oldwiki,1,10,5.5
-2023,Estonia,bewiki,2,20,11.0
+2023,Estonia,bewiki,1,15,8.0
 2023,Estonia,chwiki,1,10,5.5
+2023,Estonia,cswiki,1,10,5.5
 2023,Estonia,dewiki,1,10,5.5
 2023,Estonia,enwiki,52,70,61.0
 2023,Estonia,eswiki,1,10,5.5
-2023,Estonia,etwiki,242,260,251.0
+2023,Estonia,etwiki,227,245,236.0
 2023,Estonia,fiu_vrowiki,1,10,5.5
 2023,Estonia,fiwiki,1,10,5.5
 2023,Estonia,frwiki,1,10,5.5
@@ -33754,48 +33985,58 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Estonia,jawiki,1,10,5.5
 2023,Estonia,kowiki,1,10,5.5
 2023,Estonia,nowiki,1,10,5.5
-2023,Estonia,plwiki,2,20,11.0
+2023,Estonia,plwiki,1,15,8.0
 2023,Estonia,ptwiki,1,10,5.5
 2023,Estonia,ruwiki,12,30,21.0
 2023,Estonia,svwiki,1,10,5.5
+2023,Estonia,thwiki,1,10,5.5
 2023,Estonia,trwiki,1,10,5.5
 2023,Estonia,ukwiki,1,10,5.5
 2023,Estonia,wuuwiki,1,10,5.5
 2023,Estonia,zhwiki,1,10,5.5
+2023,Eswatini,dewiki,1,10,5.5
 2023,Eswatini,enwiki,1,10,5.5
-2023,Faroe Islands,dawiki,1,10,5.5
-2023,Faroe Islands,enwiki,2,20,11.0
+2023,Faroe Islands,dawiki,1,15,8.0
+2023,Faroe Islands,enwiki,1,15,8.0
 2023,Faroe Islands,fowiki,1,10,5.5
+2023,Faroe Islands,svwiki,1,10,5.5
 2023,Federated States of Micronesia,enwiki,1,10,5.5
 2023,Fiji,enwiki,2,20,11.0
+2023,Fiji,frwiki,1,10,5.5
 2023,Finland,afwiki,1,10,5.5
 2023,Finland,arwiki,1,10,5.5
 2023,Finland,avkwiki,1,10,5.5
 2023,Finland,bhwiki,1,10,5.5
-2023,Finland,cawiki,1,10,5.5
+2023,Finland,cawiki,1,15,8.0
 2023,Finland,cdowiki,1,10,5.5
+2023,Finland,cebwiki,1,10,5.5
 2023,Finland,cowiki,1,10,5.5
 2023,Finland,cswiki,1,10,5.5
 2023,Finland,cywiki,1,10,5.5
 2023,Finland,dawiki,1,10,5.5
 2023,Finland,dewiki,2,20,11.0
+2023,Finland,diqwiki,1,10,5.5
 2023,Finland,dsbwiki,1,10,5.5
 2023,Finland,eewiki,1,10,5.5
 2023,Finland,elwiki,1,10,5.5
-2023,Finland,enwiki,232,250,241.0
-2023,Finland,eowiki,11,20,15.5
+2023,Finland,enwiki,222,240,231.0
+2023,Finland,eowiki,6,15,10.5
 2023,Finland,eswiki,1,10,5.5
-2023,Finland,etwiki,1,10,5.5
+2023,Finland,etwiki,6,20,13.0
 2023,Finland,fawiki,1,10,5.5
-2023,Finland,fiwiki,832,850,841.0
+2023,Finland,fiwiki,792,810,801.0
 2023,Finland,frwiki,1,10,5.5
 2023,Finland,gawiki,1,10,5.5
 2023,Finland,glwiki,1,10,5.5
+2023,Finland,hawiki,1,10,5.5
+2023,Finland,hawwiki,1,10,5.5
 2023,Finland,huwiki,1,10,5.5
+2023,Finland,igwiki,1,10,5.5
 2023,Finland,itwiki,1,10,5.5
 2023,Finland,jawiki,1,10,5.5
 2023,Finland,jvwiki,1,10,5.5
 2023,Finland,kaawiki,1,10,5.5
+2023,Finland,kowiki,1,10,5.5
 2023,Finland,lawiki,1,10,5.5
 2023,Finland,lldwiki,1,10,5.5
 2023,Finland,lvwiki,1,10,5.5
@@ -33808,49 +34049,60 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Finland,rmywiki,1,10,5.5
 2023,Finland,ruwiki,12,30,21.0
 2023,Finland,sawiki,1,10,5.5
+2023,Finland,scowiki,1,10,5.5
 2023,Finland,scwiki,1,10,5.5
 2023,Finland,sewiki,1,10,5.5
 2023,Finland,simplewiki,1,10,5.5
+2023,Finland,slwiki,1,10,5.5
 2023,Finland,smnwiki,2,20,11.0
-2023,Finland,svwiki,32,50,41.0
+2023,Finland,svwiki,27,45,36.0
 2023,Finland,swwiki,1,10,5.5
+2023,Finland,tetwiki,1,10,5.5
 2023,Finland,tgwiki,1,10,5.5
-2023,Finland,trwiki,2,20,11.0
+2023,Finland,trwiki,1,15,8.0
 2023,Finland,ukwiki,1,10,5.5
 2023,Finland,urwiki,1,10,5.5
 2023,Finland,viwiki,1,10,5.5
 2023,Finland,zh_min_nanwiki,1,10,5.5
+2023,Finland,zh_yuewiki,1,10,5.5
 2023,Finland,zhwiki,2,20,11.0
-2023,France,alswiki,1,10,5.5
+2023,France,acewiki,1,10,5.5
+2023,France,afwiki,1,10,5.5
+2023,France,alswiki,1,15,8.0
+2023,France,amwiki,1,10,5.5
 2023,France,anwiki,1,10,5.5
 2023,France,arwiki,12,30,21.0
 2023,France,arywiki,1,10,5.5
-2023,France,arzwiki,2,20,11.0
+2023,France,arzwiki,1,15,8.0
 2023,France,astwiki,1,10,5.5
 2023,France,avkwiki,1,10,5.5
 2023,France,azwiki,1,10,5.5
 2023,France,be_x_oldwiki,1,10,5.5
 2023,France,bewiki,1,10,5.5
 2023,France,bgwiki,1,10,5.5
+2023,France,bnwiki,1,10,5.5
 2023,France,brwiki,22,40,31.0
-2023,France,cawiki,12,30,21.0
+2023,France,bswiki,1,10,5.5
+2023,France,cawiki,17,35,26.0
 2023,France,cebwiki,1,10,5.5
 2023,France,cewiki,1,10,5.5
 2023,France,ckbwiki,1,10,5.5
 2023,France,cowiki,1,10,5.5
+2023,France,crhwiki,1,10,5.5
 2023,France,cswiki,1,10,5.5
+2023,France,cvwiki,1,10,5.5
 2023,France,cywiki,1,10,5.5
 2023,France,dawiki,1,10,5.5
 2023,France,dewiki,52,70,61.0
 2023,France,elwiki,1,10,5.5
-2023,France,enwiki,822,840,831.0
+2023,France,enwiki,742,760,751.0
 2023,France,eowiki,12,30,21.0
-2023,France,eswiki,72,90,81.0
+2023,France,eswiki,67,85,76.0
 2023,France,etwiki,1,10,5.5
-2023,France,euwiki,1,10,5.5
+2023,France,euwiki,1,15,8.0
 2023,France,fawiki,12,30,21.0
 2023,France,fiwiki,1,10,5.5
-2023,France,frwiki,6562,6580,6571.0
+2023,France,frwiki,6237,6255,6246.0
 2023,France,fywiki,1,10,5.5
 2023,France,gawiki,2,20,11.0
 2023,France,glwiki,1,10,5.5
@@ -33859,161 +34111,207 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,France,hrwiki,1,10,5.5
 2023,France,htwiki,1,10,5.5
 2023,France,huwiki,1,10,5.5
+2023,France,hywiki,1,10,5.5
+2023,France,hywwiki,1,10,5.5
 2023,France,idwiki,1,10,5.5
+2023,France,igwiki,1,10,5.5
 2023,France,iowiki,1,10,5.5
 2023,France,iswiki,1,10,5.5
 2023,France,itwiki,42,60,51.0
-2023,France,jawiki,12,30,21.0
+2023,France,jawiki,7,25,16.0
+2023,France,jvwiki,1,10,5.5
 2023,France,kabwiki,1,10,5.5
+2023,France,kawiki,1,10,5.5
+2023,France,kkwiki,1,10,5.5
 2023,France,kowiki,1,10,5.5
 2023,France,kuwiki,2,20,11.0
+2023,France,kywiki,1,10,5.5
 2023,France,lawiki,2,20,11.0
 2023,France,lbwiki,1,10,5.5
+2023,France,ltwiki,1,10,5.5
+2023,France,lvwiki,1,10,5.5
 2023,France,mgwiki,1,10,5.5
 2023,France,mkwiki,1,10,5.5
+2023,France,mswiki,1,10,5.5
 2023,France,mywiki,1,10,5.5
 2023,France,napwiki,1,10,5.5
-2023,France,nlwiki,11,20,15.5
+2023,France,nlwiki,11,25,18.0
 2023,France,nowiki,1,10,5.5
 2023,France,ocwiki,12,30,21.0
+2023,France,olowiki,1,10,5.5
 2023,France,pcdwiki,1,10,5.5
-2023,France,plwiki,12,30,21.0
-2023,France,ptwiki,21,30,25.5
+2023,France,plwiki,7,25,16.0
+2023,France,pmswiki,1,10,5.5
+2023,France,pnbwiki,1,10,5.5
+2023,France,ptwiki,16,30,23.0
+2023,France,quwiki,1,10,5.5
 2023,France,rowiki,1,10,5.5
-2023,France,ruwiki,21,30,25.5
+2023,France,ruwiki,26,40,33.0
 2023,France,scowiki,1,10,5.5
 2023,France,shiwiki,1,10,5.5
-2023,France,shwiki,1,10,5.5
+2023,France,shwiki,1,15,8.0
 2023,France,simplewiki,1,10,5.5
+2023,France,skwiki,2,20,11.0
 2023,France,slwiki,1,10,5.5
+2023,France,snwiki,1,10,5.5
 2023,France,sowiki,1,10,5.5
 2023,France,sqwiki,1,10,5.5
 2023,France,srwiki,2,20,11.0
 2023,France,svwiki,1,10,5.5
+2023,France,tgwiki,1,10,5.5
+2023,France,thwiki,1,10,5.5
+2023,France,tkwiki,1,10,5.5
 2023,France,trwiki,2,20,11.0
 2023,France,ttwiki,1,10,5.5
 2023,France,ugwiki,1,10,5.5
 2023,France,ukwiki,1,10,5.5
-2023,France,urwiki,1,10,5.5
+2023,France,urwiki,1,15,8.0
+2023,France,uzwiki,2,20,11.0
 2023,France,viwiki,1,10,5.5
 2023,France,warwiki,1,10,5.5
 2023,France,wuuwiki,1,10,5.5
-2023,France,zhwiki,32,50,41.0
+2023,France,zh_yuewiki,1,10,5.5
+2023,France,zhwiki,27,45,36.0
 2023,France,zuwiki,1,10,5.5
 2023,French Guiana,enwiki,1,10,5.5
 2023,French Guiana,frwiki,1,10,5.5
 2023,French Polynesia,enwiki,1,10,5.5
 2023,French Polynesia,frwiki,1,10,5.5
+2023,Gabon,enwiki,1,10,5.5
 2023,Gabon,frwiki,1,10,5.5
 2023,Gambia,enwiki,1,10,5.5
 2023,Georgia,abwiki,1,10,5.5
-2023,Georgia,azwiki,2,20,11.0
+2023,Georgia,arwiki,1,10,5.5
+2023,Georgia,azwiki,1,15,8.0
+2023,Georgia,bgwiki,1,10,5.5
 2023,Georgia,cebwiki,1,10,5.5
 2023,Georgia,cswiki,1,10,5.5
 2023,Georgia,cvwiki,1,10,5.5
 2023,Georgia,dewiki,1,10,5.5
 2023,Georgia,enwiki,42,60,51.0
+2023,Georgia,eswiki,1,10,5.5
 2023,Georgia,fawiki,1,10,5.5
 2023,Georgia,frrwiki,1,10,5.5
 2023,Georgia,frwiki,1,10,5.5
 2023,Georgia,hywiki,1,10,5.5
 2023,Georgia,itwiki,1,10,5.5
 2023,Georgia,jawiki,1,10,5.5
-2023,Georgia,kawiki,72,90,81.0
+2023,Georgia,kawiki,67,85,76.0
+2023,Georgia,kkwiki,1,10,5.5
+2023,Georgia,kowiki,1,10,5.5
+2023,Georgia,kywiki,1,10,5.5
+2023,Georgia,oswiki,1,10,5.5
 2023,Georgia,plwiki,1,10,5.5
 2023,Georgia,ruwiki,32,50,41.0
 2023,Georgia,svwiki,1,10,5.5
-2023,Georgia,trwiki,2,20,11.0
-2023,Georgia,ukwiki,2,20,11.0
-2023,Georgia,xmfwiki,1,10,5.5
+2023,Georgia,trwiki,1,15,8.0
+2023,Georgia,ukwiki,1,15,8.0
+2023,Georgia,uzwiki,1,10,5.5
+2023,Georgia,xmfwiki,1,15,8.0
+2023,Georgia,zhwiki,1,10,5.5
 2023,Germany,afwiki,2,20,11.0
 2023,Germany,alswiki,2,20,11.0
 2023,Germany,amwiki,1,10,5.5
 2023,Germany,anwiki,2,20,11.0
-2023,Germany,arwiki,22,40,31.0
-2023,Germany,arywiki,2,20,11.0
-2023,Germany,arzwiki,2,20,11.0
+2023,Germany,arwiki,17,35,26.0
+2023,Germany,arywiki,1,15,8.0
+2023,Germany,arzwiki,1,15,8.0
 2023,Germany,astwiki,1,10,5.5
 2023,Germany,avkwiki,1,10,5.5
-2023,Germany,azbwiki,1,10,5.5
+2023,Germany,azbwiki,1,15,8.0
 2023,Germany,azwiki,1,10,5.5
 2023,Germany,barwiki,1,10,5.5
 2023,Germany,bawiki,1,10,5.5
 2023,Germany,be_x_oldwiki,1,10,5.5
 2023,Germany,bewiki,1,10,5.5
-2023,Germany,bgwiki,2,20,11.0
+2023,Germany,bgwiki,1,15,8.0
 2023,Germany,bnwiki,1,10,5.5
-2023,Germany,bswiki,2,20,11.0
+2023,Germany,brwiki,1,10,5.5
+2023,Germany,bswiki,1,15,8.0
 2023,Germany,bugwiki,1,10,5.5
-2023,Germany,cawiki,2,20,11.0
+2023,Germany,cawiki,1,15,8.0
 2023,Germany,cdowiki,1,10,5.5
-2023,Germany,cebwiki,1,10,5.5
+2023,Germany,cebwiki,1,15,8.0
 2023,Germany,cewiki,1,10,5.5
 2023,Germany,ckbwiki,1,10,5.5
 2023,Germany,cowiki,1,10,5.5
 2023,Germany,crhwiki,1,10,5.5
 2023,Germany,cswiki,11,20,15.5
+2023,Germany,cywiki,1,10,5.5
 2023,Germany,dagwiki,1,10,5.5
-2023,Germany,dawiki,11,20,15.5
-2023,Germany,dewiki,6692,6710,6701.0
-2023,Germany,diqwiki,1,10,5.5
+2023,Germany,dawiki,6,15,10.5
+2023,Germany,dewiki,6362,6380,6371.0
+2023,Germany,diqwiki,1,15,8.0
 2023,Germany,dsbwiki,1,10,5.5
 2023,Germany,elwiki,12,30,21.0
-2023,Germany,enwiki,1562,1580,1571.0
-2023,Germany,eowiki,2,20,11.0
-2023,Germany,eswiki,62,80,71.0
+2023,Germany,enwiki,1457,1475,1466.0
+2023,Germany,eowiki,7,25,16.0
+2023,Germany,eswiki,57,75,66.0
 2023,Germany,etwiki,1,10,5.5
-2023,Germany,euwiki,2,20,11.0
-2023,Germany,fawiki,52,70,61.0
-2023,Germany,fiwiki,2,20,11.0
-2023,Germany,fowiki,11,20,15.5
+2023,Germany,euwiki,1,15,8.0
+2023,Germany,extwiki,1,10,5.5
+2023,Germany,fawiki,42,60,51.0
+2023,Germany,fiwiki,7,25,16.0
+2023,Germany,fowiki,6,15,10.5
 2023,Germany,frpwiki,1,10,5.5
 2023,Germany,frrwiki,2,20,11.0
-2023,Germany,frwiki,102,120,111.0
+2023,Germany,frwiki,97,115,106.0
 2023,Germany,fywiki,11,20,15.5
 2023,Germany,gagwiki,1,10,5.5
 2023,Germany,glwiki,1,10,5.5
 2023,Germany,gnwiki,1,10,5.5
-2023,Germany,hewiki,22,40,31.0
+2023,Germany,hawiki,1,10,5.5
+2023,Germany,hewiki,17,35,26.0
 2023,Germany,hifwiki,1,10,5.5
 2023,Germany,hiwiki,1,10,5.5
-2023,Germany,hrwiki,2,20,11.0
+2023,Germany,hrwiki,1,15,8.0
 2023,Germany,hsbwiki,2,20,11.0
 2023,Germany,huwiki,12,30,21.0
 2023,Germany,hywiki,1,10,5.5
+2023,Germany,iawiki,1,10,5.5
 2023,Germany,idwiki,2,20,11.0
-2023,Germany,iewiki,2,20,11.0
+2023,Germany,iewiki,1,15,8.0
 2023,Germany,igwiki,1,10,5.5
 2023,Germany,iowiki,1,10,5.5
 2023,Germany,iswiki,1,10,5.5
-2023,Germany,itwiki,82,100,91.0
+2023,Germany,itwiki,62,80,71.0
 2023,Germany,jawiki,11,20,15.5
 2023,Germany,jvwiki,1,10,5.5
+2023,Germany,kawiki,1,10,5.5
 2023,Germany,kkwiki,1,10,5.5
 2023,Germany,kowiki,2,20,11.0
+2023,Germany,kshwiki,1,10,5.5
 2023,Germany,kuwiki,2,20,11.0
 2023,Germany,kywiki,1,10,5.5
 2023,Germany,lawiki,2,20,11.0
 2023,Germany,lbwiki,1,10,5.5
+2023,Germany,lfnwiki,1,10,5.5
+2023,Germany,lgwiki,1,10,5.5
+2023,Germany,lijwiki,1,10,5.5
 2023,Germany,lmowiki,1,10,5.5
 2023,Germany,ltwiki,1,10,5.5
 2023,Germany,lvwiki,1,10,5.5
 2023,Germany,minwiki,1,10,5.5
-2023,Germany,mkwiki,2,20,11.0
+2023,Germany,mkwiki,1,15,8.0
 2023,Germany,mswiki,1,10,5.5
 2023,Germany,mtwiki,1,10,5.5
 2023,Germany,mywiki,1,10,5.5
 2023,Germany,napwiki,1,10,5.5
-2023,Germany,ndswiki,2,20,11.0
+2023,Germany,ndswiki,1,15,8.0
+2023,Germany,newiki,1,10,5.5
 2023,Germany,newwiki,1,10,5.5
 2023,Germany,nlwiki,42,60,51.0
-2023,Germany,nowiki,12,30,21.0
+2023,Germany,nowiki,7,25,16.0
 2023,Germany,ocwiki,2,20,11.0
-2023,Germany,plwiki,42,60,51.0
-2023,Germany,ptwiki,12,30,21.0
+2023,Germany,papwiki,1,10,5.5
+2023,Germany,pcdwiki,1,10,5.5
+2023,Germany,pdcwiki,1,10,5.5
+2023,Germany,plwiki,37,55,46.0
+2023,Germany,ptwiki,16,30,23.0
 2023,Germany,rmywiki,1,10,5.5
 2023,Germany,rowiki,12,30,21.0
-2023,Germany,ruwiki,152,170,161.0
+2023,Germany,ruewiki,1,10,5.5
+2023,Germany,ruwiki,132,150,141.0
 2023,Germany,sawiki,1,10,5.5
 2023,Germany,scnwiki,1,10,5.5
 2023,Germany,scowiki,1,10,5.5
@@ -34024,25 +34322,29 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Germany,slwiki,1,10,5.5
 2023,Germany,snwiki,1,10,5.5
 2023,Germany,sowiki,1,10,5.5
-2023,Germany,sqwiki,12,30,21.0
-2023,Germany,srwiki,11,20,15.5
-2023,Germany,stqwiki,1,10,5.5
+2023,Germany,sqwiki,7,25,16.0
+2023,Germany,srwiki,6,15,10.5
+2023,Germany,stqwiki,1,15,8.0
 2023,Germany,svwiki,12,30,21.0
 2023,Germany,swwiki,1,10,5.5
+2023,Germany,szlwiki,1,10,5.5
+2023,Germany,tetwiki,1,10,5.5
 2023,Germany,tewiki,1,10,5.5
-2023,Germany,tgwiki,2,20,11.0
+2023,Germany,tgwiki,1,15,8.0
 2023,Germany,thwiki,1,10,5.5
 2023,Germany,tkwiki,1,10,5.5
 2023,Germany,tlwiki,1,10,5.5
 2023,Germany,tnwiki,1,10,5.5
 2023,Germany,trvwiki,1,10,5.5
-2023,Germany,trwiki,32,50,41.0
+2023,Germany,trwiki,27,45,36.0
 2023,Germany,tswiki,1,10,5.5
 2023,Germany,ttwiki,1,10,5.5
-2023,Germany,ukwiki,72,90,81.0
+2023,Germany,tumwiki,1,10,5.5
+2023,Germany,ugwiki,1,10,5.5
+2023,Germany,ukwiki,62,80,71.0
 2023,Germany,urwiki,1,10,5.5
 2023,Germany,uzwiki,1,10,5.5
-2023,Germany,viwiki,11,20,15.5
+2023,Germany,viwiki,11,25,18.0
 2023,Germany,vowiki,1,10,5.5
 2023,Germany,warwiki,1,10,5.5
 2023,Germany,wuuwiki,1,10,5.5
@@ -34050,8 +34352,8 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Germany,yowiki,1,10,5.5
 2023,Germany,zh_min_nanwiki,1,10,5.5
 2023,Germany,zh_yuewiki,1,10,5.5
-2023,Germany,zhwiki,52,70,61.0
-2023,Ghana,dagwiki,12,30,21.0
+2023,Germany,zhwiki,47,65,56.0
+2023,Ghana,dagwiki,17,35,26.0
 2023,Ghana,dewiki,1,10,5.5
 2023,Ghana,enwiki,42,60,51.0
 2023,Ghana,hawiki,1,10,5.5
@@ -34060,68 +34362,120 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Ghana,swwiki,1,10,5.5
 2023,Ghana,twwiki,2,20,11.0
 2023,Gibraltar,enwiki,1,10,5.5
+2023,Gibraltar,eswiki,1,10,5.5
+2023,Gibraltar,ruwiki,1,10,5.5
 2023,Gibraltar,simplewiki,1,10,5.5
+2023,Greece,azbwiki,1,10,5.5
 2023,Greece,bgwiki,1,10,5.5
 2023,Greece,cawiki,1,10,5.5
+2023,Greece,cebwiki,1,10,5.5
+2023,Greece,cswiki,1,10,5.5
 2023,Greece,dewiki,2,20,11.0
-2023,Greece,elwiki,492,510,501.0
-2023,Greece,enwiki,472,490,481.0
+2023,Greece,elwiki,452,470,461.0
+2023,Greece,enwiki,437,455,446.0
+2023,Greece,eowiki,1,10,5.5
 2023,Greece,eswiki,1,10,5.5
+2023,Greece,etwiki,1,10,5.5
+2023,Greece,fawiki,1,10,5.5
+2023,Greece,fiwiki,1,10,5.5
 2023,Greece,frwiki,12,30,21.0
 2023,Greece,hewiki,1,10,5.5
 2023,Greece,huwiki,1,10,5.5
+2023,Greece,hywiki,1,10,5.5
 2023,Greece,hywwiki,1,10,5.5
+2023,Greece,idwiki,1,10,5.5
 2023,Greece,itwiki,1,10,5.5
+2023,Greece,jawiki,1,10,5.5
+2023,Greece,kkwiki,1,10,5.5
+2023,Greece,kywiki,1,10,5.5
 2023,Greece,lawiki,1,10,5.5
+2023,Greece,ltwiki,1,10,5.5
 2023,Greece,lvwiki,1,10,5.5
-2023,Greece,nlwiki,1,10,5.5
+2023,Greece,mkwiki,1,10,5.5
+2023,Greece,mrwiki,1,10,5.5
+2023,Greece,mswiki,1,10,5.5
+2023,Greece,nlwiki,1,15,8.0
 2023,Greece,nowiki,1,10,5.5
 2023,Greece,plwiki,1,10,5.5
-2023,Greece,rowiki,1,10,5.5
-2023,Greece,ruwiki,12,30,21.0
+2023,Greece,pmswiki,1,10,5.5
+2023,Greece,ptwiki,1,10,5.5
+2023,Greece,quwiki,1,10,5.5
+2023,Greece,roa_tarawiki,1,10,5.5
+2023,Greece,rowiki,1,15,8.0
+2023,Greece,ruwiki,27,45,36.0
+2023,Greece,shwiki,1,10,5.5
+2023,Greece,simplewiki,1,10,5.5
 2023,Greece,sqwiki,1,10,5.5
+2023,Greece,srwiki,1,10,5.5
 2023,Greece,svwiki,1,10,5.5
+2023,Greece,trwiki,1,10,5.5
 2023,Greece,ukwiki,1,10,5.5
+2023,Greece,uzwiki,1,10,5.5
+2023,Greece,viwiki,1,10,5.5
 2023,Greece,zhwiki,1,10,5.5
 2023,Greenland,dawiki,1,10,5.5
+2023,Greenland,enwiki,1,10,5.5
+2023,Grenada,enwiki,1,10,5.5
 2023,Guadeloupe,frwiki,12,30,21.0
-2023,Guam,enwiki,1,10,5.5
-2023,Guatemala,dewiki,1,10,5.5
+2023,Guam,enwiki,1,15,8.0
+2023,Guatemala,bewiki,1,10,5.5
+2023,Guatemala,bowiki,1,10,5.5
+2023,Guatemala,dewiki,1,15,8.0
 2023,Guatemala,enwiki,12,30,21.0
-2023,Guatemala,eswiki,52,70,61.0
+2023,Guatemala,eswiki,62,80,71.0
+2023,Guatemala,extwiki,1,10,5.5
+2023,Guatemala,frwiki,1,10,5.5
 2023,Guatemala,itwiki,1,10,5.5
+2023,Guatemala,kshwiki,1,10,5.5
+2023,Guatemala,lgwiki,1,10,5.5
+2023,Guatemala,lowiki,1,10,5.5
+2023,Guatemala,pcdwiki,1,10,5.5
+2023,Guatemala,pdcwiki,1,10,5.5
+2023,Guatemala,tetwiki,1,10,5.5
+2023,Guatemala,ugwiki,1,10,5.5
 2023,Guernsey,enwiki,2,20,11.0
+2023,Guernsey,sqwiki,1,10,5.5
 2023,Guinea,dewiki,1,10,5.5
 2023,Guinea,enwiki,1,10,5.5
 2023,Guinea,frwiki,2,20,11.0
+2023,Guinea,itwiki,1,10,5.5
+2023,Guinea,nqowiki,2,20,11.0
+2023,Guinea,ptwiki,1,10,5.5
 2023,Guinea-Bissau,frwiki,1,10,5.5
 2023,Guyana,enwiki,1,10,5.5
-2023,Haiti,enwiki,1,10,5.5
-2023,Haiti,frwiki,2,20,11.0
+2023,Haiti,enwiki,1,15,8.0
+2023,Haiti,eswiki,1,10,5.5
+2023,Haiti,frwiki,1,15,8.0
 2023,Haiti,htwiki,1,10,5.5
-2023,Honduras,enwiki,12,30,21.0
-2023,Honduras,eswiki,52,70,61.0
+2023,Honduras,enwiki,7,25,16.0
+2023,Honduras,eswiki,47,65,56.0
 2023,Honduras,ptwiki,1,10,5.5
 2023,Hong Kong,arzwiki,1,10,5.5
+2023,Hong Kong,azbwiki,1,10,5.5
 2023,Hong Kong,cawiki,1,10,5.5
 2023,Hong Kong,cebwiki,1,10,5.5
 2023,Hong Kong,dewiki,1,10,5.5
-2023,Hong Kong,enwiki,392,410,401.0
+2023,Hong Kong,enwiki,382,400,391.0
 2023,Hong Kong,eowiki,1,10,5.5
 2023,Hong Kong,eswiki,1,10,5.5
+2023,Hong Kong,euwiki,1,10,5.5
 2023,Hong Kong,fawiki,1,10,5.5
 2023,Hong Kong,fiwiki,1,10,5.5
 2023,Hong Kong,frwiki,1,10,5.5
 2023,Hong Kong,ganwiki,1,10,5.5
+2023,Hong Kong,hewiki,1,10,5.5
 2023,Hong Kong,hiwiki,1,10,5.5
 2023,Hong Kong,idwiki,1,10,5.5
 2023,Hong Kong,itwiki,1,10,5.5
-2023,Hong Kong,jawiki,22,40,31.0
+2023,Hong Kong,jawiki,32,50,41.0
 2023,Hong Kong,kowiki,1,10,5.5
+2023,Hong Kong,kywiki,1,10,5.5
 2023,Hong Kong,mnwiki,1,10,5.5
 2023,Hong Kong,mswiki,1,10,5.5
+2023,Hong Kong,mywiki,1,10,5.5
 2023,Hong Kong,ndswiki,1,10,5.5
 2023,Hong Kong,nlwiki,1,10,5.5
+2023,Hong Kong,nowiki,1,10,5.5
 2023,Hong Kong,plwiki,1,10,5.5
 2023,Hong Kong,ptwiki,1,10,5.5
 2023,Hong Kong,ruwiki,1,10,5.5
@@ -34135,22 +34489,26 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Hong Kong,viwiki,1,10,5.5
 2023,Hong Kong,wuuwiki,1,10,5.5
 2023,Hong Kong,zh_classicalwiki,1,10,5.5
-2023,Hong Kong,zh_yuewiki,222,240,231.0
-2023,Hong Kong,zhwiki,1612,1630,1621.0
+2023,Hong Kong,zh_yuewiki,192,210,201.0
+2023,Hong Kong,zhwiki,1537,1555,1546.0
+2023,Hungary,aywiki,1,10,5.5
 2023,Hungary,bgwiki,1,10,5.5
 2023,Hungary,cawiki,1,10,5.5
+2023,Hungary,cswiki,1,10,5.5
 2023,Hungary,cywiki,1,10,5.5
 2023,Hungary,dewiki,1,10,5.5
-2023,Hungary,enwiki,182,200,191.0
-2023,Hungary,eowiki,2,20,11.0
+2023,Hungary,enwiki,167,185,176.0
+2023,Hungary,eowiki,1,15,8.0
 2023,Hungary,eswiki,1,10,5.5
 2023,Hungary,fawiki,1,10,5.5
+2023,Hungary,fiwiki,1,10,5.5
 2023,Hungary,frwiki,1,10,5.5
-2023,Hungary,huwiki,692,710,701.0
+2023,Hungary,huwiki,647,665,656.0
 2023,Hungary,idwiki,1,10,5.5
 2023,Hungary,itwiki,1,10,5.5
 2023,Hungary,jawiki,1,10,5.5
 2023,Hungary,kiwiki,1,10,5.5
+2023,Hungary,kkwiki,1,10,5.5
 2023,Hungary,omwiki,1,10,5.5
 2023,Hungary,plwiki,1,10,5.5
 2023,Hungary,ptwiki,1,10,5.5
@@ -34161,26 +34519,31 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Hungary,slwiki,1,10,5.5
 2023,Hungary,sowiki,1,10,5.5
 2023,Hungary,sqwiki,1,10,5.5
+2023,Hungary,srwiki,1,10,5.5
 2023,Hungary,trwiki,1,10,5.5
 2023,Hungary,ukwiki,1,10,5.5
 2023,Hungary,zhwiki,1,10,5.5
 2023,Iceland,cswiki,1,10,5.5
 2023,Iceland,dewiki,1,10,5.5
-2023,Iceland,enwiki,32,50,41.0
+2023,Iceland,enwiki,27,45,36.0
 2023,Iceland,fawiki,1,10,5.5
-2023,Iceland,iswiki,32,50,41.0
+2023,Iceland,iswiki,27,45,36.0
+2023,Iceland,jawiki,1,10,5.5
 2023,Iceland,kuwiki,1,10,5.5
+2023,Iceland,nowiki,1,10,5.5
 2023,Iceland,ruwiki,1,10,5.5
 2023,Iceland,ukwiki,1,10,5.5
 2023,India,abwiki,1,10,5.5
 2023,India,afwiki,1,10,5.5
+2023,India,amwiki,1,10,5.5
 2023,India,arwiki,1,10,5.5
 2023,India,arywiki,1,10,5.5
-2023,India,aswiki,22,40,31.0
+2023,India,aswiki,27,45,36.0
 2023,India,azwiki,1,10,5.5
+2023,India,bewiki,1,10,5.5
 2023,India,bgwiki,1,10,5.5
-2023,India,bhwiki,12,30,21.0
-2023,India,bnwiki,52,70,61.0
+2023,India,bhwiki,7,25,16.0
+2023,India,bnwiki,57,75,66.0
 2023,India,bowiki,1,10,5.5
 2023,India,cawiki,1,10,5.5
 2023,India,cdowiki,1,10,5.5
@@ -34188,112 +34551,143 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,India,cswiki,1,10,5.5
 2023,India,dewiki,1,10,5.5
 2023,India,elwiki,1,10,5.5
-2023,India,enwiki,4842,4860,4851.0
+2023,India,enwiki,4662,4680,4671.0
 2023,India,eswiki,1,10,5.5
 2023,India,fawiki,1,10,5.5
-2023,India,frwiki,2,20,11.0
-2023,India,gomwiki,1,10,5.5
+2023,India,fiwiki,1,10,5.5
+2023,India,fjwiki,1,10,5.5
+2023,India,frwiki,1,15,8.0
+2023,India,gomwiki,1,15,8.0
 2023,India,guwiki,12,30,21.0
 2023,India,hakwiki,1,10,5.5
-2023,India,hifwiki,2,20,11.0
-2023,India,hiwiki,392,410,401.0
+2023,India,hawiki,1,10,5.5
+2023,India,hawwiki,1,10,5.5
+2023,India,hewiki,1,10,5.5
+2023,India,hifwiki,1,15,8.0
+2023,India,hiwiki,362,380,371.0
 2023,India,huwiki,1,10,5.5
+2023,India,hywiki,1,10,5.5
 2023,India,idwiki,1,10,5.5
 2023,India,itwiki,1,10,5.5
 2023,India,jawiki,1,10,5.5
-2023,India,knwiki,102,120,111.0
+2023,India,kmwiki,1,10,5.5
+2023,India,knwiki,72,90,81.0
+2023,India,kowiki,1,10,5.5
 2023,India,kswiki,2,20,11.0
+2023,India,kuwiki,1,10,5.5
 2023,India,lawiki,1,10,5.5
 2023,India,maiwiki,1,10,5.5
-2023,India,mlwiki,72,90,81.0
+2023,India,mlwiki,67,85,76.0
 2023,India,mniwiki,1,10,5.5
-2023,India,mrwiki,52,70,61.0
+2023,India,mrwiki,57,75,66.0
+2023,India,mswiki,1,10,5.5
 2023,India,mywiki,1,10,5.5
 2023,India,napwiki,1,10,5.5
 2023,India,newiki,1,10,5.5
 2023,India,nlwiki,1,10,5.5
+2023,India,nowiki,1,10,5.5
 2023,India,nywiki,1,10,5.5
-2023,India,orwiki,12,30,21.0
-2023,India,pawiki,12,30,21.0
+2023,India,orwiki,7,25,16.0
+2023,India,pawiki,17,35,26.0
 2023,India,piwiki,1,10,5.5
 2023,India,pnbwiki,1,10,5.5
 2023,India,ptwiki,1,10,5.5
 2023,India,rowiki,1,10,5.5
 2023,India,ruwiki,1,10,5.5
 2023,India,rwwiki,1,10,5.5
-2023,India,satwiki,12,30,21.0
-2023,India,sawiki,1,10,5.5
+2023,India,satwiki,7,25,16.0
+2023,India,sawiki,1,15,8.0
+2023,India,scowiki,1,10,5.5
 2023,India,shwiki,1,10,5.5
-2023,India,simplewiki,42,60,51.0
+2023,India,simplewiki,37,55,46.0
 2023,India,sqwiki,1,10,5.5
 2023,India,srwiki,1,10,5.5
 2023,India,svwiki,1,10,5.5
 2023,India,swwiki,1,10,5.5
 2023,India,tawiki,102,120,111.0
-2023,India,tcywiki,1,10,5.5
+2023,India,tcywiki,6,20,13.0
 2023,India,tewiki,62,80,71.0
 2023,India,tlwiki,1,10,5.5
 2023,India,trwiki,1,10,5.5
 2023,India,tswiki,1,10,5.5
 2023,India,urwiki,12,30,21.0
+2023,India,viwiki,1,10,5.5
 2023,India,warwiki,1,10,5.5
-2023,India,zhwiki,1,10,5.5
+2023,India,zhwiki,1,15,8.0
+2023,India,zuwiki,1,10,5.5
 2023,Indonesia,acewiki,1,10,5.5
+2023,Indonesia,afwiki,1,10,5.5
+2023,Indonesia,amwiki,1,10,5.5
+2023,Indonesia,anwiki,1,10,5.5
 2023,Indonesia,arwiki,1,10,5.5
 2023,Indonesia,azwiki,1,10,5.5
-2023,Indonesia,banwiki,12,30,21.0
+2023,Indonesia,banwiki,17,35,26.0
 2023,Indonesia,be_x_oldwiki,1,10,5.5
 2023,Indonesia,bgwiki,1,10,5.5
 2023,Indonesia,bjnwiki,2,20,11.0
 2023,Indonesia,bugwiki,1,10,5.5
 2023,Indonesia,cebwiki,1,10,5.5
-2023,Indonesia,dewiki,2,20,11.0
+2023,Indonesia,cswiki,1,10,5.5
+2023,Indonesia,dewiki,1,15,8.0
 2023,Indonesia,elwiki,1,10,5.5
-2023,Indonesia,enwiki,1112,1130,1121.0
+2023,Indonesia,enwiki,1047,1065,1056.0
 2023,Indonesia,fiwiki,1,10,5.5
 2023,Indonesia,frwiki,1,10,5.5
 2023,Indonesia,gorwiki,1,10,5.5
 2023,Indonesia,hewiki,1,10,5.5
+2023,Indonesia,hiwiki,1,10,5.5
+2023,Indonesia,hrwiki,1,10,5.5
 2023,Indonesia,huwiki,1,10,5.5
-2023,Indonesia,idwiki,2102,2120,2111.0
-2023,Indonesia,itwiki,1,10,5.5
-2023,Indonesia,jawiki,12,30,21.0
-2023,Indonesia,jvwiki,22,40,31.0
+2023,Indonesia,idwiki,2022,2040,2031.0
+2023,Indonesia,igwiki,1,10,5.5
+2023,Indonesia,iswiki,1,10,5.5
+2023,Indonesia,itwiki,1,15,8.0
+2023,Indonesia,jawiki,11,25,18.0
+2023,Indonesia,jvwiki,17,35,26.0
 2023,Indonesia,kowiki,11,20,15.5
-2023,Indonesia,madwiki,12,30,21.0
+2023,Indonesia,lawiki,1,10,5.5
+2023,Indonesia,madwiki,11,25,18.0
 2023,Indonesia,map_bmswiki,1,10,5.5
-2023,Indonesia,minwiki,32,50,41.0
+2023,Indonesia,minwiki,37,55,46.0
 2023,Indonesia,mnwiki,1,10,5.5
-2023,Indonesia,mswiki,82,100,91.0
+2023,Indonesia,mswiki,72,90,81.0
 2023,Indonesia,mtwiki,1,10,5.5
-2023,Indonesia,niawiki,2,20,11.0
+2023,Indonesia,niawiki,1,15,8.0
 2023,Indonesia,nlwiki,1,10,5.5
 2023,Indonesia,nowiki,1,10,5.5
+2023,Indonesia,pawiki,1,10,5.5
+2023,Indonesia,plwiki,1,10,5.5
+2023,Indonesia,ptwiki,1,10,5.5
 2023,Indonesia,ruwiki,1,10,5.5
-2023,Indonesia,simplewiki,12,30,21.0
+2023,Indonesia,simplewiki,7,25,16.0
 2023,Indonesia,sowiki,1,10,5.5
-2023,Indonesia,suwiki,11,20,15.5
+2023,Indonesia,suwiki,21,35,28.0
 2023,Indonesia,svwiki,1,10,5.5
+2023,Indonesia,swwiki,1,10,5.5
+2023,Indonesia,tgwiki,1,10,5.5
 2023,Indonesia,tkwiki,1,10,5.5
 2023,Indonesia,trwiki,1,10,5.5
 2023,Indonesia,uzwiki,1,10,5.5
-2023,Indonesia,zhwiki,11,20,15.5
+2023,Indonesia,viwiki,1,10,5.5
+2023,Indonesia,zhwiki,6,15,10.5
 2023,Ireland,azwiki,1,10,5.5
 2023,Ireland,banwiki,1,10,5.5
 2023,Ireland,cswiki,1,10,5.5
 2023,Ireland,dewiki,2,20,11.0
-2023,Ireland,enwiki,642,660,651.0
+2023,Ireland,enwiki,572,590,581.0
 2023,Ireland,eowiki,1,10,5.5
-2023,Ireland,eswiki,1,10,5.5
+2023,Ireland,eswiki,1,15,8.0
 2023,Ireland,fawiki,1,10,5.5
+2023,Ireland,fiwiki,1,10,5.5
 2023,Ireland,frwiki,2,20,11.0
-2023,Ireland,gawiki,12,30,21.0
+2023,Ireland,gawiki,7,25,16.0
 2023,Ireland,gdwiki,1,10,5.5
 2023,Ireland,gvwiki,1,10,5.5
 2023,Ireland,huwiki,1,10,5.5
 2023,Ireland,idwiki,1,10,5.5
 2023,Ireland,iswiki,1,10,5.5
 2023,Ireland,itwiki,1,10,5.5
+2023,Ireland,jawiki,1,10,5.5
 2023,Ireland,kcgwiki,1,10,5.5
 2023,Ireland,nlwiki,1,10,5.5
 2023,Ireland,plwiki,1,10,5.5
@@ -34301,65 +34695,79 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Ireland,scowiki,1,10,5.5
 2023,Ireland,sdwiki,1,10,5.5
 2023,Ireland,simplewiki,1,10,5.5
+2023,Ireland,skwiki,1,10,5.5
 2023,Ireland,svwiki,1,10,5.5
 2023,Ireland,taywiki,1,10,5.5
+2023,Ireland,trwiki,1,10,5.5
 2023,Ireland,ukwiki,1,10,5.5
+2023,Ireland,urwiki,1,10,5.5
 2023,Ireland,zhwiki,2,20,11.0
 2023,Isle of Man,enwiki,11,20,15.5
+2023,Isle of Man,eswiki,1,10,5.5
 2023,Israel,alswiki,1,10,5.5
+2023,Israel,amwiki,1,10,5.5
 2023,Israel,arwiki,2,20,11.0
 2023,Israel,cswiki,1,10,5.5
 2023,Israel,dewiki,2,20,11.0
-2023,Israel,enwiki,342,360,351.0
-2023,Israel,eowiki,2,20,11.0
-2023,Israel,eswiki,2,20,11.0
+2023,Israel,enwiki,332,350,341.0
+2023,Israel,eowiki,1,15,8.0
+2023,Israel,eswiki,7,25,16.0
 2023,Israel,fiwiki,1,10,5.5
 2023,Israel,frwiki,11,20,15.5
-2023,Israel,hewiki,1982,2000,1991.0
+2023,Israel,hawiki,1,10,5.5
+2023,Israel,hewiki,1812,1830,1821.0
 2023,Israel,huwiki,1,10,5.5
+2023,Israel,hywiki,1,10,5.5
+2023,Israel,hywwiki,1,10,5.5
 2023,Israel,itwiki,1,10,5.5
 2023,Israel,jawiki,1,10,5.5
 2023,Israel,kmwiki,1,10,5.5
 2023,Israel,ladwiki,1,10,5.5
 2023,Israel,nlwiki,1,10,5.5
 2023,Israel,nowiki,2,20,11.0
-2023,Israel,ptwiki,2,20,11.0
+2023,Israel,ocwiki,1,10,5.5
+2023,Israel,plwiki,1,10,5.5
+2023,Israel,ptwiki,1,15,8.0
 2023,Israel,rowiki,2,20,11.0
-2023,Israel,ruwiki,82,100,91.0
+2023,Israel,ruwiki,77,95,86.0
 2023,Israel,rwwiki,1,10,5.5
 2023,Israel,sewiki,1,10,5.5
 2023,Israel,simplewiki,1,10,5.5
 2023,Israel,skwiki,1,10,5.5
 2023,Israel,snwiki,1,10,5.5
 2023,Israel,svwiki,1,10,5.5
-2023,Israel,trwiki,1,10,5.5
+2023,Israel,trwiki,1,15,8.0
 2023,Israel,ukwiki,1,10,5.5
-2023,Israel,yiwiki,12,30,21.0
+2023,Israel,yiwiki,6,20,13.0
 2023,Israel,yowiki,1,10,5.5
-2023,Italy,arwiki,1,10,5.5
+2023,Israel,zhwiki,1,10,5.5
+2023,Italy,amiwiki,1,10,5.5
+2023,Italy,arwiki,1,15,8.0
 2023,Italy,arzwiki,1,10,5.5
+2023,Italy,astwiki,1,10,5.5
 2023,Italy,avkwiki,1,10,5.5
 2023,Italy,azwiki,1,10,5.5
+2023,Italy,bewiki,1,10,5.5
 2023,Italy,bgwiki,2,20,11.0
 2023,Italy,bnwiki,1,10,5.5
 2023,Italy,cawiki,1,10,5.5
 2023,Italy,ckbwiki,1,10,5.5
 2023,Italy,cowiki,1,10,5.5
 2023,Italy,crwiki,1,10,5.5
-2023,Italy,cswiki,1,10,5.5
+2023,Italy,cswiki,1,15,8.0
 2023,Italy,dawiki,1,10,5.5
-2023,Italy,dewiki,52,70,61.0
+2023,Italy,dewiki,42,60,51.0
 2023,Italy,elwiki,1,10,5.5
-2023,Italy,emlwiki,1,10,5.5
-2023,Italy,enwiki,942,960,951.0
-2023,Italy,eowiki,2,20,11.0
-2023,Italy,eswiki,72,90,81.0
+2023,Italy,emlwiki,1,15,8.0
+2023,Italy,enwiki,872,890,881.0
+2023,Italy,eowiki,1,15,8.0
+2023,Italy,eswiki,62,80,71.0
 2023,Italy,etwiki,1,10,5.5
 2023,Italy,euwiki,1,10,5.5
 2023,Italy,fawiki,2,20,11.0
 2023,Italy,fiwiki,1,10,5.5
-2023,Italy,frwiki,82,100,91.0
-2023,Italy,furwiki,11,20,15.5
+2023,Italy,frwiki,72,90,81.0
+2023,Italy,furwiki,6,15,10.5
 2023,Italy,hakwiki,1,10,5.5
 2023,Italy,hewiki,1,10,5.5
 2023,Italy,hiwiki,1,10,5.5
@@ -34367,7 +34775,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Italy,huwiki,1,10,5.5
 2023,Italy,iawiki,1,10,5.5
 2023,Italy,idwiki,1,10,5.5
-2023,Italy,itwiki,6592,6610,6601.0
+2023,Italy,itwiki,6217,6235,6226.0
 2023,Italy,jawiki,1,10,5.5
 2023,Italy,kowiki,1,10,5.5
 2023,Italy,kuwiki,1,10,5.5
@@ -34390,17 +34798,20 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Italy,pmswiki,1,10,5.5
 2023,Italy,pnbwiki,1,10,5.5
 2023,Italy,pswiki,1,10,5.5
-2023,Italy,ptwiki,11,20,15.5
+2023,Italy,ptwiki,6,20,13.0
 2023,Italy,roa_tarawiki,2,20,11.0
-2023,Italy,ruwiki,12,30,21.0
+2023,Italy,rowiki,1,10,5.5
+2023,Italy,ruwiki,17,35,26.0
 2023,Italy,scnwiki,1,10,5.5
+2023,Italy,scowiki,1,10,5.5
 2023,Italy,scwiki,1,10,5.5
-2023,Italy,simplewiki,11,20,15.5
+2023,Italy,simplewiki,6,15,10.5
 2023,Italy,skwiki,1,10,5.5
 2023,Italy,slwiki,2,20,11.0
 2023,Italy,smnwiki,1,10,5.5
 2023,Italy,sowiki,1,10,5.5
 2023,Italy,sqwiki,1,10,5.5
+2023,Italy,srwiki,1,10,5.5
 2023,Italy,svwiki,1,10,5.5
 2023,Italy,tawiki,1,10,5.5
 2023,Italy,tgwiki,1,10,5.5
@@ -34408,12 +34819,15 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Italy,tlwiki,1,10,5.5
 2023,Italy,trwiki,1,10,5.5
 2023,Italy,ukwiki,2,20,11.0
+2023,Italy,uzwiki,1,10,5.5
 2023,Italy,vecwiki,2,20,11.0
 2023,Italy,viwiki,1,10,5.5
 2023,Italy,xalwiki,1,10,5.5
 2023,Italy,xhwiki,1,10,5.5
 2023,Italy,zhwiki,12,30,21.0
-2023,Jamaica,enwiki,22,40,31.0
+2023,Ivory Coast,enwiki,1,10,5.5
+2023,Ivory Coast,frwiki,22,40,31.0
+2023,Jamaica,enwiki,21,35,28.0
 2023,Japan,afwiki,1,10,5.5
 2023,Japan,arwiki,1,10,5.5
 2023,Japan,azbwiki,1,10,5.5
@@ -34421,108 +34835,154 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Japan,bgwiki,1,10,5.5
 2023,Japan,bnwiki,1,10,5.5
 2023,Japan,cawiki,2,20,11.0
+2023,Japan,cebwiki,1,10,5.5
 2023,Japan,crhwiki,1,10,5.5
 2023,Japan,cswiki,1,10,5.5
 2023,Japan,cvwiki,1,10,5.5
 2023,Japan,dawiki,1,10,5.5
-2023,Japan,dewiki,2,20,11.0
-2023,Japan,enwiki,482,500,491.0
+2023,Japan,dewiki,1,15,8.0
+2023,Japan,enwiki,452,470,461.0
 2023,Japan,eowiki,1,10,5.5
-2023,Japan,eswiki,42,60,51.0
+2023,Japan,eswiki,32,50,41.0
+2023,Japan,etwiki,1,10,5.5
 2023,Japan,fawiki,2,20,11.0
 2023,Japan,fiwiki,1,10,5.5
 2023,Japan,frwiki,12,30,21.0
+2023,Japan,gotwiki,1,10,5.5
 2023,Japan,hewiki,1,10,5.5
 2023,Japan,idwiki,1,10,5.5
-2023,Japan,itwiki,12,30,21.0
-2023,Japan,jawiki,9482,9500,9491.0
+2023,Japan,itwiki,11,25,18.0
+2023,Japan,jawiki,8982,9000,8991.0
 2023,Japan,jvwiki,1,10,5.5
-2023,Japan,kowiki,41,50,45.5
-2023,Japan,lawiki,2,20,11.0
+2023,Japan,kowiki,36,50,43.0
+2023,Japan,lawiki,1,15,8.0
+2023,Japan,ltwiki,1,10,5.5
+2023,Japan,mlwiki,1,10,5.5
 2023,Japan,mnwiki,1,10,5.5
 2023,Japan,mswiki,1,10,5.5
 2023,Japan,nlwiki,1,10,5.5
 2023,Japan,nowiki,1,10,5.5
 2023,Japan,oswiki,1,10,5.5
-2023,Japan,ptwiki,2,20,11.0
-2023,Japan,ruwiki,2,20,11.0
+2023,Japan,plwiki,1,10,5.5
+2023,Japan,ptwiki,1,15,8.0
+2023,Japan,rowiki,1,10,5.5
+2023,Japan,ruwiki,6,20,13.0
 2023,Japan,sahwiki,1,10,5.5
 2023,Japan,simplewiki,2,20,11.0
+2023,Japan,slwiki,1,10,5.5
+2023,Japan,srwiki,1,10,5.5
 2023,Japan,svwiki,1,10,5.5
+2023,Japan,tewiki,1,10,5.5
 2023,Japan,thwiki,2,20,11.0
 2023,Japan,tlwiki,1,10,5.5
 2023,Japan,trwiki,1,10,5.5
 2023,Japan,ukwiki,1,10,5.5
 2023,Japan,urwiki,1,10,5.5
 2023,Japan,viwiki,1,10,5.5
-2023,Japan,wuuwiki,1,10,5.5
+2023,Japan,wuuwiki,1,15,8.0
+2023,Japan,zh_classicalwiki,1,10,5.5
 2023,Japan,zh_min_nanwiki,1,10,5.5
 2023,Japan,zh_yuewiki,1,10,5.5
-2023,Japan,zhwiki,182,200,191.0
-2023,Jersey,enwiki,12,30,21.0
+2023,Japan,zhwiki,187,205,196.0
+2023,Jersey,enwiki,7,25,16.0
 2023,Jersey,frwiki,1,10,5.5
-2023,Jordan,arwiki,72,90,81.0
+2023,Jordan,arwiki,62,80,71.0
 2023,Jordan,arzwiki,1,10,5.5
-2023,Jordan,enwiki,22,40,31.0
+2023,Jordan,dewiki,1,10,5.5
+2023,Jordan,enwiki,17,35,26.0
 2023,Jordan,itwiki,1,10,5.5
 2023,Jordan,ruwiki,1,10,5.5
+2023,Jordan,simplewiki,1,10,5.5
+2023,Jordan,sowiki,1,10,5.5
 2023,Jordan,trwiki,1,10,5.5
 2023,Jordan,zh_yuewiki,1,10,5.5
-2023,Kenya,enwiki,91,100,95.5
+2023,Kenya,enwiki,91,105,98.0
+2023,Kenya,fawiki,1,10,5.5
 2023,Kenya,frwiki,1,10,5.5
+2023,Kenya,jawiki,1,10,5.5
 2023,Kenya,kiwiki,1,10,5.5
-2023,Kenya,swwiki,1,10,5.5
+2023,Kenya,ruwiki,1,10,5.5
+2023,Kenya,swwiki,21,30,25.5
+2023,Kosovo,astwiki,1,10,5.5
 2023,Kosovo,bswiki,1,10,5.5
+2023,Kosovo,dewiki,1,10,5.5
 2023,Kosovo,enwiki,32,50,41.0
 2023,Kosovo,eswiki,1,10,5.5
+2023,Kosovo,frpwiki,1,10,5.5
+2023,Kosovo,furwiki,1,10,5.5
+2023,Kosovo,gdwiki,1,10,5.5
+2023,Kosovo,kshwiki,1,10,5.5
+2023,Kosovo,lmowiki,1,10,5.5
+2023,Kosovo,mtwiki,1,10,5.5
+2023,Kosovo,nds_nlwiki,1,10,5.5
+2023,Kosovo,ndswiki,1,10,5.5
+2023,Kosovo,nlwiki,1,10,5.5
+2023,Kosovo,roa_rupwiki,1,10,5.5
+2023,Kosovo,scwiki,1,10,5.5
 2023,Kosovo,sqwiki,12,30,21.0
 2023,Kosovo,srwiki,1,10,5.5
 2023,Kosovo,ukwiki,1,10,5.5
-2023,Kuwait,arwiki,22,40,31.0
+2023,Kosovo,vecwiki,1,10,5.5
+2023,Kosovo,vepwiki,1,10,5.5
+2023,Kosovo,zeawiki,1,10,5.5
+2023,Kuwait,arwiki,17,35,26.0
 2023,Kuwait,arywiki,1,10,5.5
 2023,Kuwait,arzwiki,1,10,5.5
-2023,Kuwait,enwiki,52,70,61.0
+2023,Kuwait,enwiki,42,60,51.0
 2023,Kuwait,mlwiki,1,10,5.5
+2023,Kuwait,newiki,1,10,5.5
+2023,Kuwait,ptwiki,1,10,5.5
+2023,Kuwait,ruwiki,1,10,5.5
 2023,Kuwait,simplewiki,1,10,5.5
-2023,Kyrgyzstan,enwiki,12,30,21.0
-2023,Kyrgyzstan,kywiki,12,30,21.0
-2023,Kyrgyzstan,ruwiki,41,50,45.5
+2023,Kyrgyzstan,enwiki,17,35,26.0
+2023,Kyrgyzstan,kywiki,7,25,16.0
+2023,Kyrgyzstan,ruwiki,36,45,40.5
 2023,Kyrgyzstan,tgwiki,1,10,5.5
 2023,Kyrgyzstan,trwiki,1,10,5.5
 2023,Kyrgyzstan,ukwiki,1,10,5.5
-2023,Kyrgyzstan,uzwiki,2,20,11.0
+2023,Kyrgyzstan,uzwiki,1,15,8.0
 2023,Latvia,avkwiki,1,10,5.5
+2023,Latvia,dawiki,1,10,5.5
 2023,Latvia,dewiki,1,10,5.5
 2023,Latvia,enwiki,42,60,51.0
 2023,Latvia,etwiki,1,10,5.5
 2023,Latvia,fawiki,1,10,5.5
 2023,Latvia,hewiki,1,10,5.5
+2023,Latvia,iswiki,1,10,5.5
 2023,Latvia,itwiki,1,10,5.5
-2023,Latvia,ltwiki,1,10,5.5
-2023,Latvia,lvwiki,122,140,131.0
+2023,Latvia,ltwiki,1,15,8.0
+2023,Latvia,lvwiki,107,125,116.0
 2023,Latvia,napwiki,1,10,5.5
 2023,Latvia,nlwiki,1,10,5.5
+2023,Latvia,plwiki,1,10,5.5
 2023,Latvia,ptwiki,1,10,5.5
-2023,Latvia,ruwiki,22,40,31.0
+2023,Latvia,ruwiki,27,45,36.0
+2023,Latvia,simplewiki,1,10,5.5
 2023,Latvia,ukwiki,1,10,5.5
 2023,Latvia,zhwiki,1,10,5.5
-2023,Lebanon,arwiki,12,30,21.0
-2023,Lebanon,enwiki,42,60,51.0
+2023,Lebanon,arwiki,7,25,16.0
+2023,Lebanon,enwiki,37,55,46.0
 2023,Lebanon,eswiki,1,10,5.5
 2023,Lebanon,frwiki,1,10,5.5
-2023,Lebanon,hywwiki,2,20,11.0
+2023,Lebanon,hywwiki,1,15,8.0
+2023,Lebanon,simplewiki,1,10,5.5
+2023,Lesotho,dewiki,1,10,5.5
 2023,Lesotho,enwiki,1,10,5.5
 2023,Liberia,enwiki,1,10,5.5
+2023,Liberia,kkwiki,1,10,5.5
 2023,Liechtenstein,dewiki,1,10,5.5
 2023,Liechtenstein,enwiki,1,10,5.5
+2023,Liechtenstein,eswiki,1,10,5.5
+2023,Liechtenstein,tcywiki,1,10,5.5
 2023,Lithuania,alswiki,1,10,5.5
+2023,Lithuania,amwiki,1,10,5.5
 2023,Lithuania,anwiki,1,10,5.5
 2023,Lithuania,arwiki,1,10,5.5
 2023,Lithuania,astwiki,1,10,5.5
 2023,Lithuania,azbwiki,1,10,5.5
 2023,Lithuania,azwiki,2,20,11.0
 2023,Lithuania,barwiki,1,10,5.5
-2023,Lithuania,bat_smgwiki,2,20,11.0
+2023,Lithuania,bat_smgwiki,1,15,8.0
 2023,Lithuania,bawiki,1,10,5.5
 2023,Lithuania,be_x_oldwiki,1,10,5.5
 2023,Lithuania,bewiki,1,10,5.5
@@ -34535,8 +34995,9 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Lithuania,cvwiki,1,10,5.5
 2023,Lithuania,cywiki,1,10,5.5
 2023,Lithuania,dawiki,1,10,5.5
-2023,Lithuania,dewiki,2,20,11.0
-2023,Lithuania,enwiki,72,90,81.0
+2023,Lithuania,dewiki,1,15,8.0
+2023,Lithuania,elwiki,1,10,5.5
+2023,Lithuania,enwiki,77,95,86.0
 2023,Lithuania,eowiki,1,10,5.5
 2023,Lithuania,eswiki,2,20,11.0
 2023,Lithuania,etwiki,1,10,5.5
@@ -34549,7 +35010,11 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Lithuania,gdwiki,1,10,5.5
 2023,Lithuania,glwiki,1,10,5.5
 2023,Lithuania,gnwiki,1,10,5.5
+2023,Lithuania,gotwiki,1,10,5.5
 2023,Lithuania,gvwiki,1,10,5.5
+2023,Lithuania,hawiki,1,10,5.5
+2023,Lithuania,hawwiki,1,10,5.5
+2023,Lithuania,hewiki,1,10,5.5
 2023,Lithuania,hrwiki,1,10,5.5
 2023,Lithuania,huwiki,1,10,5.5
 2023,Lithuania,idwiki,1,10,5.5
@@ -34562,9 +35027,10 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Lithuania,kowiki,1,10,5.5
 2023,Lithuania,kuwiki,1,10,5.5
 2023,Lithuania,kywiki,1,10,5.5
+2023,Lithuania,ladwiki,1,10,5.5
 2023,Lithuania,lbwiki,1,10,5.5
 2023,Lithuania,ltwiki,132,150,141.0
-2023,Lithuania,lvwiki,2,20,11.0
+2023,Lithuania,lvwiki,1,15,8.0
 2023,Lithuania,mkwiki,1,10,5.5
 2023,Lithuania,mswiki,1,10,5.5
 2023,Lithuania,mtwiki,1,10,5.5
@@ -34574,7 +35040,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Lithuania,plwiki,1,10,5.5
 2023,Lithuania,ptwiki,1,10,5.5
 2023,Lithuania,rowiki,1,10,5.5
-2023,Lithuania,ruwiki,22,40,31.0
+2023,Lithuania,ruwiki,27,45,36.0
 2023,Lithuania,scowiki,1,10,5.5
 2023,Lithuania,simplewiki,1,10,5.5
 2023,Lithuania,skwiki,1,10,5.5
@@ -34587,54 +35053,67 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Lithuania,trwiki,1,10,5.5
 2023,Lithuania,ukwiki,2,20,11.0
 2023,Lithuania,urwiki,1,10,5.5
+2023,Lithuania,uzwiki,1,10,5.5
 2023,Lithuania,viwiki,1,10,5.5
 2023,Lithuania,vlswiki,1,10,5.5
 2023,Lithuania,zhwiki,1,10,5.5
 2023,Luxembourg,avkwiki,1,10,5.5
+2023,Luxembourg,bgwiki,1,10,5.5
 2023,Luxembourg,cawiki,1,10,5.5
 2023,Luxembourg,cswiki,1,10,5.5
 2023,Luxembourg,dewiki,1,10,5.5
-2023,Luxembourg,enwiki,32,50,41.0
+2023,Luxembourg,enwiki,22,40,31.0
 2023,Luxembourg,eowiki,1,10,5.5
 2023,Luxembourg,eswiki,1,10,5.5
-2023,Luxembourg,etwiki,2,20,11.0
+2023,Luxembourg,etwiki,1,15,8.0
 2023,Luxembourg,fawiki,1,10,5.5
 2023,Luxembourg,frwiki,12,30,21.0
 2023,Luxembourg,glwiki,1,10,5.5
 2023,Luxembourg,hewiki,1,10,5.5
-2023,Luxembourg,itwiki,2,20,11.0
+2023,Luxembourg,itwiki,1,15,8.0
+2023,Luxembourg,jawiki,1,10,5.5
 2023,Luxembourg,lbwiki,12,30,21.0
 2023,Luxembourg,mtwiki,1,10,5.5
 2023,Luxembourg,nlwiki,1,10,5.5
 2023,Luxembourg,ocwiki,1,10,5.5
 2023,Luxembourg,ptwiki,2,20,11.0
 2023,Luxembourg,rowiki,1,10,5.5
+2023,Luxembourg,ruwiki,1,10,5.5
 2023,Luxembourg,simplewiki,1,10,5.5
 2023,Luxembourg,trwiki,1,10,5.5
-2023,Luxembourg,zhwiki,1,10,5.5
+2023,Luxembourg,ukwiki,1,10,5.5
+2023,Luxembourg,zhwiki,1,15,8.0
 2023,Macao,bowiki,1,10,5.5
 2023,Macao,cdowiki,1,10,5.5
 2023,Macao,enwiki,2,20,11.0
+2023,Macao,eswiki,1,10,5.5
+2023,Macao,hakwiki,1,10,5.5
+2023,Macao,jawiki,1,10,5.5
 2023,Macao,ptwiki,1,10,5.5
+2023,Macao,ugwiki,1,10,5.5
+2023,Macao,wuuwiki,1,10,5.5
+2023,Macao,zh_classicalwiki,1,10,5.5
 2023,Macao,zh_yuewiki,1,10,5.5
-2023,Macao,zhwiki,72,90,81.0
-2023,Madagascar,enwiki,1,10,5.5
+2023,Macao,zhwiki,62,80,71.0
+2023,Madagascar,enwiki,1,15,8.0
 2023,Madagascar,frwiki,2,20,11.0
 2023,Madagascar,mgwiki,2,20,11.0
 2023,Malawi,enwiki,1,10,5.5
 2023,Malawi,tumwiki,1,10,5.5
 2023,Malaysia,arwiki,1,10,5.5
 2023,Malaysia,bnwiki,1,10,5.5
-2023,Malaysia,enwiki,612,630,621.0
+2023,Malaysia,elwiki,1,10,5.5
+2023,Malaysia,enwiki,542,560,551.0
 2023,Malaysia,eowiki,1,10,5.5
 2023,Malaysia,eswiki,1,10,5.5
 2023,Malaysia,frwiki,1,10,5.5
+2023,Malaysia,glwiki,2,20,11.0
 2023,Malaysia,hewiki,1,10,5.5
-2023,Malaysia,idwiki,22,40,31.0
+2023,Malaysia,idwiki,17,35,26.0
 2023,Malaysia,itwiki,1,10,5.5
-2023,Malaysia,jawiki,2,20,11.0
+2023,Malaysia,jawiki,1,15,8.0
 2023,Malaysia,kowiki,1,10,5.5
-2023,Malaysia,mswiki,342,360,351.0
+2023,Malaysia,mswiki,352,370,361.0
 2023,Malaysia,nowiki,1,10,5.5
 2023,Malaysia,ptwiki,1,10,5.5
 2023,Malaysia,simplewiki,1,10,5.5
@@ -34642,10 +35121,13 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Malaysia,tawiki,2,20,11.0
 2023,Malaysia,viwiki,1,10,5.5
 2023,Malaysia,zh_yuewiki,1,10,5.5
-2023,Malaysia,zhwiki,222,240,231.0
+2023,Malaysia,zhwiki,217,235,226.0
 2023,Maldives,enwiki,22,40,31.0
 2023,Mali,enwiki,1,10,5.5
 2023,Mali,frwiki,1,10,5.5
+2023,Mali,nqowiki,1,10,5.5
+2023,Malta,dewiki,1,10,5.5
+2023,Malta,elwiki,1,10,5.5
 2023,Malta,enwiki,42,60,51.0
 2023,Malta,eswiki,2,20,11.0
 2023,Malta,fiwiki,1,10,5.5
@@ -34657,19 +35139,24 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Malta,kowiki,1,10,5.5
 2023,Malta,lbwiki,1,10,5.5
 2023,Malta,mswiki,1,10,5.5
-2023,Malta,mtwiki,1,10,5.5
+2023,Malta,mtwiki,1,15,8.0
 2023,Malta,nlwiki,1,10,5.5
 2023,Malta,plwiki,1,10,5.5
 2023,Malta,ptwiki,1,10,5.5
+2023,Malta,slwiki,1,10,5.5
 2023,Malta,sqwiki,1,10,5.5
+2023,Malta,srwiki,1,10,5.5
 2023,Malta,svwiki,1,10,5.5
+2023,Malta,ukwiki,1,10,5.5
+2023,Malta,viwiki,1,10,5.5
 2023,Malta,zhwiki,1,10,5.5
 2023,Marshall Islands,enwiki,1,10,5.5
 2023,Martinique,enwiki,1,10,5.5
 2023,Martinique,eswiki,1,10,5.5
-2023,Martinique,frwiki,2,20,11.0
+2023,Martinique,frwiki,7,25,16.0
 2023,Mauritania,arwiki,2,20,11.0
-2023,Mauritius,enwiki,2,20,11.0
+2023,Mauritius,dewiki,1,10,5.5
+2023,Mauritius,enwiki,12,30,21.0
 2023,Mauritius,fawiki,1,10,5.5
 2023,Mauritius,frwiki,1,10,5.5
 2023,Mayotte,frwiki,1,10,5.5
@@ -34677,11 +35164,12 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Mexico,azwiki,1,10,5.5
 2023,Mexico,cawiki,1,10,5.5
 2023,Mexico,dewiki,1,10,5.5
-2023,Mexico,enwiki,352,370,361.0
+2023,Mexico,enwiki,347,365,356.0
 2023,Mexico,eowiki,1,10,5.5
-2023,Mexico,eswiki,1232,1250,1241.0
+2023,Mexico,eswiki,1197,1215,1206.0
 2023,Mexico,etwiki,1,10,5.5
-2023,Mexico,frwiki,2,20,11.0
+2023,Mexico,euwiki,1,10,5.5
+2023,Mexico,frwiki,7,25,16.0
 2023,Mexico,fywiki,1,10,5.5
 2023,Mexico,glwiki,1,10,5.5
 2023,Mexico,guwwiki,1,10,5.5
@@ -34697,11 +35185,14 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Mexico,lvwiki,1,10,5.5
 2023,Mexico,mgwiki,1,10,5.5
 2023,Mexico,mhrwiki,1,10,5.5
-2023,Mexico,nahwiki,2,20,11.0
+2023,Mexico,mnwiki,1,10,5.5
+2023,Mexico,nahwiki,1,15,8.0
 2023,Mexico,nlwiki,1,10,5.5
 2023,Mexico,nowiki,1,10,5.5
+2023,Mexico,papwiki,1,10,5.5
+2023,Mexico,plwiki,1,10,5.5
 2023,Mexico,pmswiki,1,10,5.5
-2023,Mexico,ptwiki,1,10,5.5
+2023,Mexico,ptwiki,1,15,8.0
 2023,Mexico,ruwiki,1,10,5.5
 2023,Mexico,shwiki,1,10,5.5
 2023,Mexico,simplewiki,1,10,5.5
@@ -34709,7 +35200,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Mexico,sqwiki,1,10,5.5
 2023,Mexico,srwiki,1,10,5.5
 2023,Mexico,swwiki,1,10,5.5
-2023,Mexico,trwiki,1,10,5.5
+2023,Mexico,trwiki,1,15,8.0
 2023,Mexico,viwiki,1,10,5.5
 2023,Mexico,warwiki,1,10,5.5
 2023,Moldova,avkwiki,1,10,5.5
@@ -34719,33 +35210,40 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Moldova,fawiki,1,10,5.5
 2023,Moldova,frwiki,1,10,5.5
 2023,Moldova,hrwiki,1,10,5.5
+2023,Moldova,iswiki,1,10,5.5
+2023,Moldova,kuwiki,1,10,5.5
 2023,Moldova,nlwiki,1,10,5.5
-2023,Moldova,rowiki,32,50,41.0
-2023,Moldova,ruwiki,52,70,61.0
+2023,Moldova,rowiki,27,45,36.0
+2023,Moldova,ruwiki,42,60,51.0
 2023,Moldova,shwiki,1,10,5.5
 2023,Moldova,tlwiki,1,10,5.5
 2023,Moldova,trwiki,1,10,5.5
-2023,Moldova,ukwiki,1,10,5.5
+2023,Moldova,ukwiki,1,15,8.0
 2023,Moldova,zhwiki,1,10,5.5
 2023,Monaco,enwiki,1,10,5.5
 2023,Monaco,frwiki,1,10,5.5
 2023,Mongolia,bxrwiki,1,10,5.5
-2023,Mongolia,enwiki,21,30,25.5
+2023,Mongolia,enwiki,16,25,20.5
+2023,Mongolia,jawiki,1,10,5.5
 2023,Mongolia,mnwiki,12,30,21.0
 2023,Mongolia,myvwiki,1,10,5.5
 2023,Mongolia,ruwiki,1,10,5.5
 2023,Mongolia,zhwiki,1,10,5.5
 2023,Montenegro,azwiki,1,10,5.5
+2023,Montenegro,bswiki,1,10,5.5
 2023,Montenegro,dewiki,1,10,5.5
-2023,Montenegro,enwiki,12,30,21.0
+2023,Montenegro,elwiki,1,10,5.5
+2023,Montenegro,enwiki,11,25,18.0
 2023,Montenegro,eswiki,1,10,5.5
 2023,Montenegro,frwiki,1,10,5.5
 2023,Montenegro,ruwiki,1,10,5.5
 2023,Montenegro,shwiki,1,10,5.5
 2023,Montenegro,sqwiki,1,10,5.5
-2023,Montenegro,srwiki,12,30,21.0
-2023,Morocco,arwiki,82,100,91.0
-2023,Morocco,arywiki,2,20,11.0
+2023,Montenegro,srwiki,7,25,16.0
+2023,Morocco,afwiki,1,10,5.5
+2023,Morocco,altwiki,1,10,5.5
+2023,Morocco,arwiki,77,95,86.0
+2023,Morocco,arywiki,1,15,8.0
 2023,Morocco,arzwiki,1,10,5.5
 2023,Morocco,bewiki,1,10,5.5
 2023,Morocco,bnwiki,1,10,5.5
@@ -34753,39 +35251,64 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Morocco,cswiki,1,10,5.5
 2023,Morocco,dewiki,1,10,5.5
 2023,Morocco,enwiki,72,90,81.0
-2023,Morocco,eswiki,11,20,15.5
-2023,Morocco,frwiki,92,110,101.0
+2023,Morocco,eswiki,6,15,10.5
+2023,Morocco,fiwiki,1,10,5.5
+2023,Morocco,frwiki,77,95,86.0
+2023,Morocco,hewiki,1,10,5.5
 2023,Morocco,idwiki,1,10,5.5
 2023,Morocco,itwiki,1,10,5.5
+2023,Morocco,jawiki,11,20,15.5
 2023,Morocco,kowiki,1,10,5.5
+2023,Morocco,mniwiki,1,10,5.5
+2023,Morocco,mswiki,1,10,5.5
+2023,Morocco,mtwiki,1,10,5.5
 2023,Morocco,nlwiki,1,10,5.5
 2023,Morocco,pnbwiki,1,10,5.5
-2023,Morocco,ruwiki,2,20,11.0
+2023,Morocco,ruwiki,1,15,8.0
 2023,Morocco,shiwiki,2,20,11.0
+2023,Morocco,simplewiki,1,10,5.5
+2023,Morocco,srwiki,1,10,5.5
+2023,Morocco,stwiki,1,10,5.5
+2023,Morocco,svwiki,1,10,5.5
 2023,Morocco,tgwiki,1,10,5.5
 2023,Morocco,tswiki,1,10,5.5
-2023,Morocco,wawiki,2,20,11.0
+2023,Morocco,ukwiki,1,10,5.5
+2023,Morocco,viwiki,1,10,5.5
+2023,Morocco,wawiki,1,15,8.0
+2023,Morocco,zh_yuewiki,1,10,5.5
 2023,Morocco,zhwiki,1,10,5.5
 2023,Mozambique,enwiki,1,10,5.5
-2023,Mozambique,ptwiki,1,10,5.5
+2023,Mozambique,frwiki,1,10,5.5
+2023,Mozambique,ptwiki,6,15,10.5
+2023,Namibia,afwiki,1,10,5.5
 2023,Namibia,dewiki,1,10,5.5
-2023,Namibia,enwiki,11,20,15.5
-2023,Nepal,enwiki,162,180,171.0
+2023,Namibia,enwiki,11,25,18.0
+2023,Nepal,bswiki,1,10,5.5
+2023,Nepal,enwiki,127,145,136.0
 2023,Nepal,fawiki,1,10,5.5
 2023,Nepal,hifwiki,1,10,5.5
 2023,Nepal,hiwiki,1,10,5.5
+2023,Nepal,ltwiki,1,10,5.5
+2023,Nepal,lvwiki,1,10,5.5
 2023,Nepal,maiwiki,1,10,5.5
 2023,Nepal,newiki,12,30,21.0
 2023,Nepal,newwiki,1,10,5.5
-2023,Nepal,simplewiki,1,10,5.5
+2023,Nepal,satwiki,1,10,5.5
+2023,Nepal,sawiki,1,10,5.5
+2023,Nepal,simplewiki,6,15,10.5
+2023,Nepal,uzwiki,1,10,5.5
 2023,Netherlands,afwiki,2,20,11.0
 2023,Netherlands,arwiki,1,10,5.5
 2023,Netherlands,astwiki,1,10,5.5
+2023,Netherlands,azbwiki,2,20,11.0
 2023,Netherlands,azwiki,1,10,5.5
+2023,Netherlands,bat_smgwiki,1,10,5.5
 2023,Netherlands,be_x_oldwiki,1,10,5.5
+2023,Netherlands,bewiki,1,10,5.5
 2023,Netherlands,bgwiki,1,10,5.5
-2023,Netherlands,bnwiki,1,10,5.5
+2023,Netherlands,bnwiki,1,15,8.0
 2023,Netherlands,bswiki,1,10,5.5
+2023,Netherlands,cawiki,2,20,11.0
 2023,Netherlands,cewiki,1,10,5.5
 2023,Netherlands,ckbwiki,1,10,5.5
 2023,Netherlands,crhwiki,1,10,5.5
@@ -34793,17 +35316,18 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Netherlands,cvwiki,1,10,5.5
 2023,Netherlands,cywiki,1,10,5.5
 2023,Netherlands,dawiki,1,10,5.5
-2023,Netherlands,dewiki,42,60,51.0
+2023,Netherlands,dewiki,37,55,46.0
 2023,Netherlands,elwiki,1,10,5.5
-2023,Netherlands,enwiki,772,790,781.0
-2023,Netherlands,eowiki,1,10,5.5
-2023,Netherlands,eswiki,11,20,15.5
+2023,Netherlands,enwiki,682,700,691.0
+2023,Netherlands,eowiki,1,15,8.0
+2023,Netherlands,eswiki,11,25,18.0
 2023,Netherlands,etwiki,1,10,5.5
 2023,Netherlands,euwiki,1,10,5.5
-2023,Netherlands,fawiki,2,20,11.0
+2023,Netherlands,fawiki,6,20,13.0
 2023,Netherlands,fiwiki,1,10,5.5
-2023,Netherlands,frwiki,42,60,51.0
+2023,Netherlands,frwiki,37,55,46.0
 2023,Netherlands,fywiki,2,20,11.0
+2023,Netherlands,hawiki,1,10,5.5
 2023,Netherlands,hewiki,2,20,11.0
 2023,Netherlands,hiwiki,1,10,5.5
 2023,Netherlands,hrwiki,1,10,5.5
@@ -34811,9 +35335,10 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Netherlands,hywiki,1,10,5.5
 2023,Netherlands,hywwiki,1,10,5.5
 2023,Netherlands,idwiki,1,10,5.5
-2023,Netherlands,iowiki,2,20,11.0
+2023,Netherlands,igwiki,1,10,5.5
+2023,Netherlands,iowiki,1,15,8.0
 2023,Netherlands,itwiki,2,20,11.0
-2023,Netherlands,jawiki,2,20,11.0
+2023,Netherlands,jawiki,1,15,8.0
 2023,Netherlands,jvwiki,1,10,5.5
 2023,Netherlands,kowiki,1,10,5.5
 2023,Netherlands,kuwiki,1,10,5.5
@@ -34827,97 +35352,118 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Netherlands,mswiki,1,10,5.5
 2023,Netherlands,mywiki,1,10,5.5
 2023,Netherlands,nds_nlwiki,1,10,5.5
-2023,Netherlands,nlwiki,1332,1350,1341.0
+2023,Netherlands,nlwiki,1262,1280,1271.0
 2023,Netherlands,nowiki,2,20,11.0
 2023,Netherlands,oswiki,1,10,5.5
 2023,Netherlands,papwiki,1,10,5.5
 2023,Netherlands,plwiki,2,20,11.0
-2023,Netherlands,ptwiki,1,10,5.5
+2023,Netherlands,ptwiki,1,15,8.0
 2023,Netherlands,rowiki,2,20,11.0
-2023,Netherlands,ruwiki,12,30,21.0
+2023,Netherlands,ruwiki,17,35,26.0
 2023,Netherlands,sahwiki,1,10,5.5
 2023,Netherlands,shwiki,1,10,5.5
-2023,Netherlands,simplewiki,2,20,11.0
+2023,Netherlands,simplewiki,7,25,16.0
 2023,Netherlands,slwiki,1,10,5.5
+2023,Netherlands,srwiki,1,10,5.5
 2023,Netherlands,stqwiki,1,10,5.5
 2023,Netherlands,svwiki,2,20,11.0
 2023,Netherlands,szlwiki,1,10,5.5
 2023,Netherlands,tgwiki,1,10,5.5
+2023,Netherlands,thwiki,1,10,5.5
 2023,Netherlands,tkwiki,1,10,5.5
 2023,Netherlands,tlwiki,1,10,5.5
 2023,Netherlands,trwiki,2,20,11.0
-2023,Netherlands,ukwiki,22,40,31.0
+2023,Netherlands,ukwiki,17,35,26.0
 2023,Netherlands,urwiki,1,10,5.5
 2023,Netherlands,uzwiki,1,10,5.5
 2023,Netherlands,viwiki,1,10,5.5
 2023,Netherlands,vlswiki,1,10,5.5
 2023,Netherlands,vowiki,1,10,5.5
+2023,Netherlands,warwiki,1,10,5.5
 2023,Netherlands,wawiki,1,10,5.5
-2023,Netherlands,zeawiki,1,10,5.5
+2023,Netherlands,yowiki,1,10,5.5
+2023,Netherlands,zeawiki,1,15,8.0
 2023,Netherlands,zh_min_nanwiki,2,20,11.0
 2023,Netherlands,zh_yuewiki,1,10,5.5
 2023,Netherlands,zhwiki,22,40,31.0
 2023,New Caledonia,enwiki,1,10,5.5
 2023,New Caledonia,frwiki,1,10,5.5
 2023,New Zealand,afwiki,1,10,5.5
+2023,New Zealand,bgwiki,1,10,5.5
 2023,New Zealand,cebwiki,1,10,5.5
 2023,New Zealand,cswiki,1,10,5.5
 2023,New Zealand,dewiki,1,10,5.5
-2023,New Zealand,enwiki,502,520,511.0
+2023,New Zealand,enwiki,467,485,476.0
 2023,New Zealand,eowiki,1,10,5.5
+2023,New Zealand,euwiki,1,10,5.5
 2023,New Zealand,fawiki,1,10,5.5
 2023,New Zealand,frwiki,1,10,5.5
-2023,New Zealand,idwiki,2,20,11.0
+2023,New Zealand,hewiki,1,10,5.5
+2023,New Zealand,idwiki,1,15,8.0
 2023,New Zealand,jawiki,1,10,5.5
 2023,New Zealand,kowiki,1,10,5.5
 2023,New Zealand,miwiki,1,10,5.5
 2023,New Zealand,mkwiki,1,10,5.5
-2023,New Zealand,ruwiki,2,20,11.0
-2023,New Zealand,simplewiki,11,20,15.5
+2023,New Zealand,rowiki,1,10,5.5
+2023,New Zealand,ruwiki,1,15,8.0
+2023,New Zealand,simplewiki,26,35,30.5
 2023,New Zealand,srwiki,1,10,5.5
 2023,New Zealand,warwiki,1,10,5.5
 2023,New Zealand,zh_min_nanwiki,1,10,5.5
 2023,New Zealand,zh_yuewiki,1,10,5.5
 2023,New Zealand,zhwiki,2,20,11.0
 2023,Nicaragua,enwiki,11,20,15.5
-2023,Nicaragua,eswiki,32,50,41.0
+2023,Nicaragua,eswiki,27,45,36.0
+2023,Nicaragua,frwiki,1,10,5.5
 2023,Nicaragua,itwiki,1,10,5.5
+2023,Nicaragua,jawiki,1,10,5.5
 2023,Nicaragua,svwiki,1,10,5.5
 2023,Niger,enwiki,2,20,11.0
+2023,Niger,frwiki,1,10,5.5
 2023,Nigeria,arwiki,2,20,11.0
+2023,Nigeria,dewiki,1,10,5.5
 2023,Nigeria,eewiki,1,10,5.5
-2023,Nigeria,enwiki,352,370,361.0
+2023,Nigeria,enwiki,377,395,386.0
 2023,Nigeria,ffwiki,1,10,5.5
 2023,Nigeria,frwiki,2,20,11.0
-2023,Nigeria,guwwiki,1,10,5.5
-2023,Nigeria,hawiki,52,70,61.0
+2023,Nigeria,guwwiki,1,15,8.0
+2023,Nigeria,hawiki,47,65,56.0
 2023,Nigeria,igwiki,1,10,5.5
 2023,Nigeria,kcgwiki,1,10,5.5
 2023,Nigeria,ptwiki,1,10,5.5
-2023,Nigeria,simplewiki,1,10,5.5
-2023,Nigeria,yowiki,12,30,21.0
+2023,Nigeria,simplewiki,6,15,10.5
+2023,Nigeria,yowiki,17,35,26.0
 2023,North Macedonia,bgwiki,2,20,11.0
-2023,North Macedonia,enwiki,72,90,81.0
+2023,North Macedonia,cswiki,1,10,5.5
+2023,North Macedonia,enwiki,67,85,76.0
+2023,North Macedonia,eswiki,1,10,5.5
 2023,North Macedonia,frwiki,1,10,5.5
 2023,North Macedonia,iswiki,1,10,5.5
 2023,North Macedonia,itwiki,1,10,5.5
-2023,North Macedonia,mkwiki,62,80,71.0
+2023,North Macedonia,jawiki,1,10,5.5
+2023,North Macedonia,mkwiki,57,75,66.0
+2023,North Macedonia,mswiki,1,10,5.5
 2023,North Macedonia,roa_rupwiki,1,10,5.5
 2023,North Macedonia,shwiki,1,10,5.5
 2023,North Macedonia,slwiki,1,10,5.5
 2023,North Macedonia,sqwiki,1,10,5.5
 2023,North Macedonia,srwiki,1,10,5.5
-2023,North Macedonia,trwiki,2,20,11.0
+2023,North Macedonia,svwiki,1,10,5.5
+2023,North Macedonia,trwiki,1,15,8.0
 2023,North Macedonia,zh_min_nanwiki,1,10,5.5
 2023,Northern Mariana Islands,enwiki,1,10,5.5
-2023,Norway,arwiki,2,20,11.0
+2023,Norway,arwiki,1,15,8.0
+2023,Norway,azwiki,1,10,5.5
 2023,Norway,bgwiki,1,10,5.5
+2023,Norway,cewiki,1,10,5.5
 2023,Norway,ckbwiki,1,10,5.5
+2023,Norway,cswiki,1,10,5.5
 2023,Norway,dawiki,1,10,5.5
 2023,Norway,dewiki,1,10,5.5
 2023,Norway,elwiki,1,10,5.5
-2023,Norway,enwiki,252,270,261.0
+2023,Norway,enwiki,247,265,256.0
 2023,Norway,eswiki,1,10,5.5
+2023,Norway,euwiki,1,10,5.5
 2023,Norway,fawiki,2,20,11.0
 2023,Norway,fiwiki,1,10,5.5
 2023,Norway,fowiki,1,10,5.5
@@ -34929,135 +35475,180 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Norway,jawiki,1,10,5.5
 2023,Norway,ltwiki,2,20,11.0
 2023,Norway,lvwiki,1,10,5.5
+2023,Norway,mswiki,1,10,5.5
 2023,Norway,nlwiki,1,10,5.5
-2023,Norway,nnwiki,22,40,31.0
-2023,Norway,nowiki,442,460,451.0
+2023,Norway,nnwiki,17,35,26.0
+2023,Norway,nowiki,407,425,416.0
 2023,Norway,plwiki,2,20,11.0
 2023,Norway,pswiki,1,10,5.5
 2023,Norway,ptwiki,1,10,5.5
 2023,Norway,rowiki,1,10,5.5
 2023,Norway,ruwiki,1,10,5.5
-2023,Norway,simplewiki,41,50,45.5
+2023,Norway,sewiki,1,10,5.5
+2023,Norway,simplewiki,36,45,40.5
 2023,Norway,sowiki,1,10,5.5
 2023,Norway,svwiki,2,20,11.0
-2023,Norway,trwiki,2,20,11.0
+2023,Norway,trwiki,1,15,8.0
 2023,Norway,ukwiki,1,10,5.5
 2023,Norway,zhwiki,1,10,5.5
 2023,Oman,arwiki,2,20,11.0
+2023,Oman,arzwiki,1,10,5.5
 2023,Oman,bgwiki,1,10,5.5
 2023,Oman,dewiki,1,10,5.5
-2023,Oman,enwiki,12,30,21.0
+2023,Oman,enwiki,16,30,23.0
+2023,Oman,frwiki,1,10,5.5
 2023,Oman,kowiki,1,10,5.5
 2023,Oman,mlwiki,1,10,5.5
-2023,Palestine,arwiki,22,40,31.0
-2023,Palestine,enwiki,11,20,15.5
+2023,Oman,trwiki,1,10,5.5
+2023,Palestine,arwiki,17,35,26.0
+2023,Palestine,enwiki,6,15,10.5
+2023,Palestine,eowiki,1,10,5.5
 2023,Palestine,ptwiki,1,10,5.5
 2023,Palestine,quwiki,1,10,5.5
 2023,Palestine,simplewiki,1,10,5.5
+2023,Panama,afwiki,1,10,5.5
+2023,Panama,cebwiki,1,10,5.5
 2023,Panama,enwiki,22,40,31.0
-2023,Panama,eswiki,52,70,61.0
+2023,Panama,eswiki,42,60,51.0
 2023,Panama,frwiki,1,10,5.5
+2023,Panama,itwiki,1,10,5.5
 2023,Panama,simplewiki,1,10,5.5
 2023,Panama,zhwiki,1,10,5.5
-2023,Papua New Guinea,enwiki,1,10,5.5
+2023,Papua New Guinea,enwiki,1,15,8.0
 2023,Paraguay,dewiki,1,10,5.5
-2023,Paraguay,enwiki,12,30,21.0
-2023,Paraguay,eswiki,72,90,81.0
+2023,Paraguay,enwiki,6,20,13.0
+2023,Paraguay,eswiki,67,85,76.0
 2023,Paraguay,frwiki,1,10,5.5
 2023,Paraguay,glwiki,1,10,5.5
 2023,Paraguay,gnwiki,2,20,11.0
-2023,Paraguay,ptwiki,1,10,5.5
+2023,Paraguay,ptwiki,16,25,20.5
 2023,Paraguay,ruwiki,1,10,5.5
+2023,Peru,amwiki,1,10,5.5
 2023,Peru,anwiki,1,10,5.5
 2023,Peru,arwiki,1,10,5.5
 2023,Peru,astwiki,1,10,5.5
+2023,Peru,bat_smgwiki,1,10,5.5
 2023,Peru,bjnwiki,1,10,5.5
+2023,Peru,bowiki,1,10,5.5
+2023,Peru,brwiki,1,10,5.5
 2023,Peru,cawiki,2,20,11.0
+2023,Peru,cebwiki,1,10,5.5
+2023,Peru,cswiki,1,10,5.5
 2023,Peru,dawiki,1,10,5.5
 2023,Peru,dewiki,1,10,5.5
-2023,Peru,enwiki,122,140,131.0
-2023,Peru,eswiki,692,710,701.0
+2023,Peru,enwiki,137,155,146.0
+2023,Peru,eswiki,647,665,656.0
 2023,Peru,euwiki,1,10,5.5
 2023,Peru,frwiki,2,20,11.0
 2023,Peru,fywiki,1,10,5.5
 2023,Peru,glwiki,1,10,5.5
 2023,Peru,hawwiki,1,10,5.5
 2023,Peru,hrwiki,1,10,5.5
+2023,Peru,idwiki,1,10,5.5
 2023,Peru,ilowiki,1,10,5.5
-2023,Peru,itwiki,2,20,11.0
+2023,Peru,itwiki,6,20,13.0
+2023,Peru,iuwiki,1,10,5.5
 2023,Peru,jawiki,1,10,5.5
+2023,Peru,kcgwiki,1,10,5.5
 2023,Peru,ladwiki,1,10,5.5
-2023,Peru,nlwiki,1,10,5.5
+2023,Peru,mwlwiki,1,10,5.5
+2023,Peru,napwiki,1,10,5.5
+2023,Peru,nlwiki,1,15,8.0
 2023,Peru,nowiki,1,10,5.5
 2023,Peru,orwiki,1,10,5.5
 2023,Peru,ptwiki,2,20,11.0
 2023,Peru,quwiki,1,10,5.5
 2023,Peru,rowiki,1,10,5.5
 2023,Peru,ruwiki,1,10,5.5
+2023,Peru,scwiki,1,10,5.5
 2023,Peru,shwiki,1,10,5.5
 2023,Peru,simplewiki,1,10,5.5
+2023,Peru,skwiki,1,10,5.5
+2023,Peru,sqwiki,1,10,5.5
 2023,Peru,srwiki,1,10,5.5
-2023,Peru,tkwiki,22,40,31.0
+2023,Peru,stqwiki,1,10,5.5
+2023,Peru,tkwiki,21,35,28.0
 2023,Peru,ukwiki,1,10,5.5
+2023,Peru,wawiki,1,10,5.5
+2023,Peru,yowiki,1,10,5.5
 2023,Peru,zhwiki,1,10,5.5
 2023,Philippines,afwiki,1,10,5.5
 2023,Philippines,arwiki,1,10,5.5
+2023,Philippines,azwiki,1,10,5.5
 2023,Philippines,bclwiki,2,20,11.0
+2023,Philippines,bnwiki,1,10,5.5
 2023,Philippines,cawiki,1,10,5.5
 2023,Philippines,cbk_zamwiki,1,10,5.5
 2023,Philippines,cebwiki,1,10,5.5
-2023,Philippines,chrwiki,11,20,15.5
+2023,Philippines,chrwiki,6,20,13.0
 2023,Philippines,cswiki,1,10,5.5
+2023,Philippines,dawiki,1,10,5.5
 2023,Philippines,dewiki,1,10,5.5
-2023,Philippines,enwiki,1242,1260,1251.0
+2023,Philippines,elwiki,1,10,5.5
+2023,Philippines,enwiki,1207,1225,1216.0
 2023,Philippines,eswiki,1,10,5.5
 2023,Philippines,fawiki,1,10,5.5
 2023,Philippines,fiwiki,1,10,5.5
-2023,Philippines,frwiki,2,20,11.0
+2023,Philippines,frwiki,1,15,8.0
 2023,Philippines,glwiki,1,10,5.5
 2023,Philippines,guwiki,1,10,5.5
 2023,Philippines,hewiki,1,10,5.5
 2023,Philippines,huwiki,1,10,5.5
+2023,Philippines,hywiki,1,10,5.5
 2023,Philippines,idwiki,1,10,5.5
 2023,Philippines,itwiki,1,10,5.5
 2023,Philippines,jawiki,1,10,5.5
 2023,Philippines,kowiki,1,10,5.5
 2023,Philippines,lbwiki,1,10,5.5
+2023,Philippines,lvwiki,1,10,5.5
 2023,Philippines,mkwiki,1,10,5.5
 2023,Philippines,mlwiki,1,10,5.5
 2023,Philippines,mswiki,1,10,5.5
+2023,Philippines,mywiki,1,10,5.5
+2023,Philippines,newiki,1,10,5.5
+2023,Philippines,nlwiki,1,10,5.5
 2023,Philippines,nowiki,1,10,5.5
+2023,Philippines,pagwiki,1,10,5.5
 2023,Philippines,plwiki,1,10,5.5
 2023,Philippines,ptwiki,1,10,5.5
+2023,Philippines,rowiki,1,10,5.5
 2023,Philippines,ruwiki,1,10,5.5
 2023,Philippines,simplewiki,31,40,35.5
 2023,Philippines,skwiki,1,10,5.5
 2023,Philippines,sqwiki,1,10,5.5
 2023,Philippines,svwiki,1,10,5.5
 2023,Philippines,swwiki,1,10,5.5
-2023,Philippines,tlwiki,32,50,41.0
+2023,Philippines,thwiki,1,10,5.5
+2023,Philippines,tlwiki,42,60,51.0
 2023,Philippines,trwiki,1,10,5.5
 2023,Philippines,ukwiki,1,10,5.5
 2023,Philippines,urwiki,1,10,5.5
+2023,Philippines,uzwiki,1,10,5.5
 2023,Philippines,viwiki,1,10,5.5
 2023,Philippines,warwiki,1,10,5.5
 2023,Philippines,zh_min_nanwiki,1,10,5.5
 2023,Philippines,zhwiki,1,10,5.5
+2023,Poland,afwiki,1,10,5.5
+2023,Poland,amwiki,1,10,5.5
 2023,Poland,arwiki,1,10,5.5
 2023,Poland,azwiki,1,10,5.5
 2023,Poland,be_x_oldwiki,2,20,11.0
 2023,Poland,bewiki,12,30,21.0
 2023,Poland,bgwiki,1,10,5.5
+2023,Poland,bswiki,1,10,5.5
 2023,Poland,cawiki,1,10,5.5
+2023,Poland,cebwiki,1,10,5.5
+2023,Poland,crhwiki,1,10,5.5
 2023,Poland,csbwiki,1,10,5.5
 2023,Poland,cswiki,1,10,5.5
+2023,Poland,cywiki,1,10,5.5
 2023,Poland,dawiki,1,10,5.5
 2023,Poland,dewiki,32,50,41.0
 2023,Poland,dsbwiki,1,10,5.5
 2023,Poland,elwiki,1,10,5.5
-2023,Poland,enwiki,442,460,451.0
+2023,Poland,enwiki,407,425,416.0
 2023,Poland,eowiki,2,20,11.0
-2023,Poland,eswiki,11,20,15.5
+2023,Poland,eswiki,6,15,10.5
 2023,Poland,etwiki,1,10,5.5
 2023,Poland,fawiki,1,10,5.5
 2023,Poland,fiwiki,1,10,5.5
@@ -35068,29 +35659,35 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Poland,hywiki,1,10,5.5
 2023,Poland,idwiki,1,10,5.5
 2023,Poland,iowiki,1,10,5.5
-2023,Poland,itwiki,12,30,21.0
-2023,Poland,jawiki,2,20,11.0
+2023,Poland,itwiki,11,25,18.0
+2023,Poland,jawiki,1,15,8.0
 2023,Poland,kowiki,1,10,5.5
-2023,Poland,ltwiki,1,10,5.5
+2023,Poland,lawiki,1,10,5.5
+2023,Poland,lbwiki,1,10,5.5
+2023,Poland,ltwiki,1,15,8.0
 2023,Poland,lvwiki,1,10,5.5
 2023,Poland,ndswiki,1,10,5.5
 2023,Poland,nlwiki,1,10,5.5
+2023,Poland,nnwiki,1,10,5.5
 2023,Poland,nowiki,1,10,5.5
-2023,Poland,plwiki,2172,2190,2181.0
-2023,Poland,ptwiki,2,20,11.0
+2023,Poland,plwiki,2087,2105,2096.0
+2023,Poland,ptwiki,1,15,8.0
 2023,Poland,rowiki,1,10,5.5
 2023,Poland,ruwiki,52,70,61.0
 2023,Poland,sawiki,1,10,5.5
-2023,Poland,simplewiki,1,10,5.5
+2023,Poland,simplewiki,1,15,8.0
 2023,Poland,skwiki,1,10,5.5
 2023,Poland,slwiki,1,10,5.5
+2023,Poland,smnwiki,1,10,5.5
 2023,Poland,sowiki,1,10,5.5
 2023,Poland,sqwiki,1,10,5.5
+2023,Poland,srwiki,1,10,5.5
 2023,Poland,svwiki,1,10,5.5
 2023,Poland,szlwiki,1,10,5.5
 2023,Poland,trwiki,1,10,5.5
-2023,Poland,ukwiki,72,90,81.0
+2023,Poland,ukwiki,67,85,76.0
 2023,Poland,urwiki,1,10,5.5
+2023,Poland,uzwiki,1,10,5.5
 2023,Poland,viwiki,1,10,5.5
 2023,Poland,vowiki,1,10,5.5
 2023,Poland,warwiki,1,10,5.5
@@ -35105,15 +35702,16 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Portugal,cawiki,1,10,5.5
 2023,Portugal,cebwiki,1,10,5.5
 2023,Portugal,cowiki,1,10,5.5
-2023,Portugal,dewiki,2,20,11.0
+2023,Portugal,dewiki,1,15,8.0
 2023,Portugal,elwiki,1,10,5.5
-2023,Portugal,enwiki,262,280,271.0
+2023,Portugal,enwiki,242,260,251.0
 2023,Portugal,eowiki,1,10,5.5
-2023,Portugal,eswiki,2,20,11.0
+2023,Portugal,eswiki,1,15,8.0
+2023,Portugal,etwiki,1,10,5.5
 2023,Portugal,euwiki,1,10,5.5
 2023,Portugal,fawiki,1,10,5.5
 2023,Portugal,fiwiki,1,10,5.5
-2023,Portugal,frwiki,12,30,21.0
+2023,Portugal,frwiki,7,25,16.0
 2023,Portugal,glwiki,1,10,5.5
 2023,Portugal,hewiki,1,10,5.5
 2023,Portugal,itwiki,1,10,5.5
@@ -35125,7 +35723,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Portugal,nlwiki,1,10,5.5
 2023,Portugal,plwiki,1,10,5.5
 2023,Portugal,pmswiki,1,10,5.5
-2023,Portugal,ptwiki,322,340,331.0
+2023,Portugal,ptwiki,277,295,286.0
 2023,Portugal,ruwiki,1,10,5.5
 2023,Portugal,simplewiki,1,10,5.5
 2023,Portugal,slwiki,1,10,5.5
@@ -35135,100 +35733,113 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Portugal,ukwiki,1,10,5.5
 2023,Portugal,vowiki,1,10,5.5
 2023,Portugal,zh_min_nanwiki,1,10,5.5
-2023,Portugal,zhwiki,1,10,5.5
+2023,Portugal,zhwiki,1,15,8.0
 2023,Puerto Rico,angwiki,1,10,5.5
 2023,Puerto Rico,enwiki,72,90,81.0
 2023,Puerto Rico,eswiki,22,40,31.0
 2023,Puerto Rico,simplewiki,1,10,5.5
-2023,Qatar,arwiki,1,10,5.5
-2023,Qatar,enwiki,31,40,35.5
+2023,Qatar,arwiki,6,15,10.5
+2023,Qatar,enwiki,31,45,38.0
+2023,Qatar,eswiki,1,10,5.5
 2023,Qatar,frwiki,1,10,5.5
 2023,Qatar,idwiki,1,10,5.5
+2023,Qatar,sowiki,1,10,5.5
+2023,Republic of the Congo,enwiki,1,10,5.5
 2023,Republic of the Congo,frwiki,1,10,5.5
 2023,Romania,arwiki,1,10,5.5
+2023,Romania,arywiki,1,10,5.5
 2023,Romania,azbwiki,1,10,5.5
+2023,Romania,bgwiki,1,10,5.5
 2023,Romania,bswiki,1,10,5.5
 2023,Romania,cswiki,1,10,5.5
 2023,Romania,dawiki,1,10,5.5
 2023,Romania,dewiki,2,20,11.0
 2023,Romania,elwiki,1,10,5.5
-2023,Romania,enwiki,252,270,261.0
+2023,Romania,enwiki,242,260,251.0
 2023,Romania,eswiki,1,10,5.5
 2023,Romania,etwiki,1,10,5.5
 2023,Romania,fawiki,1,10,5.5
 2023,Romania,fiwiki,1,10,5.5
-2023,Romania,frwiki,11,20,15.5
-2023,Romania,huwiki,42,60,51.0
+2023,Romania,frwiki,11,25,18.0
+2023,Romania,huwiki,32,50,41.0
 2023,Romania,idwiki,1,10,5.5
 2023,Romania,itwiki,2,20,11.0
 2023,Romania,jawiki,1,10,5.5
+2023,Romania,lnwiki,1,10,5.5
 2023,Romania,mswiki,1,10,5.5
 2023,Romania,nowiki,1,10,5.5
 2023,Romania,plwiki,1,10,5.5
 2023,Romania,ptwiki,1,10,5.5
-2023,Romania,rowiki,342,360,351.0
+2023,Romania,rowiki,337,355,346.0
 2023,Romania,ruwiki,1,10,5.5
 2023,Romania,scowiki,1,10,5.5
-2023,Romania,simplewiki,2,20,11.0
+2023,Romania,simplewiki,1,15,8.0
 2023,Romania,sqwiki,1,10,5.5
+2023,Romania,suwiki,1,10,5.5
 2023,Romania,svwiki,1,10,5.5
 2023,Romania,thwiki,1,10,5.5
 2023,Romania,trwiki,1,10,5.5
 2023,Romania,ukwiki,1,10,5.5
 2023,Romania,uzwiki,1,10,5.5
 2023,Romania,zhwiki,1,10,5.5
-2023,Réunion,enwiki,2,20,11.0
+2023,Réunion,enwiki,1,15,8.0
 2023,Réunion,eowiki,1,10,5.5
-2023,Réunion,frwiki,22,40,31.0
+2023,Réunion,frwiki,17,35,26.0
 2023,Réunion,scowiki,1,10,5.5
 2023,Saint Barthélemy,frwiki,1,10,5.5
 2023,Saint Lucia,enwiki,2,20,11.0
 2023,Saint Pierre and Miquelon,frwiki,1,10,5.5
-2023,Saint Vincent and the Grenadines,enwiki,2,20,11.0
+2023,Saint Vincent and the Grenadines,enwiki,1,15,8.0
 2023,Samoa,enwiki,1,10,5.5
 2023,San Marino,itwiki,2,20,11.0
 2023,Senegal,arwiki,1,10,5.5
-2023,Senegal,enwiki,2,20,11.0
-2023,Senegal,frwiki,11,20,15.5
+2023,Senegal,enwiki,1,15,8.0
+2023,Senegal,frwiki,6,15,10.5
 2023,Serbia,bgwiki,1,10,5.5
-2023,Serbia,bswiki,1,10,5.5
+2023,Serbia,bswiki,1,15,8.0
 2023,Serbia,dawiki,1,10,5.5
 2023,Serbia,dewiki,1,10,5.5
 2023,Serbia,elwiki,1,10,5.5
-2023,Serbia,enwiki,222,240,231.0
+2023,Serbia,enwiki,197,215,206.0
 2023,Serbia,eswiki,1,10,5.5
-2023,Serbia,frwiki,2,20,11.0
+2023,Serbia,frwiki,1,15,8.0
 2023,Serbia,hrwiki,1,10,5.5
-2023,Serbia,huwiki,1,10,5.5
+2023,Serbia,huwiki,1,15,8.0
 2023,Serbia,itwiki,1,10,5.5
 2023,Serbia,kowiki,1,10,5.5
 2023,Serbia,kuwiki,1,10,5.5
 2023,Serbia,mkwiki,1,10,5.5
+2023,Serbia,mswiki,1,10,5.5
 2023,Serbia,rowiki,1,10,5.5
-2023,Serbia,ruwiki,11,20,15.5
+2023,Serbia,ruwiki,11,25,18.0
 2023,Serbia,shwiki,22,40,31.0
 2023,Serbia,simplewiki,1,10,5.5
 2023,Serbia,skwiki,1,10,5.5
-2023,Serbia,slwiki,1,10,5.5
+2023,Serbia,slwiki,1,15,8.0
 2023,Serbia,sqwiki,1,10,5.5
-2023,Serbia,srwiki,392,410,401.0
+2023,Serbia,srwiki,377,395,386.0
 2023,Serbia,svwiki,1,10,5.5
-2023,Serbia,trwiki,2,20,11.0
+2023,Serbia,trwiki,1,15,8.0
 2023,Serbia,ukwiki,1,10,5.5
 2023,Serbia,viwiki,1,10,5.5
+2023,Serbia,zhwiki,1,10,5.5
 2023,Seychelles,enwiki,2,20,11.0
+2023,Seychelles,ruwiki,1,10,5.5
 2023,Seychelles,zhwiki,1,10,5.5
 2023,Sint Maarten,dewiki,1,10,5.5
+2023,Slovakia,azwiki,1,10,5.5
 2023,Slovakia,bgwiki,1,10,5.5
-2023,Slovakia,cswiki,22,40,31.0
-2023,Slovakia,dewiki,2,20,11.0
-2023,Slovakia,enwiki,82,100,91.0
+2023,Slovakia,cswiki,17,35,26.0
+2023,Slovakia,dewiki,1,15,8.0
+2023,Slovakia,enwiki,67,85,76.0
 2023,Slovakia,eowiki,1,10,5.5
 2023,Slovakia,euwiki,1,10,5.5
-2023,Slovakia,frwiki,2,20,11.0
+2023,Slovakia,frwiki,1,15,8.0
 2023,Slovakia,hrwiki,1,10,5.5
 2023,Slovakia,huwiki,2,20,11.0
 2023,Slovakia,itwiki,1,10,5.5
+2023,Slovakia,jawiki,1,10,5.5
+2023,Slovakia,kaawiki,1,10,5.5
 2023,Slovakia,nlwiki,1,10,5.5
 2023,Slovakia,plwiki,1,10,5.5
 2023,Slovakia,ptwiki,1,10,5.5
@@ -35236,7 +35847,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Slovakia,ruwiki,2,20,11.0
 2023,Slovakia,shwiki,1,10,5.5
 2023,Slovakia,simplewiki,1,10,5.5
-2023,Slovakia,skwiki,212,230,221.0
+2023,Slovakia,skwiki,197,215,206.0
 2023,Slovakia,srwiki,1,10,5.5
 2023,Slovakia,trwiki,1,10,5.5
 2023,Slovakia,ukwiki,2,20,11.0
@@ -35249,7 +35860,8 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Slovenia,nowiki,1,10,5.5
 2023,Slovenia,plwiki,1,10,5.5
 2023,Slovenia,ruwiki,1,10,5.5
-2023,Slovenia,slwiki,202,220,211.0
+2023,Slovenia,simplewiki,1,10,5.5
+2023,Slovenia,slwiki,177,195,186.0
 2023,Slovenia,sowiki,1,10,5.5
 2023,Slovenia,srwiki,1,10,5.5
 2023,Slovenia,ukwiki,1,10,5.5
@@ -35257,17 +35869,22 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,South Africa,afwiki,22,40,31.0
 2023,South Africa,arwiki,1,10,5.5
 2023,South Africa,dewiki,1,10,5.5
-2023,South Africa,enwiki,252,270,261.0
+2023,South Africa,enwiki,257,275,266.0
 2023,South Africa,eswiki,1,10,5.5
 2023,South Africa,frwiki,1,10,5.5
 2023,South Africa,hewiki,1,10,5.5
 2023,South Africa,itwiki,1,10,5.5
 2023,South Africa,jawiki,1,10,5.5
+2023,South Africa,kowiki,1,10,5.5
 2023,South Africa,lgwiki,1,10,5.5
 2023,South Africa,nlwiki,1,10,5.5
 2023,South Africa,nywiki,1,10,5.5
-2023,South Africa,ptwiki,1,10,5.5
+2023,South Africa,ptwiki,1,15,8.0
+2023,South Africa,rwwiki,2,20,11.0
+2023,South Africa,simplewiki,1,10,5.5
+2023,South Africa,stwiki,1,10,5.5
 2023,South Africa,svwiki,1,10,5.5
+2023,South Africa,tlwiki,1,10,5.5
 2023,South Africa,tswiki,1,10,5.5
 2023,South Africa,tumwiki,1,10,5.5
 2023,South Africa,zhwiki,1,10,5.5
@@ -35278,92 +35895,114 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,South Korea,dawiki,1,10,5.5
 2023,South Korea,dewiki,1,10,5.5
 2023,South Korea,elwiki,1,10,5.5
-2023,South Korea,enwiki,312,330,321.0
+2023,South Korea,enwiki,292,310,301.0
 2023,South Korea,eswiki,11,20,15.5
 2023,South Korea,fawiki,1,10,5.5
-2023,South Korea,frwiki,1,10,5.5
+2023,South Korea,fiwiki,1,10,5.5
+2023,South Korea,frwiki,1,15,8.0
 2023,South Korea,hewiki,1,10,5.5
+2023,South Korea,hrwiki,1,10,5.5
 2023,South Korea,idwiki,1,10,5.5
 2023,South Korea,itwiki,1,10,5.5
-2023,South Korea,jawiki,62,80,71.0
-2023,South Korea,kowiki,1822,1840,1831.0
+2023,South Korea,jawiki,72,90,81.0
+2023,South Korea,kaawiki,1,10,5.5
+2023,South Korea,kowiki,1742,1760,1751.0
+2023,South Korea,mniwiki,1,10,5.5
 2023,South Korea,mnwiki,1,10,5.5
+2023,South Korea,mswiki,1,10,5.5
+2023,South Korea,mywiki,1,10,5.5
 2023,South Korea,nlwiki,1,10,5.5
-2023,South Korea,plwiki,2,20,11.0
+2023,South Korea,nowiki,1,10,5.5
+2023,South Korea,plwiki,1,15,8.0
 2023,South Korea,ptwiki,1,10,5.5
 2023,South Korea,ruwiki,1,10,5.5
+2023,South Korea,shnwiki,1,10,5.5
+2023,South Korea,simplewiki,1,10,5.5
 2023,South Korea,srwiki,1,10,5.5
 2023,South Korea,svwiki,1,10,5.5
 2023,South Korea,thwiki,1,10,5.5
+2023,South Korea,tlwiki,1,10,5.5
 2023,South Korea,ukwiki,1,10,5.5
 2023,South Korea,urwiki,1,10,5.5
 2023,South Korea,uzwiki,1,10,5.5
 2023,South Korea,viwiki,1,10,5.5
+2023,South Korea,zh_classicalwiki,1,10,5.5
 2023,South Korea,zh_yuewiki,1,10,5.5
-2023,South Korea,zhwiki,62,80,71.0
-2023,South Sudan,enwiki,2,20,11.0
+2023,South Korea,zhwiki,52,70,61.0
+2023,South Sudan,enwiki,1,15,8.0
 2023,Spain,anwiki,2,20,11.0
 2023,Spain,arwiki,1,10,5.5
 2023,Spain,astwiki,2,20,11.0
 2023,Spain,avkwiki,1,10,5.5
-2023,Spain,azwiki,1,10,5.5
+2023,Spain,azwiki,6,15,10.5
 2023,Spain,bewiki,1,10,5.5
 2023,Spain,bgwiki,1,10,5.5
 2023,Spain,bnwiki,1,10,5.5
-2023,Spain,cawiki,492,510,501.0
+2023,Spain,cawiki,462,480,471.0
 2023,Spain,cebwiki,1,10,5.5
 2023,Spain,cswiki,1,10,5.5
+2023,Spain,dawiki,1,10,5.5
 2023,Spain,dewiki,32,50,41.0
 2023,Spain,elwiki,2,20,11.0
-2023,Spain,enwiki,602,620,611.0
+2023,Spain,enwiki,542,560,551.0
 2023,Spain,eowiki,2,20,11.0
-2023,Spain,eswiki,3232,3250,3241.0
+2023,Spain,eswiki,3097,3115,3106.0
 2023,Spain,etwiki,1,10,5.5
-2023,Spain,euwiki,182,200,191.0
+2023,Spain,euwiki,187,205,196.0
 2023,Spain,extwiki,2,20,11.0
 2023,Spain,fawiki,1,10,5.5
 2023,Spain,fiwiki,1,10,5.5
-2023,Spain,frwiki,62,80,71.0
+2023,Spain,frwiki,57,75,66.0
 2023,Spain,glwiki,72,90,81.0
 2023,Spain,gnwiki,1,10,5.5
 2023,Spain,hewiki,1,10,5.5
+2023,Spain,hiwiki,1,10,5.5
+2023,Spain,hrwiki,1,10,5.5
 2023,Spain,huwiki,1,10,5.5
 2023,Spain,idwiki,1,10,5.5
-2023,Spain,itwiki,21,30,25.5
+2023,Spain,itwiki,26,35,30.5
 2023,Spain,jawiki,1,10,5.5
 2023,Spain,kawiki,1,10,5.5
 2023,Spain,kowiki,1,10,5.5
-2023,Spain,kuwiki,2,20,11.0
+2023,Spain,kuwiki,1,15,8.0
+2023,Spain,ladwiki,1,10,5.5
 2023,Spain,lawiki,1,10,5.5
 2023,Spain,mwlwiki,1,10,5.5
-2023,Spain,nlwiki,12,30,21.0
+2023,Spain,nlwiki,7,25,16.0
 2023,Spain,nowiki,1,10,5.5
 2023,Spain,ocwiki,1,10,5.5
-2023,Spain,plwiki,2,20,11.0
-2023,Spain,ptwiki,12,30,21.0
+2023,Spain,plwiki,1,15,8.0
+2023,Spain,ptwiki,11,25,18.0
 2023,Spain,rowiki,1,10,5.5
 2023,Spain,ruwiki,12,30,21.0
 2023,Spain,rwwiki,1,10,5.5
 2023,Spain,sahwiki,1,10,5.5
 2023,Spain,scwiki,1,10,5.5
-2023,Spain,simplewiki,1,10,5.5
+2023,Spain,simplewiki,1,15,8.0
 2023,Spain,skwiki,1,10,5.5
 2023,Spain,slwiki,1,10,5.5
 2023,Spain,srwiki,1,10,5.5
 2023,Spain,svwiki,2,20,11.0
 2023,Spain,thwiki,1,10,5.5
+2023,Spain,tlwiki,1,10,5.5
 2023,Spain,trwiki,1,10,5.5
-2023,Spain,ukwiki,12,30,21.0
+2023,Spain,ukwiki,7,25,16.0
 2023,Spain,viwiki,1,10,5.5
 2023,Spain,vowiki,1,10,5.5
 2023,Spain,zh_yuewiki,1,10,5.5
 2023,Spain,zhwiki,1,10,5.5
-2023,Sri Lanka,enwiki,122,140,131.0
+2023,Sri Lanka,enwiki,112,130,121.0
+2023,Sri Lanka,euwiki,1,10,5.5
+2023,Sri Lanka,itwiki,1,10,5.5
+2023,Sri Lanka,nlwiki,1,10,5.5
 2023,Sri Lanka,ruwiki,1,10,5.5
+2023,Sri Lanka,simplewiki,1,10,5.5
 2023,Sri Lanka,siwiki,12,30,21.0
-2023,Sri Lanka,tawiki,2,20,11.0
+2023,Sri Lanka,tawiki,1,15,8.0
+2023,Suriname,enwiki,1,10,5.5
+2023,Suriname,nlwiki,1,10,5.5
 2023,Sweden,afwiki,1,10,5.5
-2023,Sweden,arwiki,2,20,11.0
+2023,Sweden,arwiki,1,15,8.0
 2023,Sweden,arywiki,1,10,5.5
 2023,Sweden,azwiki,1,10,5.5
 2023,Sweden,be_x_oldwiki,1,10,5.5
@@ -35374,20 +36013,22 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Sweden,ckbwiki,1,10,5.5
 2023,Sweden,cswiki,1,10,5.5
 2023,Sweden,cywiki,1,10,5.5
-2023,Sweden,dawiki,11,20,15.5
+2023,Sweden,dawiki,6,15,10.5
 2023,Sweden,dewiki,11,20,15.5
 2023,Sweden,elwiki,1,10,5.5
-2023,Sweden,enwiki,432,450,441.0
-2023,Sweden,eowiki,2,20,11.0
-2023,Sweden,eswiki,11,20,15.5
-2023,Sweden,etwiki,2,20,11.0
+2023,Sweden,enwiki,427,445,436.0
+2023,Sweden,eowiki,1,15,8.0
+2023,Sweden,eswiki,6,20,13.0
+2023,Sweden,etwiki,1,15,8.0
+2023,Sweden,euwiki,1,10,5.5
 2023,Sweden,fawiki,2,20,11.0
 2023,Sweden,fiwiki,2,20,11.0
-2023,Sweden,frwiki,1,10,5.5
+2023,Sweden,frwiki,6,15,10.5
 2023,Sweden,glwiki,1,10,5.5
+2023,Sweden,hifwiki,1,10,5.5
 2023,Sweden,hiwiki,1,10,5.5
 2023,Sweden,hrwiki,1,10,5.5
-2023,Sweden,huwiki,2,20,11.0
+2023,Sweden,huwiki,1,15,8.0
 2023,Sweden,hywiki,1,10,5.5
 2023,Sweden,idwiki,1,10,5.5
 2023,Sweden,itwiki,1,10,5.5
@@ -35401,10 +36042,11 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Sweden,lvwiki,1,10,5.5
 2023,Sweden,mkwiki,1,10,5.5
 2023,Sweden,mlwiki,1,10,5.5
+2023,Sweden,mnwiki,1,10,5.5
 2023,Sweden,nlwiki,1,10,5.5
-2023,Sweden,nowiki,1,10,5.5
+2023,Sweden,nowiki,1,15,8.0
 2023,Sweden,plwiki,2,20,11.0
-2023,Sweden,ptwiki,1,10,5.5
+2023,Sweden,ptwiki,1,15,8.0
 2023,Sweden,rowiki,1,10,5.5
 2023,Sweden,ruwiki,2,20,11.0
 2023,Sweden,sdwiki,1,10,5.5
@@ -35413,7 +36055,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Sweden,skwiki,1,10,5.5
 2023,Sweden,sqwiki,1,10,5.5
 2023,Sweden,srwiki,1,10,5.5
-2023,Sweden,svwiki,912,930,921.0
+2023,Sweden,svwiki,847,865,856.0
 2023,Sweden,tawiki,1,10,5.5
 2023,Sweden,thwiki,1,10,5.5
 2023,Sweden,trwiki,1,10,5.5
@@ -35427,50 +36069,58 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Sweden,zhwiki,1,10,5.5
 2023,Switzerland,alswiki,2,20,11.0
 2023,Switzerland,arwiki,1,10,5.5
+2023,Switzerland,bewiki,1,10,5.5
 2023,Switzerland,bgwiki,2,20,11.0
 2023,Switzerland,bswiki,1,10,5.5
 2023,Switzerland,cawiki,1,10,5.5
 2023,Switzerland,cswiki,1,10,5.5
-2023,Switzerland,dewiki,422,440,431.0
-2023,Switzerland,elwiki,2,20,11.0
-2023,Switzerland,enwiki,302,320,311.0
+2023,Switzerland,dewiki,397,415,406.0
+2023,Switzerland,elwiki,1,15,8.0
+2023,Switzerland,enwiki,252,270,261.0
 2023,Switzerland,eowiki,1,10,5.5
-2023,Switzerland,eswiki,12,30,21.0
+2023,Switzerland,eswiki,7,25,16.0
 2023,Switzerland,etwiki,1,10,5.5
-2023,Switzerland,fawiki,2,20,11.0
+2023,Switzerland,fawiki,1,15,8.0
 2023,Switzerland,fiwiki,1,10,5.5
-2023,Switzerland,frwiki,282,300,291.0
+2023,Switzerland,frwiki,267,285,276.0
 2023,Switzerland,glwiki,1,10,5.5
+2023,Switzerland,hewiki,1,10,5.5
 2023,Switzerland,hrwiki,1,10,5.5
 2023,Switzerland,huwiki,1,10,5.5
 2023,Switzerland,hywiki,1,10,5.5
 2023,Switzerland,iawiki,1,10,5.5
 2023,Switzerland,iewiki,1,10,5.5
-2023,Switzerland,itwiki,52,70,61.0
+2023,Switzerland,itwiki,47,65,56.0
 2023,Switzerland,jawiki,1,10,5.5
 2023,Switzerland,kuwiki,1,10,5.5
+2023,Switzerland,lldwiki,1,10,5.5
 2023,Switzerland,lnwiki,1,10,5.5
 2023,Switzerland,ltwiki,1,10,5.5
+2023,Switzerland,mkwiki,1,10,5.5
 2023,Switzerland,napwiki,1,10,5.5
 2023,Switzerland,newiki,1,10,5.5
-2023,Switzerland,nlwiki,1,10,5.5
+2023,Switzerland,nlwiki,1,15,8.0
+2023,Switzerland,nowiki,1,10,5.5
 2023,Switzerland,plwiki,1,10,5.5
-2023,Switzerland,ptwiki,2,20,11.0
-2023,Switzerland,ruwiki,11,20,15.5
+2023,Switzerland,ptwiki,1,15,8.0
+2023,Switzerland,quwiki,1,10,5.5
+2023,Switzerland,ruwiki,6,20,13.0
 2023,Switzerland,shwiki,1,10,5.5
-2023,Switzerland,simplewiki,2,20,11.0
-2023,Switzerland,skwiki,11,20,15.5
+2023,Switzerland,simplewiki,1,15,8.0
+2023,Switzerland,skwiki,6,15,10.5
 2023,Switzerland,smnwiki,1,10,5.5
 2023,Switzerland,sqwiki,1,10,5.5
+2023,Switzerland,srwiki,1,10,5.5
 2023,Switzerland,svwiki,1,10,5.5
 2023,Switzerland,trwiki,1,10,5.5
-2023,Switzerland,ukwiki,1,10,5.5
+2023,Switzerland,ukwiki,1,15,8.0
+2023,Switzerland,uzwiki,1,10,5.5
 2023,Switzerland,viwiki,1,10,5.5
 2023,Switzerland,zhwiki,2,20,11.0
 2023,Taiwan,amiwiki,2,20,11.0
 2023,Taiwan,cdowiki,1,10,5.5
 2023,Taiwan,dewiki,1,10,5.5
-2023,Taiwan,enwiki,232,250,241.0
+2023,Taiwan,enwiki,212,230,221.0
 2023,Taiwan,eswiki,1,10,5.5
 2023,Taiwan,fawiki,1,10,5.5
 2023,Taiwan,frwiki,1,10,5.5
@@ -35480,9 +36130,14 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Taiwan,iuwiki,1,10,5.5
 2023,Taiwan,jawiki,72,90,81.0
 2023,Taiwan,kowiki,1,10,5.5
+2023,Taiwan,mswiki,1,10,5.5
+2023,Taiwan,pwnwiki,1,10,5.5
 2023,Taiwan,ruwiki,1,10,5.5
+2023,Taiwan,simplewiki,1,10,5.5
 2023,Taiwan,svwiki,1,10,5.5
-2023,Taiwan,thwiki,1,10,5.5
+2023,Taiwan,szywiki,2,20,11.0
+2023,Taiwan,taywiki,1,10,5.5
+2023,Taiwan,thwiki,1,15,8.0
 2023,Taiwan,trvwiki,2,20,11.0
 2023,Taiwan,trwiki,1,10,5.5
 2023,Taiwan,viwiki,1,10,5.5
@@ -35490,73 +36145,102 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,Taiwan,zh_classicalwiki,1,10,5.5
 2023,Taiwan,zh_min_nanwiki,2,20,11.0
 2023,Taiwan,zh_yuewiki,2,20,11.0
-2023,Taiwan,zhwiki,2772,2790,2781.0
+2023,Taiwan,zhwiki,2607,2625,2616.0
 2023,Tanzania,dagwiki,1,10,5.5
 2023,Tanzania,dewiki,1,10,5.5
 2023,Tanzania,enwiki,22,40,31.0
 2023,Tanzania,frwiki,1,10,5.5
 2023,Tanzania,itwiki,1,10,5.5
-2023,Tanzania,swwiki,12,30,21.0
+2023,Tanzania,swwiki,37,55,46.0
 2023,Togo,eewiki,2,20,11.0
-2023,Togo,enwiki,1,10,5.5
-2023,Togo,frwiki,1,10,5.5
+2023,Togo,enwiki,1,15,8.0
+2023,Togo,frwiki,1,15,8.0
+2023,Togo,nlwiki,1,10,5.5
+2023,Togo,ptwiki,1,10,5.5
+2023,Tonga,enwiki,1,10,5.5
+2023,Tonga,towiki,1,10,5.5
 2023,Trinidad and Tobago,dewiki,1,10,5.5
 2023,Trinidad and Tobago,enwiki,22,40,31.0
 2023,Trinidad and Tobago,eswiki,1,10,5.5
 2023,Trinidad and Tobago,ptwiki,1,10,5.5
 2023,Trinidad and Tobago,simplewiki,1,10,5.5
-2023,Tunisia,arwiki,32,50,41.0
+2023,Tunisia,arwiki,31,45,38.0
+2023,Tunisia,cywiki,1,10,5.5
 2023,Tunisia,dewiki,1,10,5.5
-2023,Tunisia,enwiki,32,50,41.0
+2023,Tunisia,enwiki,37,55,46.0
+2023,Tunisia,eswiki,1,10,5.5
 2023,Tunisia,frwiki,22,40,31.0
 2023,Tunisia,itwiki,1,10,5.5
 2023,Tunisia,ruwiki,1,10,5.5
+2023,Tunisia,trwiki,1,10,5.5
+2023,Tunisia,zhwiki,1,10,5.5
 2023,Turks and Caicos Islands,enwiki,1,10,5.5
-2023,Uganda,enwiki,62,80,71.0
+2023,Uganda,enwiki,51,65,58.0
+2023,Uganda,frwiki,1,10,5.5
 2023,Uganda,lgwiki,1,10,5.5
+2023,Uganda,sowiki,1,10,5.5
 2023,Uganda,swwiki,1,10,5.5
 2023,Uganda,thwiki,1,10,5.5
+2023,Ukraine,abwiki,1,10,5.5
 2023,Ukraine,arwiki,1,10,5.5
+2023,Ukraine,arzwiki,1,10,5.5
+2023,Ukraine,azwiki,1,10,5.5
 2023,Ukraine,bawiki,1,10,5.5
-2023,Ukraine,be_x_oldwiki,1,10,5.5
-2023,Ukraine,bewiki,1,10,5.5
+2023,Ukraine,be_x_oldwiki,1,15,8.0
+2023,Ukraine,bewiki,6,20,13.0
 2023,Ukraine,bgwiki,1,10,5.5
 2023,Ukraine,brwiki,1,10,5.5
-2023,Ukraine,cawiki,1,10,5.5
+2023,Ukraine,cawiki,1,15,8.0
+2023,Ukraine,cewiki,1,10,5.5
 2023,Ukraine,crhwiki,1,10,5.5
 2023,Ukraine,cswiki,1,10,5.5
+2023,Ukraine,cuwiki,1,10,5.5
 2023,Ukraine,dewiki,1,10,5.5
-2023,Ukraine,enwiki,172,190,181.0
-2023,Ukraine,eswiki,2,20,11.0
+2023,Ukraine,elwiki,1,10,5.5
+2023,Ukraine,enwiki,192,210,201.0
+2023,Ukraine,eowiki,1,10,5.5
+2023,Ukraine,eswiki,6,20,13.0
+2023,Ukraine,etwiki,1,10,5.5
 2023,Ukraine,fiwiki,1,10,5.5
 2023,Ukraine,frwiki,1,10,5.5
+2023,Ukraine,glwiki,1,10,5.5
 2023,Ukraine,hewiki,1,10,5.5
 2023,Ukraine,huwiki,1,10,5.5
+2023,Ukraine,hywiki,1,10,5.5
+2023,Ukraine,idwiki,1,10,5.5
 2023,Ukraine,inhwiki,2,20,11.0
 2023,Ukraine,iswiki,1,10,5.5
 2023,Ukraine,itwiki,1,10,5.5
 2023,Ukraine,jawiki,1,10,5.5
 2023,Ukraine,lldwiki,1,10,5.5
+2023,Ukraine,ltwiki,1,10,5.5
+2023,Ukraine,lvwiki,1,10,5.5
 2023,Ukraine,mdfwiki,1,10,5.5
 2023,Ukraine,mkwiki,1,10,5.5
 2023,Ukraine,nlwiki,1,10,5.5
-2023,Ukraine,nowiki,2,20,11.0
+2023,Ukraine,nowiki,1,15,8.0
 2023,Ukraine,plwiki,12,30,21.0
 2023,Ukraine,ptwiki,1,10,5.5
 2023,Ukraine,rowiki,1,10,5.5
 2023,Ukraine,ruewiki,2,20,11.0
-2023,Ukraine,ruwiki,492,510,501.0
+2023,Ukraine,ruwiki,477,495,486.0
 2023,Ukraine,sahwiki,1,10,5.5
-2023,Ukraine,simplewiki,1,10,5.5
+2023,Ukraine,shwiki,1,10,5.5
+2023,Ukraine,simplewiki,1,15,8.0
 2023,Ukraine,slwiki,11,20,15.5
 2023,Ukraine,srwiki,1,10,5.5
+2023,Ukraine,suwiki,1,10,5.5
 2023,Ukraine,svwiki,1,10,5.5
 2023,Ukraine,szlwiki,1,10,5.5
-2023,Ukraine,trwiki,1,10,5.5
-2023,Ukraine,ukwiki,1502,1520,1511.0
+2023,Ukraine,trwiki,1,15,8.0
+2023,Ukraine,ukwiki,1472,1490,1481.0
 2023,Ukraine,uzwiki,1,10,5.5
+2023,Ukraine,vewiki,1,10,5.5
+2023,Ukraine,viwiki,1,10,5.5
 2023,Ukraine,zhwiki,1,10,5.5
+2023,United Kingdom,acewiki,1,10,5.5
 2023,United Kingdom,afwiki,1,10,5.5
+2023,United Kingdom,amiwiki,1,10,5.5
 2023,United Kingdom,amwiki,1,10,5.5
 2023,United Kingdom,angwiki,1,10,5.5
 2023,United Kingdom,arwiki,11,20,15.5
@@ -35565,18 +36249,20 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United Kingdom,azwiki,1,10,5.5
 2023,United Kingdom,be_x_oldwiki,1,10,5.5
 2023,United Kingdom,bewiki,1,10,5.5
-2023,United Kingdom,bgwiki,1,10,5.5
+2023,United Kingdom,bgwiki,6,15,10.5
 2023,United Kingdom,bnwiki,2,20,11.0
+2023,United Kingdom,bswiki,1,10,5.5
 2023,United Kingdom,cawiki,1,10,5.5
 2023,United Kingdom,cebwiki,1,10,5.5
 2023,United Kingdom,cewiki,1,10,5.5
+2023,United Kingdom,chrwiki,1,10,5.5
 2023,United Kingdom,ckbwiki,1,10,5.5
 2023,United Kingdom,cswiki,2,20,11.0
-2023,United Kingdom,cywiki,12,30,21.0
+2023,United Kingdom,cywiki,17,35,26.0
 2023,United Kingdom,dawiki,1,10,5.5
 2023,United Kingdom,dewiki,22,40,31.0
 2023,United Kingdom,elwiki,1,10,5.5
-2023,United Kingdom,enwiki,7872,7890,7881.0
+2023,United Kingdom,enwiki,7352,7370,7361.0
 2023,United Kingdom,eowiki,1,10,5.5
 2023,United Kingdom,eswiki,42,60,51.0
 2023,United Kingdom,etwiki,1,10,5.5
@@ -35585,23 +36271,27 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United Kingdom,frwiki,42,60,51.0
 2023,United Kingdom,gawiki,1,10,5.5
 2023,United Kingdom,gdwiki,1,10,5.5
+2023,United Kingdom,glwiki,1,10,5.5
 2023,United Kingdom,guwiki,1,10,5.5
-2023,United Kingdom,hewiki,2,20,11.0
+2023,United Kingdom,hewiki,7,25,16.0
 2023,United Kingdom,hiwiki,1,10,5.5
+2023,United Kingdom,hrwiki,1,10,5.5
 2023,United Kingdom,huwiki,2,20,11.0
 2023,United Kingdom,idwiki,1,10,5.5
 2023,United Kingdom,iewiki,1,10,5.5
 2023,United Kingdom,iowiki,1,10,5.5
-2023,United Kingdom,itwiki,32,50,41.0
+2023,United Kingdom,itwiki,27,45,36.0
 2023,United Kingdom,jawiki,1,10,5.5
-2023,United Kingdom,kkwiki,1,10,5.5
-2023,United Kingdom,kowiki,1,10,5.5
+2023,United Kingdom,kawiki,1,10,5.5
+2023,United Kingdom,kkwiki,1,15,8.0
+2023,United Kingdom,kowiki,6,15,10.5
 2023,United Kingdom,kwwiki,2,20,11.0
 2023,United Kingdom,lawiki,1,10,5.5
 2023,United Kingdom,ltwiki,2,20,11.0
 2023,United Kingdom,lvwiki,1,10,5.5
 2023,United Kingdom,mkwiki,1,10,5.5
-2023,United Kingdom,mlwiki,2,20,11.0
+2023,United Kingdom,mlwiki,1,15,8.0
+2023,United Kingdom,mnwiki,1,10,5.5
 2023,United Kingdom,mswiki,1,10,5.5
 2023,United Kingdom,mtwiki,1,10,5.5
 2023,United Kingdom,newiki,1,10,5.5
@@ -35611,32 +36301,41 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United Kingdom,nowiki,1,10,5.5
 2023,United Kingdom,plwiki,22,40,31.0
 2023,United Kingdom,pnbwiki,1,10,5.5
-2023,United Kingdom,ptwiki,1,10,5.5
+2023,United Kingdom,ptwiki,1,15,8.0
 2023,United Kingdom,quwiki,1,10,5.5
-2023,United Kingdom,rowiki,2,20,11.0
+2023,United Kingdom,rowiki,1,15,8.0
 2023,United Kingdom,ruwiki,22,40,31.0
 2023,United Kingdom,scowiki,2,20,11.0
 2023,United Kingdom,scwiki,1,10,5.5
-2023,United Kingdom,simplewiki,72,90,81.0
+2023,United Kingdom,shwiki,1,10,5.5
+2023,United Kingdom,simplewiki,77,95,86.0
+2023,United Kingdom,skwiki,1,10,5.5
 2023,United Kingdom,sowiki,2,20,11.0
+2023,United Kingdom,srwiki,1,10,5.5
 2023,United Kingdom,svwiki,12,30,21.0
 2023,United Kingdom,szlwiki,1,10,5.5
 2023,United Kingdom,tawiki,1,10,5.5
-2023,United Kingdom,trwiki,1,10,5.5
-2023,United Kingdom,ukwiki,21,30,25.5
+2023,United Kingdom,tgwiki,1,10,5.5
+2023,United Kingdom,thwiki,1,10,5.5
+2023,United Kingdom,trwiki,1,15,8.0
+2023,United Kingdom,ugwiki,1,10,5.5
+2023,United Kingdom,ukwiki,16,30,23.0
 2023,United Kingdom,urwiki,1,10,5.5
 2023,United Kingdom,uzwiki,1,10,5.5
 2023,United Kingdom,viwiki,1,10,5.5
 2023,United Kingdom,wawiki,1,10,5.5
+2023,United Kingdom,yiwiki,1,10,5.5
 2023,United Kingdom,yowiki,1,10,5.5
-2023,United Kingdom,zh_yuewiki,2,20,11.0
-2023,United Kingdom,zhwiki,122,140,131.0
+2023,United Kingdom,zh_classicalwiki,1,10,5.5
+2023,United Kingdom,zh_yuewiki,1,15,8.0
+2023,United Kingdom,zhwiki,107,125,116.0
 2023,United States,abwiki,1,10,5.5
 2023,United States,acewiki,1,10,5.5
 2023,United States,afwiki,1,10,5.5
+2023,United States,alswiki,1,10,5.5
 2023,United States,altwiki,1,10,5.5
 2023,United States,amiwiki,1,10,5.5
-2023,United States,amwiki,2,20,11.0
+2023,United States,amwiki,1,15,8.0
 2023,United States,angwiki,1,10,5.5
 2023,United States,anwiki,1,10,5.5
 2023,United States,arwiki,22,40,31.0
@@ -35653,53 +36352,56 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United States,bawiki,1,10,5.5
 2023,United States,bclwiki,1,10,5.5
 2023,United States,be_x_oldwiki,1,10,5.5
-2023,United States,bgwiki,1,10,5.5
+2023,United States,bgwiki,1,15,8.0
 2023,United States,bhwiki,1,10,5.5
 2023,United States,bjnwiki,1,10,5.5
-2023,United States,bnwiki,2,20,11.0
+2023,United States,bnwiki,1,15,8.0
 2023,United States,bowiki,1,10,5.5
 2023,United States,brwiki,1,10,5.5
 2023,United States,bswiki,1,10,5.5
 2023,United States,bugwiki,1,10,5.5
 2023,United States,bxrwiki,1,10,5.5
-2023,United States,cawiki,11,20,15.5
+2023,United States,cawiki,6,15,10.5
 2023,United States,cdowiki,1,10,5.5
-2023,United States,cebwiki,2,20,11.0
+2023,United States,cebwiki,1,15,8.0
 2023,United States,cewiki,1,10,5.5
 2023,United States,chrwiki,1,10,5.5
-2023,United States,ckbwiki,1,10,5.5
+2023,United States,ckbwiki,1,15,8.0
+2023,United States,cowiki,1,10,5.5
 2023,United States,crhwiki,1,10,5.5
-2023,United States,crwiki,2,20,11.0
+2023,United States,crwiki,1,15,8.0
 2023,United States,cswiki,2,20,11.0
 2023,United States,cuwiki,1,10,5.5
 2023,United States,cvwiki,1,10,5.5
 2023,United States,cywiki,1,10,5.5
 2023,United States,dagwiki,1,10,5.5
 2023,United States,dawiki,1,10,5.5
-2023,United States,dewiki,52,70,61.0
+2023,United States,dewiki,57,75,66.0
 2023,United States,diqwiki,1,10,5.5
 2023,United States,dsbwiki,1,10,5.5
-2023,United States,eewiki,2,20,11.0
-2023,United States,elwiki,1,10,5.5
+2023,United States,eewiki,1,15,8.0
+2023,United States,elwiki,1,15,8.0
 2023,United States,emlwiki,1,10,5.5
-2023,United States,enwiki,24182,24200,24191.0
-2023,United States,eowiki,1,10,5.5
-2023,United States,eswiki,262,280,271.0
+2023,United States,enwiki,23472,23490,23481.0
+2023,United States,eowiki,1,15,8.0
+2023,United States,eswiki,232,250,241.0
 2023,United States,etwiki,2,20,11.0
+2023,United States,euwiki,1,10,5.5
 2023,United States,extwiki,1,10,5.5
-2023,United States,fawiki,62,80,71.0
+2023,United States,fawiki,57,75,66.0
 2023,United States,ffwiki,1,10,5.5
 2023,United States,fiwiki,1,10,5.5
 2023,United States,fowiki,1,10,5.5
 2023,United States,frrwiki,1,10,5.5
 2023,United States,frwiki,82,100,91.0
-2023,United States,fywiki,2,20,11.0
+2023,United States,fywiki,1,15,8.0
 2023,United States,gawiki,2,20,11.0
 2023,United States,glwiki,1,10,5.5
 2023,United States,gnwiki,1,10,5.5
 2023,United States,gomwiki,1,10,5.5
 2023,United States,guwwiki,1,10,5.5
 2023,United States,gvwiki,1,10,5.5
+2023,United States,hakwiki,1,10,5.5
 2023,United States,hawiki,1,10,5.5
 2023,United States,hawwiki,1,10,5.5
 2023,United States,hewiki,22,40,31.0
@@ -35707,24 +36409,27 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United States,hiwiki,2,20,11.0
 2023,United States,hrwiki,2,20,11.0
 2023,United States,htwiki,1,10,5.5
-2023,United States,huwiki,12,30,21.0
+2023,United States,huwiki,7,25,16.0
 2023,United States,hywiki,2,20,11.0
 2023,United States,hywwiki,1,10,5.5
-2023,United States,idwiki,1,10,5.5
+2023,United States,iawiki,1,10,5.5
+2023,United States,idwiki,6,15,10.5
 2023,United States,ilowiki,1,10,5.5
 2023,United States,inhwiki,1,10,5.5
 2023,United States,iowiki,1,10,5.5
 2023,United States,iswiki,1,10,5.5
 2023,United States,itwiki,32,50,41.0
 2023,United States,iuwiki,1,10,5.5
-2023,United States,jawiki,92,110,101.0
+2023,United States,jawiki,77,95,86.0
 2023,United States,jbowiki,1,10,5.5
 2023,United States,jvwiki,1,10,5.5
 2023,United States,kaawiki,1,10,5.5
 2023,United States,kawiki,1,10,5.5
+2023,United States,kcgwiki,1,10,5.5
 2023,United States,kkwiki,1,10,5.5
 2023,United States,kmwiki,1,10,5.5
-2023,United States,kowiki,42,60,51.0
+2023,United States,knwiki,1,10,5.5
+2023,United States,kowiki,36,50,43.0
 2023,United States,kswiki,1,10,5.5
 2023,United States,kuwiki,1,10,5.5
 2023,United States,kvwiki,1,10,5.5
@@ -35750,26 +36455,27 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United States,mwlwiki,1,10,5.5
 2023,United States,mywiki,2,20,11.0
 2023,United States,mznwiki,1,10,5.5
+2023,United States,nahwiki,1,10,5.5
 2023,United States,ndswiki,1,10,5.5
 2023,United States,newiki,1,10,5.5
 2023,United States,newwiki,1,10,5.5
-2023,United States,nlwiki,11,20,15.5
+2023,United States,nlwiki,11,25,18.0
 2023,United States,nnwiki,1,10,5.5
-2023,United States,nowiki,1,10,5.5
-2023,United States,nvwiki,2,20,11.0
-2023,United States,ocwiki,2,20,11.0
+2023,United States,nowiki,1,15,8.0
+2023,United States,nvwiki,1,15,8.0
+2023,United States,ocwiki,1,15,8.0
 2023,United States,orwiki,1,10,5.5
 2023,United States,oswiki,1,10,5.5
 2023,United States,papwiki,1,10,5.5
 2023,United States,pawiki,1,10,5.5
 2023,United States,piwiki,1,10,5.5
-2023,United States,plwiki,21,30,25.5
+2023,United States,plwiki,11,25,18.0
 2023,United States,pmswiki,1,10,5.5
 2023,United States,pnbwiki,1,10,5.5
-2023,United States,ptwiki,21,30,25.5
+2023,United States,ptwiki,16,30,23.0
 2023,United States,quwiki,1,10,5.5
-2023,United States,rowiki,1,10,5.5
-2023,United States,ruwiki,92,110,101.0
+2023,United States,rowiki,1,15,8.0
+2023,United States,ruwiki,87,105,96.0
 2023,United States,rwwiki,1,10,5.5
 2023,United States,sahwiki,1,10,5.5
 2023,United States,satwiki,1,10,5.5
@@ -35778,19 +36484,20 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United States,sewiki,1,10,5.5
 2023,United States,shiwiki,1,10,5.5
 2023,United States,shwiki,1,10,5.5
-2023,United States,simplewiki,282,300,291.0
+2023,United States,simplewiki,262,280,271.0
 2023,United States,siwiki,1,10,5.5
 2023,United States,skwiki,1,10,5.5
 2023,United States,slwiki,1,10,5.5
 2023,United States,smnwiki,1,10,5.5
 2023,United States,sowiki,1,10,5.5
-2023,United States,sqwiki,2,20,11.0
+2023,United States,sqwiki,1,15,8.0
 2023,United States,srwiki,2,20,11.0
 2023,United States,stqwiki,1,10,5.5
 2023,United States,suwiki,1,10,5.5
 2023,United States,svwiki,12,30,21.0
 2023,United States,swwiki,1,10,5.5
 2023,United States,tawiki,1,10,5.5
+2023,United States,taywiki,1,10,5.5
 2023,United States,tewiki,1,10,5.5
 2023,United States,tgwiki,1,10,5.5
 2023,United States,thwiki,1,10,5.5
@@ -35800,10 +36507,11 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United States,trwiki,12,30,21.0
 2023,United States,ttwiki,1,10,5.5
 2023,United States,ugwiki,1,10,5.5
-2023,United States,ukwiki,32,50,41.0
+2023,United States,ukwiki,27,45,36.0
 2023,United States,urwiki,2,20,11.0
 2023,United States,uzwiki,2,20,11.0
-2023,United States,viwiki,22,40,31.0
+2023,United States,vewiki,1,10,5.5
+2023,United States,viwiki,17,35,26.0
 2023,United States,warwiki,1,10,5.5
 2023,United States,wuuwiki,2,20,11.0
 2023,United States,xhwiki,1,10,5.5
@@ -35811,47 +36519,61 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,United States,yiwiki,1,10,5.5
 2023,United States,yowiki,1,10,5.5
 2023,United States,zh_classicalwiki,1,10,5.5
-2023,United States,zh_yuewiki,2,20,11.0
-2023,United States,zhwiki,472,490,481.0
+2023,United States,zh_min_nanwiki,1,10,5.5
+2023,United States,zh_yuewiki,1,15,8.0
+2023,United States,zhwiki,437,455,446.0
 2023,United States,zuwiki,1,10,5.5
 2023,United States Virgin Islands,enwiki,1,10,5.5
 2023,Uruguay,cawiki,1,10,5.5
 2023,Uruguay,enwiki,22,40,31.0
-2023,Uruguay,eswiki,202,220,211.0
+2023,Uruguay,eswiki,192,210,201.0
 2023,Uruguay,huwiki,1,10,5.5
+2023,Uruguay,itwiki,1,10,5.5
 2023,Uruguay,ptwiki,1,10,5.5
+2023,Uruguay,rmwiki,1,10,5.5
 2023,Vanuatu,enwiki,1,10,5.5
 2023,Zambia,enwiki,12,30,21.0
 2023,Zimbabwe,enwiki,12,30,21.0
+2023,Zimbabwe,hiwiki,1,10,5.5
+2023,Zimbabwe,itwiki,1,10,5.5
+2023,Zimbabwe,mrwiki,1,10,5.5
 2023,unknown,abwiki,1,10,5.5
 2023,unknown,acewiki,1,10,5.5
 2023,unknown,afwiki,1,10,5.5
 2023,unknown,akwiki,1,10,5.5
 2023,unknown,alswiki,1,10,5.5
+2023,unknown,altwiki,1,10,5.5
 2023,unknown,amwiki,1,10,5.5
 2023,unknown,angwiki,1,10,5.5
-2023,unknown,arwiki,1,10,5.5
+2023,unknown,anwiki,1,10,5.5
+2023,unknown,arwiki,1,15,8.0
 2023,unknown,arywiki,1,10,5.5
 2023,unknown,arzwiki,1,10,5.5
+2023,unknown,astwiki,1,10,5.5
 2023,unknown,aswiki,1,10,5.5
 2023,unknown,avkwiki,1,10,5.5
-2023,unknown,azbwiki,1,10,5.5
+2023,unknown,avwiki,1,10,5.5
+2023,unknown,aywiki,1,10,5.5
+2023,unknown,azbwiki,1,15,8.0
 2023,unknown,azwiki,11,20,15.5
 2023,unknown,banwiki,1,10,5.5
 2023,unknown,barwiki,1,10,5.5
 2023,unknown,bat_smgwiki,1,10,5.5
 2023,unknown,bawiki,1,10,5.5
 2023,unknown,bclwiki,1,10,5.5
-2023,unknown,bgwiki,12,30,21.0
+2023,unknown,be_x_oldwiki,1,10,5.5
+2023,unknown,bewiki,1,10,5.5
+2023,unknown,bgwiki,7,25,16.0
 2023,unknown,bhwiki,1,10,5.5
 2023,unknown,bjnwiki,1,10,5.5
-2023,unknown,bnwiki,2,20,11.0
+2023,unknown,bnwiki,12,30,21.0
 2023,unknown,bowiki,1,10,5.5
 2023,unknown,brwiki,1,10,5.5
 2023,unknown,bswiki,1,10,5.5
 2023,unknown,bxrwiki,1,10,5.5
 2023,unknown,cawiki,2,20,11.0
 2023,unknown,cbk_zamwiki,1,10,5.5
+2023,unknown,cdowiki,1,10,5.5
 2023,unknown,cebwiki,1,10,5.5
 2023,unknown,cewiki,1,10,5.5
 2023,unknown,ckbwiki,1,10,5.5
@@ -35867,33 +36589,36 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,dsbwiki,1,10,5.5
 2023,unknown,elwiki,2,20,11.0
 2023,unknown,emlwiki,1,10,5.5
-2023,unknown,enwiki,142,160,151.0
+2023,unknown,enwiki,152,170,161.0
 2023,unknown,eowiki,2,20,11.0
-2023,unknown,eswiki,52,70,61.0
+2023,unknown,eswiki,57,75,66.0
 2023,unknown,etwiki,2,20,11.0
 2023,unknown,euwiki,2,20,11.0
 2023,unknown,extwiki,1,10,5.5
 2023,unknown,fawiki,1,10,5.5
+2023,unknown,ffwiki,1,10,5.5
 2023,unknown,fiu_vrowiki,1,10,5.5
 2023,unknown,fiwiki,1,10,5.5
+2023,unknown,fjwiki,1,10,5.5
 2023,unknown,fowiki,1,10,5.5
 2023,unknown,frpwiki,1,10,5.5
 2023,unknown,frrwiki,1,10,5.5
 2023,unknown,frwiki,2,20,11.0
+2023,unknown,furwiki,1,10,5.5
 2023,unknown,fywiki,1,10,5.5
 2023,unknown,ganwiki,1,10,5.5
 2023,unknown,gawiki,1,10,5.5
 2023,unknown,gdwiki,1,10,5.5
-2023,unknown,glwiki,1,10,5.5
+2023,unknown,glwiki,1,15,8.0
 2023,unknown,gnwiki,1,10,5.5
 2023,unknown,gorwiki,1,10,5.5
 2023,unknown,guwiki,1,10,5.5
 2023,unknown,gvwiki,1,10,5.5
 2023,unknown,hakwiki,1,10,5.5
-2023,unknown,hawiki,1,10,5.5
+2023,unknown,hawiki,1,15,8.0
 2023,unknown,hewiki,2,20,11.0
 2023,unknown,hifwiki,1,10,5.5
-2023,unknown,hiwiki,2,20,11.0
+2023,unknown,hiwiki,6,20,13.0
 2023,unknown,hrwiki,1,10,5.5
 2023,unknown,hsbwiki,1,10,5.5
 2023,unknown,htwiki,1,10,5.5
@@ -35908,40 +36633,51 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,iowiki,1,10,5.5
 2023,unknown,iswiki,1,10,5.5
 2023,unknown,itwiki,2,20,11.0
+2023,unknown,iuwiki,1,10,5.5
 2023,unknown,jawiki,2,20,11.0
 2023,unknown,jvwiki,1,10,5.5
 2023,unknown,kaawiki,1,10,5.5
-2023,unknown,kawiki,1,10,5.5
+2023,unknown,kabwiki,1,10,5.5
+2023,unknown,kawiki,6,15,10.5
+2023,unknown,kbdwiki,1,10,5.5
 2023,unknown,kkwiki,1,10,5.5
 2023,unknown,kmwiki,1,10,5.5
-2023,unknown,knwiki,2,20,11.0
+2023,unknown,knwiki,1,15,8.0
 2023,unknown,kowiki,1,10,5.5
+2023,unknown,kshwiki,1,10,5.5
 2023,unknown,kswiki,1,10,5.5
 2023,unknown,kuwiki,1,10,5.5
 2023,unknown,kvwiki,1,10,5.5
 2023,unknown,kwwiki,1,10,5.5
 2023,unknown,kywiki,1,10,5.5
+2023,unknown,ladwiki,1,10,5.5
 2023,unknown,lawiki,1,10,5.5
+2023,unknown,lbwiki,1,10,5.5
 2023,unknown,lezwiki,1,10,5.5
+2023,unknown,lfnwiki,1,10,5.5
+2023,unknown,lgwiki,1,10,5.5
 2023,unknown,lijwiki,1,10,5.5
 2023,unknown,liwiki,1,10,5.5
 2023,unknown,lldwiki,1,10,5.5
 2023,unknown,lmowiki,1,10,5.5
+2023,unknown,lnwiki,1,10,5.5
 2023,unknown,lowiki,1,10,5.5
 2023,unknown,ltwiki,2,20,11.0
-2023,unknown,lvwiki,2,20,11.0
+2023,unknown,lvwiki,6,20,13.0
+2023,unknown,madwiki,1,10,5.5
 2023,unknown,maiwiki,1,10,5.5
 2023,unknown,map_bmswiki,1,10,5.5
 2023,unknown,mdfwiki,1,10,5.5
 2023,unknown,mgwiki,1,10,5.5
 2023,unknown,mhrwiki,1,10,5.5
 2023,unknown,minwiki,1,10,5.5
+2023,unknown,miwiki,1,10,5.5
 2023,unknown,mkwiki,1,10,5.5
-2023,unknown,mlwiki,2,20,11.0
+2023,unknown,mlwiki,1,15,8.0
 2023,unknown,mniwiki,1,10,5.5
 2023,unknown,mnwiki,1,10,5.5
-2023,unknown,mrwiki,1,10,5.5
-2023,unknown,mswiki,2,20,11.0
+2023,unknown,mrwiki,1,15,8.0
+2023,unknown,mswiki,6,20,13.0
 2023,unknown,mtwiki,1,10,5.5
 2023,unknown,mwlwiki,1,10,5.5
 2023,unknown,myvwiki,1,10,5.5
@@ -35949,6 +36685,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,mznwiki,1,10,5.5
 2023,unknown,nahwiki,1,10,5.5
 2023,unknown,napwiki,1,10,5.5
+2023,unknown,nds_nlwiki,1,10,5.5
 2023,unknown,ndswiki,1,10,5.5
 2023,unknown,newiki,1,10,5.5
 2023,unknown,newwiki,1,10,5.5
@@ -35959,11 +36696,14 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,nvwiki,1,10,5.5
 2023,unknown,nywiki,1,10,5.5
 2023,unknown,ocwiki,1,10,5.5
-2023,unknown,orwiki,1,10,5.5
+2023,unknown,omwiki,1,10,5.5
+2023,unknown,orwiki,1,15,8.0
 2023,unknown,oswiki,1,10,5.5
+2023,unknown,pagwiki,1,10,5.5
 2023,unknown,papwiki,1,10,5.5
-2023,unknown,pawiki,1,10,5.5
+2023,unknown,pawiki,1,15,8.0
 2023,unknown,pcdwiki,1,10,5.5
+2023,unknown,pdcwiki,1,10,5.5
 2023,unknown,piwiki,1,10,5.5
 2023,unknown,plwiki,2,20,11.0
 2023,unknown,pnbwiki,1,10,5.5
@@ -35985,9 +36725,10 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,scwiki,1,10,5.5
 2023,unknown,sdwiki,1,10,5.5
 2023,unknown,shiwiki,1,10,5.5
+2023,unknown,shnwiki,1,10,5.5
 2023,unknown,shwiki,1,10,5.5
 2023,unknown,simplewiki,2,20,11.0
-2023,unknown,siwiki,1,10,5.5
+2023,unknown,siwiki,1,15,8.0
 2023,unknown,skwiki,12,30,21.0
 2023,unknown,slwiki,2,20,11.0
 2023,unknown,smnwiki,1,10,5.5
@@ -35999,22 +36740,28 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,svwiki,2,20,11.0
 2023,unknown,swwiki,1,10,5.5
 2023,unknown,szlwiki,1,10,5.5
-2023,unknown,tawiki,1,10,5.5
+2023,unknown,tawiki,6,20,13.0
 2023,unknown,tcywiki,1,10,5.5
+2023,unknown,tetwiki,1,10,5.5
 2023,unknown,tewiki,1,10,5.5
+2023,unknown,tgwiki,1,10,5.5
 2023,unknown,thwiki,1,10,5.5
 2023,unknown,tkwiki,1,10,5.5
 2023,unknown,tlwiki,1,10,5.5
-2023,unknown,trwiki,1,10,5.5
+2023,unknown,towiki,1,10,5.5
+2023,unknown,trwiki,1,15,8.0
 2023,unknown,tswiki,1,10,5.5
 2023,unknown,ttwiki,1,10,5.5
 2023,unknown,tumwiki,1,10,5.5
 2023,unknown,twwiki,1,10,5.5
+2023,unknown,udmwiki,1,10,5.5
+2023,unknown,ugwiki,1,10,5.5
 2023,unknown,ukwiki,2,20,11.0
 2023,unknown,urwiki,2,20,11.0
 2023,unknown,uzwiki,1,10,5.5
 2023,unknown,vecwiki,1,10,5.5
 2023,unknown,vepwiki,1,10,5.5
+2023,unknown,vewiki,1,10,5.5
 2023,unknown,viwiki,12,30,21.0
 2023,unknown,vlswiki,1,10,5.5
 2023,unknown,vowiki,1,10,5.5
@@ -36028,7 +36775,7 @@ year,country,wiki,lower_bound,upper_bound,mean
 2023,unknown,zh_classicalwiki,1,10,5.5
 2023,unknown,zh_min_nanwiki,1,10,5.5
 2023,unknown,zh_yuewiki,1,10,5.5
-2023,unknown,zhwiki,32,50,41.0
+2023,unknown,zhwiki,22,40,31.0
 2023,unknown,zuwiki,1,10,5.5
 2023,Åland Islands,enwiki,1,10,5.5
 2023,Åland Islands,svwiki,1,10,5.5

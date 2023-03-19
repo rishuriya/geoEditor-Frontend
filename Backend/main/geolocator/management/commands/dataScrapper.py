@@ -2,9 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.request
 import pandas as pd
-from ...models import GeoData
+from ...models import GeoData, LastUpdated
 from django.core.management.base import BaseCommand
 import os
+from django.utils import timezone
 
 class Command(BaseCommand):
     help = 'Perform my periodic task'
@@ -54,3 +55,7 @@ class Command(BaseCommand):
                 value=item['mean']
             )
             obj.save()
+        last_updated = LastUpdated(last_updated=timezone.now())
+
+        # save the instance to the database
+        last_updated.save()

@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework import viewsets, response, request
 from rest_framework.decorators import api_view
-from .models import GeoData
+from .models import GeoData, LastUpdated
 from .serializer import GeoDataSerializer
 
 class GeoDataViewSet(viewsets.ModelViewSet):
@@ -16,6 +16,7 @@ def getGeoData(request):
     wiki, country, year = request.GET.get('wiki'), request.GET.get('country'), request.GET.get('year')
     print(wiki,"",country,"",year)
     data = GeoData.objects.all()
+    last_updated = LastUpdated.objects.last()
     if wiki=="All" and country=="All" and year=="All":
         data = GeoData.objects.all()
     elif wiki=="All" and country=="All":
@@ -33,6 +34,7 @@ def getGeoData(request):
     else:
         data = GeoData.objects.filter(wiki=wiki, country=country, year=year)
     serializer = GeoDataSerializer(data, many=True)
+    serializer.data[0]["last_updated"]=last_updated.last_updated
     return response.Response(serializer.data)
 
     

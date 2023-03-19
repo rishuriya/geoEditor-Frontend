@@ -12,3 +12,9 @@ class GeoData(models.Model):
 
     def __str__(self):
         return self.country
+    
+class LastUpdated(models.Model):
+    last_updated = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return self.last_updated

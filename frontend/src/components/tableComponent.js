@@ -23,7 +23,7 @@ function RowComponent(props) {
 
 
 
-export default function TableComponent({ data }) {
+export default function TableComponent({ data,LastUpdate }) {
   const [currentPage, setCurrentPage] = useState(0);
   const ROWS_PER_PAGE = 10;
   const offset = currentPage * ROWS_PER_PAGE;
@@ -31,10 +31,18 @@ export default function TableComponent({ data }) {
   const handlePageClick = ({ selected: selectedPage }) => {
     setCurrentPage(selectedPage);
   };
+  const dateTime = new Date(LastUpdate);
+  const formattedDateTime = dateTime.toLocaleString('en-US', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    hour12: true,
+  });
 
   const pageCount = Math.ceil(data.length / ROWS_PER_PAGE);
   const paginatedData = data.slice(offset, offset + ROWS_PER_PAGE);
-
   if(data.length === 0){
     return (
       <div className="w-10/12 h-[800px] mx-auto ">
@@ -107,6 +115,13 @@ export default function TableComponent({ data }) {
             activeClassName={'px-3 py-1 bg-teal-500 text-white rounded-md'}
           />
         </div>
+        <div className="bg-slate-200 rounded-md">
+          <div className="font-light text-l px-2 m-2 pt-3 pb-3">
+            <div className="flex h-full">
+              <p>Last Updated on {formattedDateTime} </p>
+          </div>
+          </div>
+          </div>
       </div>
   
     );
