@@ -6,7 +6,7 @@ import TableComponent from './tableComponent'
 export default function GeoLocator() {
 
   // let api_url = 'http://127.0.0.1:8000/api/getGeoData/?wiki=All&year=2023&country=India'
-  let api_url = 'http://127.0.0.1:8000/api/'
+  let api_url = 'https://geoeditior.toolforge.org/api/'
 
   const [wiki, setWiki] = React.useState('All')
   const [year, setYear] = React.useState('All')
