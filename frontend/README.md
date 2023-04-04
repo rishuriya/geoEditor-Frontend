@@ -1,1 +1,0 @@
-# Wiki GeoLocator Frontend
